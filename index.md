@@ -10,7 +10,7 @@ tagline: free and open disability measurement tools
           <li><a href="{{ BASE_PATH }}/about">about</a></li>
           <li><a href="{{ BASE_PATH }}/measures">measures</a></li>
           <li><a href="{{ BASE_PATH }}/contribute">contribute</a></li>
-          <li><a href="{{ BASE_PATH }}/news">news</a></li>
+          <li><a href="{{ BASE}}/news">news</a></li>
           <li><a href="{{ BASE_PATH }}/contact">contact</a></li>
       </ul>
   </div>
