@@ -1,6 +1,7 @@
 ---
 layout: page
 title: News
+category: news
 ---
 
 ### We've moved!
