@@ -1,3 +1,6 @@
+---
+title: News
+---
 
 ### We've moved!
 June 2015
