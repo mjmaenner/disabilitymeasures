@@ -23,5 +23,5 @@ A [poster/handout](http://www.waisman.wisc.edu/family/wadl/W-ADL%20poster%20cita
 **Link to measure:**
 [Waisman Lifespan Family Research Program:](http://www.waisman.wisc.edu/family/wadl/)
 
-Corrections or updates? Let us know!
+Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
 
