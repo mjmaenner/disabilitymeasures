@@ -16,12 +16,12 @@ A poster/handout of the main findings of the paper is also available.  Another p
 **Language:** English, but each item is only a few words. Please contact the authors if you are interested in contributing a translated version of the W-ADL.
 
 **Authors and Citation:**
-Maenner MJ, Smith LE, Hong J, Makuch R, Greenberg J, Mailick MR. An Evaluation of an Activities of Daily Living Scale for Adolescents and Adults with Developmental Disabilities. Disability and Health Journal. 2013 Jan;6(1):8-17
+[Maenner MJ, Smith LE, Hong J, Makuch R, Greenberg J, Mailick MR. An Evaluation of an Activities of Daily Living Scale for Adolescents and Adults with Developmental Disabilities. Disability and Health Journal. 2013 Jan;6(1):8-17](http://www.waisman.wisc.edu/family/pubs/W-ADL/2012EvaluationADLScaleForAdolescents.pdf)
 
 **Licence:** Creative Commons Attribution-ShareAlike 3.0 Unported License (others are free to use, copy, and modify the W-ADL.  Any modifications must credit the original and be made available under the same license.
 
 **Link to measure:**
-Waisman Lifespan Family Research Program: http://www.waisman.wisc.edu/family/wadl/
+Waisman Lifespan Family Research Program: (http://www.waisman.wisc.edu/family/wadl/)
 
 Corrections or updates? Let us know!
 
