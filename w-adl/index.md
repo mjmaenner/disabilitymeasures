@@ -9,9 +9,9 @@ tags: measures
 
 **Target Population:** Adolescents and adults with intellectual or developmental disabilities (including autism, Down syndrome, fragile X syndrome, and intellectual disability of unknown etiology).
 
-**Measurement properties and previous use:** The measurement properties of the W-ADL weresystematically evaluated (paper) in long-running longitudinal studies of adolescents and adults with Autism, Down syndrome, fragile X syndrome, and intellectual disability of unknown etiology.  The evaluation found that the W-ADL met or exceeded a-priori thresholds for content validity, internal consistency, criterion validity, construct validity, reproducibility, responsiveness, floor/ceiling effects, and interpretability.
+**Measurement properties and previous use:** The measurement properties of the W-ADL were systematically evaluated ([paper](http://www.waisman.wisc.edu/family/pubs/W-ADL/2012EvaluationADLScaleForAdolescents.pdf)) in long-running longitudinal studies of adolescents and adults with Autism, Down syndrome, fragile X syndrome, and intellectual disability of unknown etiology.  The evaluation found that the W-ADL met or exceeded a-priori thresholds for content validity, internal consistency, criterion validity, construct validity, reproducibility, responsiveness, floor/ceiling effects, and interpretability.
 
-A poster/handout of the main findings of the paper is also available.  Another paper examining longitudinal change in W-ADL scores for individuals with autism and Down syndrome can be found here.
+A [poster/handout](http://www.waisman.wisc.edu/family/wadl/W-ADL%20poster%20citation.pdf) of the main findings of the paper is also available.  Another paper examining longitudinal change in W-ADL scores for individuals with autism and Down syndrome can be found [here](http://www.waisman.wisc.edu/family/pubs/Autism/2012-DevelopmentalTrajectoriesAdolescentsAndAdultWithAutism.pdf).
 
 **Language:** English, but each item is only a few words. Please contact the authors if you are interested in contributing a translated version of the W-ADL.
 
@@ -21,7 +21,7 @@ A poster/handout of the main findings of the paper is also available.  Another p
 **Licence:** Creative Commons Attribution-ShareAlike 3.0 Unported License (others are free to use, copy, and modify the W-ADL.  Any modifications must credit the original and be made available under the same license.
 
 **Link to measure:**
-Waisman Lifespan Family Research Program: (http://www.waisman.wisc.edu/family/wadl/)
+[Waisman Lifespan Family Research Program:](http://www.waisman.wisc.edu/family/wadl/)
 
 Corrections or updates? Let us know!
 
