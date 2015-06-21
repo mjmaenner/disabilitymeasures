@@ -5,7 +5,7 @@ description:
 tags: measures
 ---
 
-**Type of Measure:**   (Via [CFCS Materials](http://cfcs.us/wp-content/uploads/2014/02/CFCS_universal_2012_06_06.pdf)) The purpose of the CFCS is to classify the everyday communication performance of an individual into one of five levels. The CFCS focuses on activity and participation levels as described in the World Health Organization’s (WHO) International Classification of Functioning, Disability, and Health (ICF).  This measure is analogous and complementary to the [GMFCS](https://mjmaenner.github.io/disabilitymeasures/gmfcs) and [MACS](https://mjmaenner.github.io/disabilitymeasures/macs).
+**Type of Measure:**   (Via [CFCS Materials](http://cfcs.us/wp-content/uploads/2014/02/CFCS_universal_2012_06_06.pdf)) The purpose of the CFCS is to classify the everyday communication performance of an individual into one of five levels. The CFCS focuses on activity and participation levels as described in the World Health Organization’s (WHO) International Classification of Functioning, Disability, and Health (ICF).  This measure is analogous and complementary to the [GMFCS](http://disabilitymeasures.org/gmfcs) and [MACS](http://disabilitymeasures.org/macs).
 
 **Target Population:** [communicated by author] children with communication disorders, originally just with cerebral palsy but more recently with children who do not have communication disorder. 
 
@@ -21,6 +21,6 @@ Himmelmann K, Lindh K, Hidecker MJC. (2013) Communication ability in cerebral pa
 
 **Licence:** [via author communication] Free to use for clinical, education, and research purposes. People are not allowed to modify the measure.
 
-**Link to measure:** [Authors' website](http://www.disabilitymeasures.org/wp-admin/www.cfcs.us)
+**Link to measure:** [Authors' website](http://www.cfcs.us)
 
-Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
