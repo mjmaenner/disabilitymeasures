@@ -19,6 +19,9 @@ If you have a measure in mind that fits the [inclusion criteria](https://mjmaenn
 *  Fill out this [form](https://docs.google.com/forms/d/1t1tDr09eW1zcmMjHf5aa6-RcL7hlP4a2kAlKh82ZnA8/viewform) to the best of your knowledge. We can't post it if we don't have enough information to know that it qualifies.
 *  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
 
+#### You created a new measure and you want people to use it  
+If you created a new measures that meets the criteria above, we would be happy to work with you to disseminate your measure on disabilitymeasures.org. If you don't have a website to host the measure or materials, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) and we can host it directly.
+
 #### A post needs to be updated, there was a typo, or a link isn't working
 *  Do a pull request on [github](https://github.com/mjmaenner/disabilitymeasures). Each measure is in its own sub-folder
 *  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
