@@ -13,4 +13,4 @@ description: freely-available measures
 
 ####Do you know of a measure that should be here? [It only takes a few seconds to let us know.](https://mjmaenner.github.io/disabilitymeasures/contribute)
 
-#####We also track [measures that failed](https://mjmaenner.github.io/disabilitymeasures/donotqualify.html) to meet our [inclusion criteria](https://mjmaenner.github.io/disabilitymeasures/criteria).
+#####We also track [measures that failed](https://mjmaenner.github.io/disabilitymeasures/pages/donotqualify.html) to meet our [inclusion criteria](https://mjmaenner.github.io/disabilitymeasures/criteria).
