@@ -1,4 +1,9 @@
 
+---
+layout: page
+title: Our to-do list
+description:
+---
 
 ## Measures that are (or might be) freely available and should be evaluated for inclusion: ##
 
