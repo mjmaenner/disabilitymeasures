@@ -11,12 +11,16 @@ We are now using [github pages](https://www.pages.github.com). The site should l
 
 Thanks to Karl Broman for his [simple site](https://www.kbroman.org/simple_site) tutorial, which was a huge help.
 
+<br>
+
 ### DisabilityMeasures.org mentioned in SFARI news article!
 September 2013
 
 A bit slow to post this, but we were mentioned in an article by Sarah DeWeerdt about improving the availability autism diagnostic tools on the SFARI news site. The article gives a great overview of the situation and the problems with proprietary tools; it was later republished at Scientific American.
 
 And in general site news, we'll be adding more measures soon.
+
+<br>
 
 ### Maureen Durkin: The Epidemiology of Autism Spectrum Disorder: Toward a More Inclusive World
 May 2013
