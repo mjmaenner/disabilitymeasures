@@ -35,7 +35,7 @@ If you created a new measures that meets the criteria above, we would be happy t
 <br>
 
 #### You're willing to investigate a measure for us
-We keep a "to-do" list for measures that appear to meet our criteria, but we haven't gotten around to evaluating them and writing up a summary.  You can get started right away by [choosing a measure from this list](https://github.com/mjmaenner/disabilitymeasurs/pages/measurestoadd.html) and using [our template](https://github.com/mjmaenner/disabilitymeasures/blob/gh-pages/pages/generic_measure.md).
+We keep a "to-do" list for measures that appear to meet our criteria, but we haven't gotten around to evaluating them and writing up a summary.  You can get started right away by [choosing a measure from this list](https://github.com/mjmaenner/disabilitymeasures/pages/measurestoadd.html) and using [our template](https://github.com/mjmaenner/disabilitymeasures/blob/gh-pages/pages/generic_measure.md).
 
 <br>
 
