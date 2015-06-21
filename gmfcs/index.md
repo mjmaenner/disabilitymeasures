@@ -38,4 +38,4 @@ Palisano, R., Rosenbaum, P., Walter, S., Russell, D., Wood, E., & Galuppi, B. (1
 
 [GMFCS web page](http://www.canchild.ca/en/measures/gmfcs.asp)
 
-Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
