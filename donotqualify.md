@@ -11,8 +11,8 @@ If you believe that one of these measures does actually qualify, please [let us 
 
 Measure Name | reason 
 --- | --- 
-Ages and Stages Questionnaire | non-free
-Asperger Syndrome Diagnostic Scale | non-free
+Ages and Stages Questionnaire (ASQ) | non-free
+Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
 ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition | non-free
@@ -23,12 +23,15 @@ Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
-Gilliam Autism Rating Scale (GARS) | non-free
+Gilliam Asperger's Disorder Scale (GADS) | non-free
+Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Infant Development Inventory (IDI) | non-free
-Parents' Evaluation of Developmental Status | non-free
+Krug Asperger Disorder Index (KADI) | non-free
+Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
+Parents' Evaluation of Developmental Status (PEDS) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Social Communications Questionnaire (SCQ) | non-free
-Social Responsiveness Scale | non-free
-Vineland Scales of Adaptive behavior | non-free
+Social Responsiveness Scale (SRS, SRS-2) | non-free
+Vineland Scales of Adaptive Behavior | non-free
 
