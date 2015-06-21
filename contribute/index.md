@@ -5,7 +5,7 @@ description:
 ---
 
 ### We need your help
-It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  We welcome help in several areas: 
+It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  You can help us out in several ways:
 
 <br>
 
@@ -34,6 +34,11 @@ If you created a new measures that meets the criteria above, we would be happy t
 
 <br>
 
+#### You're willing to investigate a measure for us
+We keep a "to-do" list for measures that appear to meet our criteria, but we haven't gotten around to evaluating them and writing up a summary.  You can get started right away by [choosing a measure from this list](https://github.com/mjmaenner/disabilitymeasurs/pages/measurestoadd.html) and using [our template](https://github.com/mjmaenner/disabilitymeasures/blob/gh-pages/pages/generic_measure.md).
+
+<br>
+
 #### Help with the website
-We're running on [github pages](pages.github.com) to make our efforts as open and collaborative as possible. Feel free to submit pull requests that will help us out.  Alternately, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) if you want ot run something past us.
+We're running on [github pages](pages.github.com) to make our efforts as open and collaborative as possible. Feel free to submit pull requests that will help us out.  For example, we'd love to have working page tags. Alternately, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) if you have other ideas.
 
