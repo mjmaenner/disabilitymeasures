@@ -30,4 +30,4 @@ A study by [Andersen et al](http://www.ncbi.nlm.nih.gov/pubmed/21327833) describ
 
 **Link to measure:** [Ritvo et al. article in PubMed Central](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134766/) (Measure is included in this paper) [Authors' web page for RAADS-R](http://rivaariellaritvo.com/raads/)
 
-Corrections or updates? [Let us know!](https://mjmaenner.github.io/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
