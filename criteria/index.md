@@ -1,8 +1,7 @@
 ---
 layout: page
-title: Measure inclusion criteria
+title: Inclusion criteria for DisabilityMeasures.org
 description:
 tags: measures
 ---
 
-placeholder
