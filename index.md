@@ -1,7 +1,7 @@
 ---
 layout: page
 title: DisabilityMeasures.org
-tagline: free and open disability measurement tools
+tagline: 
 ---
 
 <div class="navbar">
@@ -15,6 +15,8 @@ tagline: free and open disability measurement tools
       </ul>
   </div>
 </div>
+
+Free and Open Disability Measurement Tools
 
 Our goal is to improve the global accessibility of open-access measurement tools for assessment, screening, and research concerning individuals with disabilities. We’re building a clearinghouse and a collaborative platform to make it easier to find and use freely-available tools.
 
