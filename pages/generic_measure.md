@@ -19,4 +19,4 @@ tags: measures
 
 **Link to measure:**
 
-Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
