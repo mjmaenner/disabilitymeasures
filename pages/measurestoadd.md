@@ -21,3 +21,4 @@ QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
 Resource/lists:
 http://www.txautism.net/uploads/target/AutismScreen_Assess.pdf
+http://www.autismresearchcentre.com/arc_tests/
