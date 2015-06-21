@@ -3,8 +3,11 @@ layout: page
 title: About DisabilityMeasures.org
 ---
 
-Our goal is to improve the global accessibility of open-access measurement tools for assessment, screening, and research concerning individuals with disabilities. We’re building a clearinghouse and a collaborative platform to make it easier to find and use freely-available tools.
+We want to make it easy to find and share free and high-quality disability measurement tools. 
 
-One of the barriers to research on disability, particularly in low-resource settings, is the lack of free and high-quality screening tools and instruments.  Typically, proprietary measures are available under a license that requires a payment each time the measure is used. These licenses can become prohibitively expensive, and they limit our ability to share information and work together.
+[fig of open science models]
 
-We are providing an alternative to the current proprietary model by creating a centralized location for people to find and evaluate freely-available measurement tools
+[our goals]
+Although we use [objective criteria](https://mjmaenner.github.io/disabilitymeasures/criteria) to decide what measures belong on DisabilityMeasures.org, we do not (at present) provide recommendations about what tools should be used in a given setting.  
+
+[why do this?]
