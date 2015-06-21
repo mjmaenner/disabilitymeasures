@@ -14,7 +14,7 @@ We think there is a similar opportunity for disability measurement tools and int
 <br>
 
 ##### Good for authors, too
-There's no shortage of measurement tools and intruments, and a (depressingly large) proportion exist in obscurity. If you create a new instrument, it will be difficult to convince others to switch from the existing "gold standard".  However, there are quite a few more proprietary measures](http://disabilitymeasures.org/pages/donotqualify.html) than [free measures](http://disabilitymeasures.org/measures), and yet, some of the most popular tools are made available for free ([GMFCS](http://disabilitymeasures.org/gmfcs), [Ten Questions](http://disabilitymeasures.org/tenquestions), [M-CHAT](http://disabilitymeasures.org/m-chat)).  The recognition for creating a widely-used tool could be worth more than a fraction of the royalties paid to the publishing company.  
+There's no shortage of measurement tools and intruments, and a (depressingly large) proportion exist in obscurity. If you create a new instrument, it will be difficult to convince others to switch from the existing "gold standard".  However, there are quite a few more [proprietary measures](http://disabilitymeasures.org/pages/donotqualify.html) than [free measures](http://disabilitymeasures.org/measures), and yet, some of the most popular instruments are available for free ([GMFCS](http://disabilitymeasures.org/gmfcs), [Ten Questions](http://disabilitymeasures.org/tenquestions), [M-CHAT](http://disabilitymeasures.org/m-chat)).  The recognition for creating a widely-used tool could be worth more than a fraction of the royalties paid to the publishing company.  
 
 <br>
 
