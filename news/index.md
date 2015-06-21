@@ -23,10 +23,10 @@ May 2013
 
 Maureen Durkin recently gave a keynote at IMFAR 2013, in which she advocated for greater global collaboration and barrier-free measures and screening tools.
 
-She has made the slides available to everyone:
-Maureen Durkin: "The Epidemiology of Autism Spectrum Disorder: Toward a More Inclusive World" [PDF]
+She has made the slides available to everyone:  
+[Maureen Durkin: "The Epidemiology of Autism Spectrum Disorder: Toward a More Inclusive World" [PDF]](https://github.com/mjmaenner/disabilitymeasures/raw/gh-pages/assets/Durkin_IMFAR05042013.pdf)
 
-Some reactions to her talk:
-[Francesca Happe, President of INSAR](http://sfari.org/sfari-community/community-blog/2013/reactions-from-imfar)
-[Michael Rosanoff, Autism Speaks](http://www.autismspeaks.org/blog/2013/05/08/understanding-autism-toward-more-inclusive-world)
+Some reactions to her talk:  
+[Francesca Happe, President of INSAR](http://sfari.org/sfari-community/community-blog/2013/reactions-from-imfar)  
+[Michael Rosanoff, Autism Speaks](http://www.autismspeaks.org/blog/2013/05/08/understanding-autism-toward-more-inclusive-world)  
 [Jon Brock, Macquarie University](http://crackingtheenigma.blogspot.com/2013/05/the-epidemiology-of-autism-spectrum.html)
