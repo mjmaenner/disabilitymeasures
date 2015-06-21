@@ -16,21 +16,21 @@ If there's a freely-available measure that isn't currently listed (and not on th
   3.  Relevant to disability   
   4.  Used or evaluated in peer-reviewed study or respectable technical report/white paper  
 
-If you have a measure in mind that fits the [inclusion criteria](https://mjmaenner.github.io/disabilitymeasures/criteria) and is not currently [listed](https://mjmaenner.github.io/disabilitymeasures/measures) or [deemed ineligible](https://mjmaenner.github.io/disabilitymeasures/pages/donotqualify.html), there are three ways to tell us:  
+If you have a measure in mind that fits the [inclusion criteria](http://disabilitymeasures.org/criteria) and is not currently [listed](http://disabilitymeasures.org/measures) or [deemed ineligible](http://disabilitymeasures.org/pages/donotqualify.html), there are three ways to tell us:  
 *  (best option) Create the page yourself on [github](https://github.com/mjmaenner/disabilitymeasures). Each measure has its own sub-folder, and you can use [generic_measure.md](https://github.com/mjmaenner/disabilitymeasures/blob/gh-pages/pages/generic_measure.md) as a template 
 *  Fill out this [form](https://docs.google.com/forms/d/1t1tDr09eW1zcmMjHf5aa6-RcL7hlP4a2kAlKh82ZnA8/viewform) to the best of your knowledge. We can't post it if we don't have enough information to know that it qualifies.
-*  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
+*  [email us](http://disabilitymeasures.org/contact)
 
 <br>
 
 #### You created a new measure and you want people to use it  
-If you created a new measures that meets the criteria above, we would be happy to work with you to disseminate your measure on disabilitymeasures.org. If you don't have a website to host the measure or materials, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) and we can host it directly.
+If you created a new measures that meets the criteria above, we would be happy to work with you to disseminate your measure on disabilitymeasures.org. If you don't have a website to host the measure or materials, [email us](http://disabilitymeasures.org/contact) and we can host it directly.
 
 <br>
 
 #### A post needs to be updated, there was a typo, or a link isn't working
 *  Do a pull request on [github](https://github.com/mjmaenner/disabilitymeasures). Each measure is in its own sub-folder
-*  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
+*  [email us](http://disabilitymeasures.org/contact)
 
 <br>
 
