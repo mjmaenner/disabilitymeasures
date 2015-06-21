@@ -3,7 +3,7 @@ layout: page
 title: Contact Information
 ---
 
-####DisabilityMeasures is maintened by Matthew Maenner, PhD  
+####DisabilityMeasures is maintained by Matthew Maenner, PhD  
 email: maenner[at]gmail[dot]com
  
 <br>
