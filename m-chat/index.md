@@ -41,4 +41,4 @@ The authors place several restrictions on the use of the M-CHAT™ and M-CHAT-R/
 M-CHAT-R/F, M-CHAT Follow-Up Interview, and original M-CHAT are all available on the 
 [M-CHAT Official Website](http://www.mchatscreen.com/Official_M-CHAT_Website.html)
 
-Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
