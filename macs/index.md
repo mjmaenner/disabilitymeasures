@@ -21,4 +21,4 @@ Additional publications are listed on the [MACS publications page](http://www.ma
 
 **Link to measure:** [MACS materials in several languages](http://www.macs.nu/download-content.php)
 
-Corrections or updates? [Let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
