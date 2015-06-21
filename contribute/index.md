@@ -5,13 +5,13 @@ description:
 ---
 
 ### We need your help
-It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  You can help in several ways, and 
+It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  We welcome help in several areas. 
 
 #### There's a measure that we should include
 If there's a freely-available measure that isn't currently listed (and not on the list of measures that don't qualify), please tell us.  In short, we want to include any measure that is:  
   1.  Available under a free-to-use license  
   2.  Accessible on the internet with minimal hassle  
-  3.  Revent to disability   
+  3.  Relevant to disability   
   4.  Used or evaluated in peer-reviewed study or respectable technical report/white paper  
 
 If you have a measure in mind that fits the [inclusion criteria](https://github.com/mjmaenner/disabilitymeasures/blob/gh-pages/generic_measure.md), there are three ways to tell us:  
