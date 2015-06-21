@@ -26,4 +26,4 @@ DisabilityMeasures.org will summarize the evidence that the measure achieves its
 <br>
 ##### That's it. Now, go see which measures [met our criteria](https://mjmaenner.github.io/disabilitymeasures/measures) and which ones [did not](https://mjmaenner/github.io/disabilitymeasures/pages/donotqualify.html)
 
-Also, feel free to [contact us](https://mjmaenner/github.io/disabilitymeasures/contact) if you have questions or comments about the criteria.
+Also, feel free to [contact us](https://mjmaenner.github.io/disabilitymeasures/contact) if you have questions or comments about the criteria.
