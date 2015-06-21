@@ -4,8 +4,25 @@ title: Ways to contribute
 description:
 ---
 
-<div id="hide_email">
-  Email: <code>maen</code><b>I</b><code>ner</code><b>don't</b><code>@</code><b>want</b><code>gm</code><b>spam!
-  </b><code>a</code><b>So</b><code>i</code><b>please</b><code>l</code><b>leave
-  </b><code>.</code><b>c</b><code>o</code><b>alone</b><code>m</code><b>!</b><br />
-</div>
+### We need your help
+It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  You can help in several ways, and 
+
+#### There's a measure that we should include
+If there's a freely-available measure that isn't currently listed (and not on the list of measures that don't qualify), please tell us.  In short, we want to include any measure that is:  
+  1.  Available under a free-to-use license  
+  2.  Accessible on the internet with minimal hassle  
+  3.  Revent to disability   
+  4.  Used or evaluated in peer-reviewed study or respectable technical report/white paper  
+
+If you have a measure in mind that fits the [inclusion criteria](https://mjmaenner.github.io/disabilitymeasures/inclusion_criteria), there are three ways to tell us:  
+*  (best option) Create the page yourself on [github](https://github.com/mjmaenner/disabilitymeasures). Each measure has its own sub-folder, and you can use [generic_measure.md](https://github.com/mjmaenner/disabilitymeasures/generic_template.md) as a template 
+*  Fill out this [form](https://docs.google.com/forms/d/1t1tDr09eW1zcmMjHf5aa6-RcL7hlP4a2kAlKh82ZnA8/viewform) to the best of your knowledge. We can't post it if we don't have enough information to know that it qualifies.
+*  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
+
+#### A post needs to be updated, there was a typo, or a link isn't working
+*  Do a pull request on [github](https://github.com/mjmaenner/disabilitymeasures). Each measure is in its own sub-folder
+*  [email us](https://mjmaenner.github.io/disabilitymeasures/contact)
+
+#### Help with the website
+We're running on [github pages](pages.github.com) to make our efforts as open as possible. Definitely [email us](https://mjmaenner.github.io/disabilitymeasures/contact) if you want to help and are willing to work within this framework.
+
