@@ -5,7 +5,7 @@ description:
 ---
 
 ### We need your help
-It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  We welcome help in several areas. 
+It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  We welcome help in several areas: 
 
 #### There's a measure that we should include
 If there's a freely-available measure that isn't currently listed (and not on the list of measures that don't qualify), please tell us.  In short, we want to include any measure that is:  
