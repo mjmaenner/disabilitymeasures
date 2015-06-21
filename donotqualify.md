@@ -7,7 +7,7 @@ tags: measures
 
 Because it can be challenging to even find out which measures are freely available, we are providing a list of measures that did not meet our [inclusion criteria](https://mjmaenner.github.io/disabilitymeasures/criteria), (usually because they are available under a proprietary license).
 
-If you believe that one of these measures does actually qualify, please [let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
+If you believe that one of these measures does actually meet our criteria, please [let us know!](https://www.mjmaenner.github.org/disabilitymeasures/contact)
 
 Measure Name | reason 
 --- | --- 
