@@ -9,6 +9,7 @@ tagline:
       <ul class="nav">
           <li><a href="https://mjmaenner.github.io/disabilitymeasures/about">about</a></li>
           <li><a href="https://mjmaenner.github.io/disabilitymeasures/measures">measures</a></li>
+          <li><a href="https://mjmaenner.github.io/disabilitymeasures/autismtools>autism</a></li>
           <li><a href="https://mjmaenner.github.io/disabilitymeasures/contribute">contribute</a></li>
           <li><a href="https://mjmaenner.github.io/disabilitymeasures/news">news</a></li>
           <li><a href="https://mjmaenner.github.io/disabilitymeasures/contact">contact</a></li>
