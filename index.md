@@ -7,12 +7,12 @@ tagline:
 <div class="navbar">
   <div class="navbar-inner">
       <ul class="nav">
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/about">about</a></li>
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/measures">measures</a></li>
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/autismtools">autism</a></li>
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/contribute">contribute</a></li>
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/news">news</a></li>
-          <li><a href="https://mjmaenner.github.io/disabilitymeasures/contact">contact</a></li>
+          <li><a href="http://disabilitymeasures.org/about">about</a></li>
+          <li><a href="http://disabilitymeasures.org/measures">measures</a></li>
+          <li><a href="http://disabilitymeasures.org/autismtools">autism</a></li>
+          <li><a href="http://disabilitymeasures.org/contribute">contribute</a></li>
+          <li><a href="http://disabilitymeasures.org/news">news</a></li>
+          <li><a href="http://disabilitymeasures.org/contact">contact</a></li>
       </ul>
   </div>
 </div>
@@ -21,11 +21,11 @@ tagline:
 
 Our goal is to improve the global accessibility of open-access measurement tools for assessment, screening, and research concerning individuals with disabilities. We’re building a clearinghouse and a collaborative platform to make it easier to find and use freely-available tools.
 
-One of the barriers to research on disability, particularly in low-resource settings, is the lack of free and high-quality screening tools and instruments.  Typically, [proprietary measures](https://mjmaenner.github.io/disabilitymeasures/pages/donotqualify.html) are available under a license that requires a payment each time the measure is used. These licenses can become prohibitively expensive, and they limit our ability to share information and work together.
+One of the barriers to research on disability, particularly in low-resource settings, is the lack of free and high-quality screening tools and instruments.  Typically, [proprietary measures](http://disabilitymeasures.org/pages/donotqualify.html) are available under a license that requires a payment each time the measure is used. These licenses can become prohibitively expensive, and they limit our ability to share information and work together.
 
 We are providing an alternative to the current proprietary model by creating a centralized location for people to find and evaluate freely-available measurement tools.
 
-*  Freely available [measures](https://mjmaenner.github.io/disabilitymeasures/measures)
-*  Learn [about](https://mjmaenner.github.io/disabilitymeasures/about) this project
-*  How you can [contribute](https://mjmaenner.github.io/disabilitymeasures/contribute)
+*  Freely available [measures](http://disabilitymeasures.org/measures)
+*  Learn [about](http://disabilitymeasures.org/about) this project
+*  How you can [contribute](http://disabilitymeasures.org/contribute)
 
