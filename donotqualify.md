@@ -15,13 +15,18 @@ Ages and Stages Questionnaire | non-free
 Asperger Syndrome Diagnostic Scale | non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
+ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition | non-free
 Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
+Child Development Chart | non-free
+Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Gilliam Autism Rating Scale (GARS) | non-free
+Infant Development Inventory (IDI) | non-free
 Parents' Evaluation of Developmental Status | non-free
+Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale | non-free
