@@ -12,4 +12,9 @@ Developmental Behavior Checklist -- not sure if free -- http://www.jaacap.com/ar
 CHAT  
 CSBS  
 Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24867341
+
 GO4KIDDS (adrienne perry)  
+QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
+
+Resource/lists:
+http://www.txautism.net/uploads/target/AutismScreen_Assess.pdf
