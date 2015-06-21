@@ -25,6 +25,6 @@ One of the barriers to research on disability, particularly in low-resource sett
 We are providing an alternative to the current proprietary model by creating a centralized location for people to find and evaluate freely-available measurement tools.
 
 *  Freely available [measures](https://mjmaenner.github.io/disabilitymeasures/measures)
-*  Learn more [about us](https://mjmaenner.github.io/disabilitymeasures/about)
+*  Learn [about](https://mjmaenner.github.io/disabilitymeasures/about) this project
 *  How you can [contribute](https://mjmaenner.github.io/disabilitymeasures/contribute)
 
