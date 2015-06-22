@@ -3,13 +3,14 @@ layout: page
 title: Autism-specific tools
 ---
 
-One of the major motivations for creating disability measures was in response to the paucity of freely available tools for the assessment and diangosis of autism spectrum disorder (ASD).  Here, we present a curated list of free tools that are *relevant* to ASD:
+One of the major motivations for creating disability measures was in response to the paucity of freely available tools for the assessment and diangosis of autism.  Here, we present a curated list of free tools that are *relevant* to autism:
 
-#### Screening and Diagnosis
+#### Autism symptoms: Screening and Diagnosis
 * Toddlers
-  * [Modified Checklist for Autism in Toddlers](https://mjmaenner.github.io/m-chat)
+  * [Modified Checklist for Autism in Toddlers](http://disabilitymeasures.org/m-chat)
 * Children
 * Adults
+  * [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)
 
 <br>
 
@@ -17,4 +18,5 @@ One of the major motivations for creating disability measures was in response to
 * Toddlers
 * Children
 * Adults
+  * [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
