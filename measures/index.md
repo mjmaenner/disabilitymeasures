@@ -6,7 +6,7 @@ description: freely-available measures
 
 ###Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
-[Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)
+[Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
 [Modified Checklist for Autism in Toddlers-Revised with Follow-up (M-CHAT-R/F)](http://disabilitymeasures.org/raads-r)  
