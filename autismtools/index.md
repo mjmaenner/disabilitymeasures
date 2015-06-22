@@ -7,13 +7,13 @@ One of the major motivations for creating disability measures was in response to
 
 #### Autism symptoms: including screening and diagnosis
 * Toddlers
-  * [Modified Checklist for Autism in Toddlers](http://disabilitymeasures.org/m-chat)
-  * [Autism Quotient](http://disabilitymeasures.org/aq)
+  * [Modified Checklist for Autism in Toddlers (M-CHAT)](http://disabilitymeasures.org/m-chat)
+  * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
 * Children
-  * [Autism Quotient](http://disabilitymeasures.org/aq)
+  * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
 * Adults
   * [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)
-  * [Autism Quotient](http://disabilitymeasures.org/aq)
+  * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
 
 <br>
 
