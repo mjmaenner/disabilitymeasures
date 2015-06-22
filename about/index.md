@@ -19,7 +19,7 @@ There's no shortage of measurement tools and intruments, and a (depressingly lar
 <br>
 
 ##### Collecting measures, not judging them
-Although we use [objective criteria](http://disabilitymeasures.org/criteria) to determine which measures belong on DisabilityMeasures.org, we do not (at present) provide recommendations about what tools should be used in a given setting. (We have plenty of work just trying to track down where and how measures can be made available.   
+Although we use [objective criteria](http://disabilitymeasures.org/criteria) to determine which measures belong on DisabilityMeasures.org, we do not (at present) provide recommendations about what tools should be used in a given setting. (For now, we have our hands full just trying to track down where and how measures can be obtained.)   
 
 <br>
 
