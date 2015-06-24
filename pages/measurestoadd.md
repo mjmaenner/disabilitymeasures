@@ -19,6 +19,15 @@ Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
+Items from Don:
+http://www.eiplp.org/documents/Surveyofwellbeing.pdf
+http://unesdoc.unesco.org/images/0022/002291/229188e.pdf 
+http://www.unesco.org/new/en/education/themes/strengthening-education-systems/early-childhood/monitoring-and-evaluation/holistic-ecdindex 
+https://www.academia.edu/7263057/A_Guide_for_Monitoring_Child_Development_in_Low_and_Middle-Income_Countries
+https://sites.google.com/site/swycscreen/publications-1 
+http://espace.library.uq.edu.au/view/UQ:303441
+
+
 Resource/lists:
 http://www.txautism.net/uploads/target/AutismScreen_Assess.pdf
 http://www.autismresearchcentre.com/arc_tests/
