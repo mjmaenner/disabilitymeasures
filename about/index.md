@@ -7,6 +7,7 @@ We want to make it easy to find and share free and high-quality disability measu
 
 In other areas of science, there has been a shift toward sharing information and making the products of research more available to the public.  For instance, many researchers are required to submit their scientific data (such as genetic information) to shared repositories for other scientists to use.  Likewise, many funding agencies require scientific articles to be deposited in PubMed Central and made open-access.  
 
+<img src="https://mjmaenner.github.io/disabilitymeasures/about/DMorg_niche.svg" style="width: 100%" />
 ![figure](https://mjmaenner.github.io/disabilitymeasures/about/DMorg_niche.svg)
 
 We think there is a similar opportunity for disability measurement tools and intruments--particularly in cases where the instrument itself is little more than a questionnaire.
