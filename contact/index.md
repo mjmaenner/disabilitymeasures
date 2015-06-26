@@ -14,4 +14,5 @@ TBD
 <br>
 
 ####Partners and Affiliated Organizations
-[Global Partnership for the Epidemiology of Developmental Disabilities (GPEDD)](http://www.gpedd.org)
+[Global Partnership for the Epidemiology of Developmental Disabilities (GPEDD)](http://www.gpedd.org)  
+[Early Childhood Development Task Force (ECDtf)](http://www.gpcwd.org/early-childhood-development.html)  
