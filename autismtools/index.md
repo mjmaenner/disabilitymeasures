@@ -9,11 +9,14 @@ One of the major motivations for creating disability measures was in response to
 * Toddlers
   * [Modified Checklist for Autism in Toddlers (M-CHAT)](http://disabilitymeasures.org/m-chat)
   * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
+  * [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
 * Children
   * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
+  * [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
 * Adults
   * [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)
   * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
+  * [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
 
 <br>
 
