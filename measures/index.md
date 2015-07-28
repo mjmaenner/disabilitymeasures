@@ -6,6 +6,7 @@ description: freely-available measures
 
 ###Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
+[Autism Mental Status Exam(AMSE)](http://disabilitymeasures.org/amse)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
