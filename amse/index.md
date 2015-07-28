@@ -9,7 +9,7 @@ tags: measures
 
 **Target Population:** High-risk ASD populations of all ages. Their first study included individuals from 18 months to 38 years. A subsequent study found good performance among verbally fluent adults.  
 
-**Measurement properties and previous use:** The AMSE shows a strong ability to discriminate between individuals that do and do not have ASD.  ASME classifications have been compared to ADOS scores and also best-estimate clinical diagnoses.  In high-risk samples, the ASME shows good sensitivity, specificity, and high positive predictive value. The area under the receiver operating characteristic (ROC) curve ranged from 0.89 to 0.97 depending on whether it was compared to clinical diagnoses or ADOS classifciations.  
+**Measurement properties and previous use:** The AMSE shows a strong ability to discriminate between individuals that do and do not have ASD.  AMSE classifications have been compared to ADOS scores and also best-estimate clinical diagnoses.  In high-risk samples, the AMSE shows good sensitivity, specificity, and high positive predictive value. The area under the receiver operating characteristic (ROC) curve ranged from 0.89 to 0.97 depending on whether it was compared to clinical diagnoses or ADOS classifciations.  
 
 **Languages:**  English is available now. Translations to other languages are in progress.
 
