@@ -19,6 +19,8 @@ Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
+The SWYC http://www.theswyc.org/
+
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
 http://unesdoc.unesco.org/images/0022/002291/229188e.pdf 
