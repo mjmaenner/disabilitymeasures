@@ -19,7 +19,7 @@ tagline:
 
 ### Free and Open Disability Measurement Tools
 
-[Translate website into other langauges - google translate](https://translate.google.com/translate?sl=auto&tl=fr&js=y&prev=_t&hl=en&ie=UTF-8&u=http%3A%2F%2Fdisabilitymeasures.org&edit-text=&act=url)
+[Translate website into other langauges - google translate](https://translate.google.com/translate?hl=en&sl=auto&tl=fr&u=http%3A%2F%2Fmjmaenner.github.io%2Fdisabilitymeasures&sandbox=1)
 
 Our goal is to improve the global accessibility of open-access measurement tools for assessment, screening, and research concerning individuals with disabilities. We’re building a clearinghouse and a collaborative platform to make it easier to find and use freely-available tools.
 
