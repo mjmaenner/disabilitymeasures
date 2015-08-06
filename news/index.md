@@ -12,6 +12,13 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
+### Translations into other languages  
+August 2015  
+
+In order to make the site more accessible, each page now has a google translate drop-down box so one can quickly view the page in another language.  This uses Google's machine translation service, which we hope will help non-English speakers find the tools they need. 
+
+Thanks to [GPEDD members](http://gpedd.wordpress.com) for bringing up concerns about translation into other languages.
+
 ### We've moved (to here)!
 June 2015  
 
