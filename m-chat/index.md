@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  The Modified Checklist for Autism in Toddlers (M-CHAT™) is a developmental screening instrument intended to identify children at risk for autism and other developmental delays.  The MCHAT-Revised with follow-up (MCHAT-R/F) was released in 2013 and is the version [recommended by the authors.](http://www.mchatscreen.com/Official_M-CHAT_Website.html)
 
 **Target Population:** Children aged 16 to 30 months.
