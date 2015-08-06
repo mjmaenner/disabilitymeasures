@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  The RAADS was designed to address a major gap in screening services for adults with autism spectrum disorders. With the increased prevalence of the condition and the fact that adults are being referred or self-referred for services or diagnosis with increasing frequency, this instrument is a useful clinical tool to assist clinicians with the diagnosis of this growing population of higher functioning individuals in adulthood. [quoted from the open-access article](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3134766)
 
 The RAADS-R is a self-report instrument, however, the authors mention that a clinician might help a participant interpret items if they have difficulty understanding the question.
