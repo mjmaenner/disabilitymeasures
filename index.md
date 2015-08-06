@@ -18,7 +18,7 @@ tagline:
 </div>
 
 ### Free and Open Disability Measurement Tools
-Select Language (google translate):
+Select Language (google translate):  
 <div id="google_translate_element"></div><script type="text/javascript">
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
