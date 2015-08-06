@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  (via the [MACS website](http://www.macs.nu/the-purpose.php) ) The Manual Ability Classification System has been developed to classify how children with cerebral palsy use their hands when handling objects in daily activities. The classification is designed to reflect the child’s typical manual performance, not the child’s maximal capacity. It classifies what children do when using one or both of their hands for activities, rather than assessing and classifying each hand separately. When defining the five levels of the MACS our primary criterion was that the distinctions in manual ability should be clinically meaningful.
 
 **Target Population:** children with cerebral palsy ages 4-18
