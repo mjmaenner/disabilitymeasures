@@ -23,6 +23,7 @@ Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
+FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Infant Development Inventory (IDI) | non-free
