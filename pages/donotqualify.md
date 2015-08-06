@@ -12,6 +12,8 @@ If you believe that one of these measures does actually meet our criteria, pleas
 Measure Name | reason 
 --- | --- 
 Ages and Stages Questionnaire (ASQ) | non-free
+Ages and Stages Questionnaire - 3 (ASQ-3) | non-free
+Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
 Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
@@ -19,10 +21,13 @@ ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition 
 Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
+BRIGANCE Screens | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
+Developmental Assessment of Young Children - 2nd edition | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
+Early Screening Profiles | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
