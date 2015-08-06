@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 Because it can be challenging to even find out which measures are freely available, we are providing a list of measures that did not meet our [inclusion criteria](http://disabilitymeasures.org/criteria), (usually because they are available under a proprietary license).
 
 If you believe that one of these measures does actually meet our criteria, please [let us know!](http://disabilitymeasures.org/contact)
