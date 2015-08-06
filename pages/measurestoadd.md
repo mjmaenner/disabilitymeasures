@@ -3,6 +3,14 @@ layout: page
 title: Our to-do list  
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 ## Measures that are (or might be) freely available and should be evaluated for inclusion: ##
 
 Autism behavior checklist  
@@ -19,14 +27,11 @@ Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
-The SWYC http://www.theswyc.org/
-
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
 http://unesdoc.unesco.org/images/0022/002291/229188e.pdf 
 http://www.unesco.org/new/en/education/themes/strengthening-education-systems/early-childhood/monitoring-and-evaluation/holistic-ecdindex 
 https://www.academia.edu/7263057/A_Guide_for_Monitoring_Child_Development_in_Low_and_Middle-Income_Countries
-https://sites.google.com/site/swycscreen/publications-1 
 http://espace.library.uq.edu.au/view/UQ:303441
 
 
