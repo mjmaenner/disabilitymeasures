@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**   (Via [CFCS Materials](http://cfcs.us/wp-content/uploads/2014/02/CFCS_universal_2012_06_06.pdf)) The purpose of the CFCS is to classify the everyday communication performance of an individual into one of five levels. The CFCS focuses on activity and participation levels as described in the World Health Organization’s (WHO) International Classification of Functioning, Disability, and Health (ICF).  This measure is analogous and complementary to the [GMFCS](http://disabilitymeasures.org/gmfcs) and [MACS](http://disabilitymeasures.org/macs).
 
 **Target Population:** [communicated by author] children with communication disorders, originally just with cerebral palsy but more recently with children who do not have communication disorder. 
