@@ -2,6 +2,15 @@
 layout: page
 title: About DisabilityMeasures.org
 ---
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+  
+
 ##### Our Goal
 We want to make it easy to find and share free and high-quality disability measurement tools.  Reserachers and clinicians in low-resource settings face numerous obstacles, and improving access to tools and information can eliminate one imporant barrier.
 
