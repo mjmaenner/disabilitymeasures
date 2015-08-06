@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  (from the [paper](http://docs.autismresearchcentre.com/papers/2006_BCetal_AAA.pdf)): The AAA links two measures together: the Autism Quotient and the Empathy Quotient. Each AAA interview took on average 3 hours, including patient history, background, and to provide feedback on the diagnosis. 
 
 **Target Population:** Adults 
