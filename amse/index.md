@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  [quoting their [first paper](http://www.ncbi.nlm.nih.gov/pubmed/21519955)]  The Autism Mental Status Examination (AMSE) is an eight-item observational assessment that prompts the observation and recording of signs and symptoms of autism spectrum disorders (ASD). The AMSE is intended to take place seamlessly in the context of a clinical exam and produces a total score.  [quoting their [second paper](http://www.ncbi.nlm.nih.gov/pubmed/23989909)]: The AMSE’s intended use is for clinicians with competence in ASD diagnosis who do not have the capacity to administer standardized observational assessments.  
 
 **Target Population:** High-risk ASD populations of all ages. Their first study included individuals from 18 months to 38 years. A subsequent study found good performance among verbally fluent adults.  
