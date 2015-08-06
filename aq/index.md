@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  [excerpted from a recent summary paper](http://www.molecularautism.com/content/6/1/2)  A self-report measure of autistic traits. The AQ has 50 items, which are divided into five subscales consisting of 10 items each that assess domains of cognitive strengths and difficulties related to ASC: communication, social skills, imagination, attention to detail and attention switching.
 
 **Target Population:** There are specific versions for children, adolescents, and adults. 
