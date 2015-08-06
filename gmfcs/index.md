@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  The Gross Motor Function Classification System (GMFCS) is a 5 level classification system that describes the gross motor function of children and youth with cerebral palsy on the basis of their self-initiated movement with particular emphasis on sitting, walking, and wheeled mobility. [via GMFCS homepage](http://www.canchild.ca/en/measures/gmfcs.asp)
 
 The GMFCS measures what children do in their typical settings (performance), not what they are able to do in an ideal environment (capability). The GMFCS is one of the most widely-used classification systems for individuals with cerebral palsy, as it is used in clinical examinations, research, and population-based studies.  The GMFCS is compatible with the [World Health Organization's International Classification of Functioning, Disability, and Health](http://www.who.int/classifications/icf/en/).
