@@ -4,6 +4,14 @@ title: Measures
 description: freely-available measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 ###Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
 [Autism Mental Status Exam(AMSE)](http://disabilitymeasures.org/amse)  
