@@ -5,6 +5,14 @@ description:
 tags: measures
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:**  [From the SWYC website](http://theSWYC.org/) The SWYC was created in order to provide a screening instrument that is free of cost and easily accessed by parents, pediatricians, preschool teachers, nurses, and other professionals involved in child care and education, It is comprehensive, including cognitive, language, motor, and social-emotional development as well as family risk factors (parental depression, conflict, or substance abuse, and hunger). It is short and easy to score. It will soon be available in an electronic form (e.g. on a tablet computer or via the internet).  
 The SWYC covers 3 domains of functioning (Behavior and Emotion, Family Risk Factors, and Development), and it is composed of 6 questionnaires: Preschool Pediatric Symptom Checklist, Baby Pediatric Symptom Checklist, Family Questions, Parents Observation of Social Interaction, Developmental Milestones, and Parent's Concerns. [link](https://sites.google.com/site/swycscreen/parts-of-the-swyc)
 
