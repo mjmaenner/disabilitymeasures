@@ -26,9 +26,11 @@ Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Infant Development Inventory (IDI) | non-free
+Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Krug Asperger Disorder Index (KADI) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
+Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Social Communications Questionnaire (SCQ) | non-free
