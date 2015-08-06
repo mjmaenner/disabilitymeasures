@@ -10,6 +10,7 @@ One of the major motivations for creating disability measures was in response to
   * [Modified Checklist for Autism in Toddlers (M-CHAT)](http://disabilitymeasures.org/m-chat)
   * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
   * [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
+  * [Parental Observation of Social Interaction (part of SWYC)](http://disabilitymeasures.org/swyc)
 * Children
   * [Autism Quotient (AQ)](http://disabilitymeasures.org/aq)
   * [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
