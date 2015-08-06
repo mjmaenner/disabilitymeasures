@@ -4,6 +4,15 @@ title: Ten Questions (TQ)
 description:
 tags: measures
 ---
+
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Type of Measure:** Parent report screening tool for developmental disabilities, that has been used in epidemiological studies, surveys and as a clinical screening tool. It takes only about 5 minutes to administer in a in-person interview format.
 
 **Target Population:** Children ages 2-9 years in low resource settings, mainly in low and middle income countries. Has been translated into many different languages.
