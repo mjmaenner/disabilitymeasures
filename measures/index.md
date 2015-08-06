@@ -11,6 +11,7 @@ description: freely-available measures
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
 [Modified Checklist for Autism in Toddlers-Revised with Follow-up (M-CHAT-R/F)](http://disabilitymeasures.org/raads-r)  
+[Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
