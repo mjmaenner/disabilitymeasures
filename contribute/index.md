@@ -4,6 +4,14 @@ title: Ways to contribute
 description:
 ---
 
+Select Language (google translate):  
+
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 ### We need your help
 It takes a lot of effort to find out what measures are out there, which ones are free, and how to get them--it's why we made disabilitymeasures.org.  You can help us out in several ways:
 
