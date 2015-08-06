@@ -19,6 +19,13 @@ tagline:
 
 ### Free and Open Disability Measurement Tools
 
+<div id="google_translate_element"></div><script type="text/javascript">
+function googleTranslateElementInit() {
+  new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
+}
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+        
+
 [Translate this site into other langauges - google translate](https://translate.google.com/translate?hl=en&sl=auto&tl=fr&u=http%3A%2F%2Fmjmaenner.github.io%2Fdisabilitymeasures&sandbox=1)
 
 Our goal is to improve the global accessibility of open-access measurement tools for assessment, screening, and research concerning individuals with disabilities. We’re building a clearinghouse and a collaborative platform to make it easier to find and use freely-available tools.
