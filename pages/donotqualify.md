@@ -33,6 +33,7 @@ BRIGANCE Screens | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
+Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Early Screening Profiles | non-free
