@@ -30,8 +30,8 @@ We take a multidimensional view of disability and believe there are many ideas t
 
 ##### 4. The measure must have been used or described in a peer-reviewed article or reputable technical report  
 DisabilityMeasures.org will summarize the evidence that the measure achieves its stated purpose.  Again, our goal is not to critique the evidence or prefer some measures over others; instead we wish to collect and organize information so users can judge for themselves.
-
-<br>
+  
+<br>  
 ##### That's it. Now, go see which measures [met our criteria](http://disabilitymeasures.org/measures) and which ones [did not](http://disabilitymeasures.org/pages/donotqualify.html)
 
 Also, feel free to [contact us](http://disabilitymeasures.org/contact) if you have questions or comments about the criteria.
