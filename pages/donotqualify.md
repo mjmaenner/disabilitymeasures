@@ -36,6 +36,7 @@ Childhood Autism Rating Scale (CARS) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
+Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Early Screening Profiles | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
@@ -48,6 +49,8 @@ Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
+Support Intensity Scale - Adult | non-free
+Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
 Vineland Scales of Adaptive Behavior | non-free
