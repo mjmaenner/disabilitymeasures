@@ -19,7 +19,7 @@ The GMFCS measures what children do in their typical settings (performance), not
 
 Trained clinicians can evaluate a child's GMFCS level in a matter of minutes. There is also a newly developed [GMFCS Family and Self Report Questionnaire](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r), which incorporates parent-report in the determination of a child's GMFCS level.
 
-The CanChild Group has a handy [FAQ, scroll down](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r) that covers many details.
+The CanChild Group has a handy [FAQ (scroll down)](https://canchild.ca/en/resources/42-gross-motor-function-classification-system-expanded-revised-gmfcs-e-r) that covers many details.
 
 **Target Population:** Originally for children with cerebral palsy, but has been applied to other conditions. Separate criteria are available for four age groups: 2 to 4 years, 4 to 6 years, 6 to 12 years, and 12 to 18 years.
 
