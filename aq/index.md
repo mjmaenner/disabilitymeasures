@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adult Asperger Assessment (AAA) - multiple versions
+title: Autism Quotient
 description:
 tags: measures
 ---
