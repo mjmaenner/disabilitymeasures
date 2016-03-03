@@ -12,7 +12,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-###Freely-available measures:  
+### Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
 [Autism Mental Status Exam(AMSE)](http://disabilitymeasures.org/amse)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
@@ -24,7 +24,7 @@ function googleTranslateElementInit() {
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
-####Do you know of a measure that should be here? [It only takes a few seconds to let us know.](http://disabilitymeasures.org/contribute)
+#### Do you know of a measure that should be here? [It only takes a few seconds to let us know.](http://disabilitymeasures.org/contribute)
 
-#####We also track [measures that failed](http://disabilitymeasures.org/pages/donotqualify.html) to meet our [inclusion criteria](http://disabilitymeasures.org/criteria).
+##### We also track [measures that failed](http://disabilitymeasures.org/pages/donotqualify.html) to meet our [inclusion criteria](http://disabilitymeasures.org/criteria).
 
