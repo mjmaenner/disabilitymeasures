@@ -39,3 +39,5 @@ subthreshold autism traits questionnaire. Kanne, Wang, Christ
 Resource/lists:
 http://www.txautism.net/uploads/target/AutismScreen_Assess.pdf
 http://www.autismresearchcentre.com/arc_tests/
+http://sites.tufts.edu/garybedell/measurement-tools/
+https://canchild.ca/en/resources/50-additional-measures
