@@ -16,7 +16,7 @@ function googleTranslateElementInit() {
 DisabilityMeasures.org uses objective criteria to decide which measures to list. We focus on whether measures are truly free to use and easily available; we are not evaluating the measures, nor are we making recommendations about what might be best in a particular situation.
 
 ##### 1.  The measure must be available under a free-to-use license.  
-A user must be able to legally obtain, administer, and interpret the results of a measure without any obligation of licensing or user fees.  To clarify with a real example, we across a tool that could be freely distributed and administered, but the scoring alrogithm was not distributed and was licensed on a per use basis.  Even though the tool was free to administer, it was not free to use--and is not eligible for inclusion on DisabilityMeasures.org under this license.
+A user must be able to legally obtain, administer, and interpret the results of a measure without any obligation of licensing or user fees.  To clarify with a real example, we came across a tool that could be freely distributed and administered, but the scoring alrogithm was not distributed and was licensed on a per use basis.  Even though the tool was free to administer, it was not free to use--and is not eligible for inclusion on DisabilityMeasures.org under this license.
 
 Those familiar with Open Source prinicples will realize that we've drawn the line at free-to-use (i.e., "free as in beer") and not "free to modify or change" (i.e., "free as in speech"). Many academics choose to retain control over the tools, even when they give it away for free, so few tools would fall under a truly "open" license.
 
