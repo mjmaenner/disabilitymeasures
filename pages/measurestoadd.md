@@ -29,6 +29,7 @@ QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
 FCCS
 ACFS:CS 
+Viking speech scale
 
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
