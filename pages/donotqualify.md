@@ -26,7 +26,7 @@ Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
 ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition | non-free
-Assisting Hand Assessment - Kids | non-free
+Assisting Hand Assessment - Kids (AHA-Kids) | non-free
 Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
