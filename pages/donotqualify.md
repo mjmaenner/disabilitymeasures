@@ -31,6 +31,7 @@ Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
 BRIGANCE Screens | non-free
+Canadian Occupational Performance Measure (COPM) | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
@@ -45,6 +46,7 @@ Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Infant Development Inventory (IDI) | non-free
 Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Krug Asperger Disorder Index (KADI) | non-free
+Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
