@@ -46,3 +46,4 @@ http://www.autismresearchcentre.com/arc_tests/
 http://sites.tufts.edu/garybedell/measurement-tools/
 https://canchild.ca/en/resources/50-additional-measures
 http://www.nectac.org/~pdfs/pubs/screening.pdf
+https://www.cerebralpalsy.org.au/about-cerebral-palsy/assessments-and-outcome-measures/
