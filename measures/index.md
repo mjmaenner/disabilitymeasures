@@ -18,7 +18,7 @@ function googleTranslateElementInit() {
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
-[Manual Ability Classification System (MACS](http://disabilitymeasures.org/macs/)
+[Manual Ability Classification System (MACS](http://disabilitymeasures.org/macs/)  
 [Modified Checklist for Autism in Toddlers-Revised with Follow-up (M-CHAT-R/F)](http://disabilitymeasures.org/raads-r)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
