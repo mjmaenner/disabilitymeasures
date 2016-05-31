@@ -25,17 +25,22 @@ Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
 Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
+Autism Observational Scale for Infants (AOSI) | non-free
 ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition | non-free
 Assisting Hand Assessment - Kids (AHA-Kids) | non-free
 Autism Behavior Checklist (ABC)| non-free
 Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
+Behavior Assessment System for Children (BASC-2) | non-free
+Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
+Comprehensive Assessment of Spoken Languages (CASL) | non-free
+Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler Checklist (CSBS-DP) | scoring system is non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
