@@ -19,6 +19,7 @@ If you believe that one of these measures does actually meet our criteria, pleas
 
 Measure Name | reason 
 --- | --- 
+AAMR Adaptive Behavior Scales (ABS) | non-free
 Ages and Stages Questionnaire (ASQ) | non-free
 Ages and Stages Questionnaire - 3 (ASQ-3) | non-free
 Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
@@ -33,6 +34,7 @@ Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
 Behavior Assessment System for Children (BASC-2) | non-free
+Behavior Rating Inventory of Executive Function (BRIEF) | non-free
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
@@ -49,18 +51,24 @@ Early Screening Profiles | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
+Guide for Monitoring Child Development (GMCD)| non-free
 Infant Development Inventory (IDI) | non-free
+Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
+Infant Toddler Symptom Checklist | non-free
 Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Krug Asperger Disorder Index (KADI) | non-free
+Malawian Developmental Assessment Tool (MDAT)| non-free
 Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
+SCERTS Model | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
+The Child and Adolescent Symptom Inventory (CASI) | non-free
 Vineland Scales of Adaptive Behavior | non-free
 
