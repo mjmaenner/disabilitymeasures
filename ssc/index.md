@@ -29,7 +29,7 @@ function googleTranslateElementInit() {
 **Licence:** This work is licensed under the Creative Commons, http://creativecommons.org/licenses/by-nc-nd/3.0.© LMTSilva Nov. 2011. This instrument is protected by copyright; it may not be altered or sold. Permission is granted for duplication free of charge.
 
 **Link to measure:** 
-[Sense and Self Regulation Checklist](http://www.midss.org/content/sense-and-self-regulation-checklist-ssc)
+[Sense and Self Regulation Checklist](http://www.midss.org/sites/default/files/sense_and_self-regulation_checklist_with_instructions_-_11-28-11.pdf)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
 
