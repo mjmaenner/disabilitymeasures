@@ -25,6 +25,6 @@ function googleTranslateElementInit() {
 
 **Licence:** This work is licensed under the [Creative Commons](http://creativecommons.org/licenses/by-nc-nd/3.0/) © LMTSilva Nov. 2011. This instrument is protected by copyright; it may not be altered or sold. Permission is granted for duplication free of charge.
 
-**Link to measure:** http://www.midss.org/sites/default/files/_parent_stress_index_with_instructions_-_11-28-11.pdf
+**Link to measure:** [Autism Parenting Stress Index](http://www.midss.org/sites/default/files/_parent_stress_index_with_instructions_-_11-28-11.pdf)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
