@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** The Viking Speech Scale is used to classify children’s speech production, specifically the ease at which children can make themselves understood using different methods of communication. The scale has four levels and is ordinal. The four levels include: (1) speech is not affected by motor disorder (2) speech is imprecise but usually understandable to unfamiliar listeners (3) speech is unclear and not usually understandable to unfamiliar listeners out of context (3) no understandable speech. This is useful because cerebral palsy can affect children’s speech and limit their intelligibility. 
+**Type of Measure:** The Viking Speech Scale is used to classify children’s speech production, specifically the ease at which children can make themselves understood using different methods of communication. The scale has four levels and is ordinal. The four levels include: (1) speech is not affected by motor disorder (2) speech is imprecise but usually understandable to unfamiliar listeners (3) speech is unclear and not usually understandable to unfamiliar listeners out of context (3) no understandable speech. This is useful because cerebral palsy can affect children’s speech and limit their intelligibility. [quoted from article] (http://www.fappc.pt/wp-content/uploads/2013/10/Res-Develop-Disabil-2013_3202.pdf)
  
 **Target Population:** Children aged 4 and above
 
