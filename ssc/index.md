@@ -26,7 +26,7 @@ function googleTranslateElementInit() {
 
 **Authors and Citation:** Silva, L. M., & Schalock, M. (2012). Sense and self-regulation checklist, a measure of comorbid autism symptoms: initial psychometric evidence. American Journal of Occupational Therapy, 66(2), 177-186.
 
-**Licence:** This work is licensed under the Creative Commons, http://creativecommons.org/licenses/by-nc-nd/3.0.© LMTSilva Nov. 2011. This instrument is protected by copyright; it may not be altered or sold. Permission is granted for duplication free of charge.
+**Licence:** This work is licensed under the [Creative Commons](http://creativecommons.org/licenses/by-nc-nd/3.0.© LMTSilva Nov. 2011) This instrument is protected by copyright; it may not be altered or sold. Permission is granted for duplication free of charge.
 
 **Link to measure:** 
 [Sense and Self Regulation Checklist](http://www.midss.org/sites/default/files/sense_and_self-regulation_checklist_with_instructions_-_11-28-11.pdf)
