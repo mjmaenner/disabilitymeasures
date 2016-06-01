@@ -23,7 +23,9 @@ AAMR Adaptive Behavior Scales (ABS) | non-free
 Ages and Stages Questionnaire (ASQ) | non-free
 Ages and Stages Questionnaire - 3 (ASQ-3) | non-free
 Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
+Angkor Hospital for Children Developmental Milestone Assessment Tool | non-free
 Asperger Syndrome Diagnostic Scale (ASDS)| non-free
+Assessment, Evaluation, and Programming System (AEPS) | non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
 Autism Observational Scale for Infants (AOSI) | non-free
@@ -33,42 +35,58 @@ Autism Behavior Checklist (ABC)| non-free
 Autism Spectrum Disorders - Adult version | non-free
 Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
+Battelle Developmental Inventory Second Edition Normative Update (BDI-2 NU)| non-free
 Behavior Assessment System for Children (BASC-2) | non-free
 Behavior Rating Inventory of Executive Function (BRIEF) | non-free
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
+British Ability Scales | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
+Cattell Infant Intelligence Scale | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler Checklist (CSBS-DP) | scoring system is non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
-Developmental Assessment of Young Children - 2nd edition | non-free
+Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
-Early Screening Profiles | non-free
+Differential Abilities Scales | non-free
+Early Screening Profiles (ESP) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
+Griffith Mental Developmental Scales | non-free
 Guide for Monitoring Child Development (GMCD)| non-free
 Infant Development Inventory (IDI) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
 Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
+Leiter International Performance Scale-Revised (Leiter-3) | non-free
+Lucknow Development Screen | non-free
 Krug Asperger Disorder Index (KADI) | non-free
 Malawian Developmental Assessment Tool (MDAT)| non-free
+McCarthy Scales of Children's Abilities | non-free
+Merrill Palmer Scale of Mental Tests | non-free
 Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
+Movement Assessement Battery for Children | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
+Scales of Independent Behavior-Revised (SIB-R) | non-free
 SCERTS Model | non-free
+Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
+Stanford Binet Intelligence Scales (SB5) | non-free
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
+Test of Language Development | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
+The Unstructured Imitation Assessment (UIA) | non-free
 Vineland Scales of Adaptive Behavior | non-free
+Wessex Revised Portage Checklist | non-free
 
