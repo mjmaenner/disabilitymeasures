@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autism Quotient
+title: Autism Quotient (AQ)
 description:
 tags: measures
 ---
