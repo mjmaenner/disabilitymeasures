@@ -15,7 +15,7 @@ function googleTranslateElementInit() {
 ### Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)      
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
-  [Autism Mental Status Exam(AMSE)](http://disabilitymeasures.org/amse)  
+  [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
