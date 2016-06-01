@@ -23,7 +23,7 @@ function googleTranslateElementInit() {
 
 **Authors and Citation:** Pennington, L., Virella, D., Mjøen, T., da Graça Andrada, M., Murray, J., Colver, A., ... & Andersen, G. (2013). Development of The Viking Speech Scale to classify the speech of children with cerebral palsy. Research in developmental disabilities, 34(10), 3202-3210.
 
-**Licence:** From the PDF of tool Copyright © Newcastle University UK, Vestfold Hospital Trust Norway, Centro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian- Lisbon and Manchester Metropolitan University UK , 2011, Lindsay Pennington, Tone Mjøen, Maria da Graça Andrada and Janice Murray assert their moral right to be identified as the authors of this work. 
+**Licence:** From the PDF of tool: Copyright © Newcastle University UK, Vestfold Hospital Trust Norway, Centro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian- Lisbon and Manchester Metropolitan University UK , 2011, Lindsay Pennington, Tone Mjøen, Maria da Graça Andrada and Janice Murray assert their moral right to be identified as the authors of this work. 
 
 **Link to measure:** [The Viking Speech Scale] (http://www.scpenetwork.eu/assets/SCPE-Tools/VSS/Viking-Speech-Scale-2011-Copyright..pdf)
 
