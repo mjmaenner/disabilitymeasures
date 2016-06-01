@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** The Viking Speech Scale is used to classify children’s speech production, specifically the ease at which children can make themselves understood using different methods of communication. The scale has four levels and is ordinal. The four levels include: (1) speech is not affected by motor disorder (2) speech is imprecise but usually understandable to unfamiliar listeners (3) speech is unclear and not usually understandable to unfamiliar listeners out of context (3) no understandable speech. This is useful because cerebral palsy can affect children’s speech and limit their intelligibility. [quoted from article] (http://www.fappc.pt/wp-content/uploads/2013/10/Res-Develop-Disabil-2013_3202.pdf)
+**Type of Measure:** The Viking Speech Scale is used to classify children’s speech production, specifically the ease at which children can make themselves understood using different methods of communication. The scale has four levels and is ordinal. The four levels include: (1) speech is not affected by motor disorder (2) speech is imprecise but usually understandable to unfamiliar listeners (3) speech is unclear and not usually understandable to unfamiliar listeners out of context (3) no understandable speech. This is useful because cerebral palsy can affect children’s speech and limit their intelligibility. [quoted from article](http://www.fappc.pt/wp-content/uploads/2013/10/Res-Develop-Disabil-2013_3202.pdf)
  
 **Target Population:** Children aged 4 and above
 
@@ -25,7 +25,7 @@ function googleTranslateElementInit() {
 
 **Licence:** From the PDF of tool: Copyright © Newcastle University UK, Vestfold Hospital Trust Norway, Centro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian- Lisbon and Manchester Metropolitan University UK , 2011, Lindsay Pennington, Tone Mjøen, Maria da Graça Andrada and Janice Murray assert their moral right to be identified as the authors of this work. 
 
-**Link to measure:** [The Viking Speech Scale]  (http://www.scpenetwork.eu/assets/SCPE-Tools/VSS/Viking-Speech-Scale-2011-Copyright..pdf)
+**Link to measure:** [The Viking Speech Scale](http://www.scpenetwork.eu/assets/SCPE-Tools/VSS/Viking-Speech-Scale-2011-Copyright..pdf)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
 
