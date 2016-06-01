@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:**  This tool was designed to assess the behavior of children and adolescents. The assessment has 76 items and three sections. The form takes about 15 minutes to fill out and there is both a teacher and parent version of the form. The assessment is designed to be used with children and adolescents aged 3 to 16. Section 1 consists of a short answer question and Section 2 has ten items that asks about the occurrence of various behaviors and the respondent must rate the child’s behavior on a 3-point scale ranging from 0-not true to 3- completely/always true. Section 3 is a scale of problem behaviors and has 66 items. 
+**Type of Measure:**  The Nisonger Child Behavior Rating Form was designed to assess the behavior of children and adolescents. The assessment has 76 items and three sections. The form takes about 15 minutes to fill out and there is both a teacher and parent version of the form. The assessment is designed to be used with children and adolescents aged 3 to 16. Section 1 consists of a short answer question and Section 2 has ten items that asks about the occurrence of various behaviors and the respondent must rate the child’s behavior on a 3-point scale ranging from 0-not true to 3- completely/always true. Section 3 is a scale of problem behaviors and has 66 items. 
 
 **Target Population:** Children and adolescents
 
