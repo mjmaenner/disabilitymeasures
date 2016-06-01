@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: The Viking Speech Scale
 description:
 tags: measures
 ---
@@ -25,7 +25,7 @@ function googleTranslateElementInit() {
 
 **Licence:** From the PDF of tool: Copyright © Newcastle University UK, Vestfold Hospital Trust Norway, Centro de Reabilitação de Paralisia Cerebral Calouste Gulbenkian- Lisbon and Manchester Metropolitan University UK , 2011, Lindsay Pennington, Tone Mjøen, Maria da Graça Andrada and Janice Murray assert their moral right to be identified as the authors of this work. 
 
-**Link to measure:** [The Viking Speech Scale] (http://www.scpenetwork.eu/assets/SCPE-Tools/VSS/Viking-Speech-Scale-2011-Copyright..pdf)
+**Link to measure:** [The Viking Speech Scale]  (http://www.scpenetwork.eu/assets/SCPE-Tools/VSS/Viking-Speech-Scale-2011-Copyright..pdf)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
 
