@@ -14,6 +14,7 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
 **Type of Measure:** The Sense and Self-Regulation Checklist (SSC) has been developed as a parent/caregiver measure of the comorbid symptoms associated with autism. These symptoms include: include abnormal sensory responses, sleep disruption, gastrointestinal problems, self-injurious behaviors, aggression, and irritability. The checklist is useful in assessing difficulties with early self-regulation milestones in areas of sleep, digestion, self-soothing, attention, and behavior. There are six sensory subdomains (touch-pain, auditory, visual, taste-smell, hyperreactive to noninjurious stimuli, and hyporeactive to injurious stimuli). Items are rated never (0), rarely (1), sometimes (2), or often (3). Domain scores are obtained by summing the individual items.
+[via the MIDSS website](http://www.midss.org/content/sense-and-self-regulation-checklist-ssc)
  
 **Target Population:** Children 6 years of age or younger primarily with Autism Spectrum Disorder, but can also be used for children with other disabilities 
 
