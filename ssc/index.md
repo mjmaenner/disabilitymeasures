@@ -22,7 +22,7 @@ function googleTranslateElementInit() {
 [via the MIDSS website](http://www.midss.org/content/sense-and-self-regulation-checklist-ssc)
 
 
-**Languages:** English, Spanish, and Chinese
+**Languages:** English version available for download. Spanish and Chinese translations mentioned but not apparently available.  
 
 **Authors and Citation:** Silva, L. M., & Schalock, M. (2012). Sense and self-regulation checklist, a measure of comorbid autism symptoms: initial psychometric evidence. American Journal of Occupational Therapy, 66(2), 177-186.
 
