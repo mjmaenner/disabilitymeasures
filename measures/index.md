@@ -17,6 +17,7 @@ function googleTranslateElementInit() {
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
   [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
+[Childhood Asperger's Syndrome Test (CAST)](http://disabilitymeasures.org/cast)  
   [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
   [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
