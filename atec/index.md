@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 
 **Measurement properties and previous use:** There have been several studies that have evaluated the attributes of ATEC and compared them to other diagnostic tools. One study exemplified that ATEC is useful in understanding physical issues in ASD, such as sleep problems, seizures, gastrointestinal issues, etc. ATEC is able to quantitatively assess these issues. Additionally ATEC is relatively simple to administer, easy to understand, and can be filled out by a parent within 15 minutes and scored using the Autism Research Institute (ARI) website [Gier et. al., 2013](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC3725669/). 
 
-**Languages:** Checklist created in English, but can be translated online in Chinese (simplified), Spanish, French, Italian, Turkish, Portuguese, German, Persian, Hebrew, Serbian, Dutch, Albanian, Bosnian, Czech, Estonian, Arabic, Romanian (click select another language on top)
+**Languages:** Checklist created in English, but can be translated online in Chinese (simplified), Spanish, French, Italian, Turkish, Portuguese, German, Persian, Hebrew, Serbian, Dutch, Albanian, Bosnian, Czech, Estonian, Arabic, and Romanian (click select another language on top)
 
 **Authors and Citation:** Geier, D. A., Kern, J. K., & Geier, M. R. (2013). A comparison of the Autism Treatment Evaluation Checklist (ATEC) and the Childhood Autism Rating Scale (CARS) for the quantitative evaluation of autism. Journal of mental health research in intellectual disabilities, 6(4), 255-267.
 
