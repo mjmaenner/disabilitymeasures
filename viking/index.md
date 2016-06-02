@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Viking Speech Scale
+title: Viking Speech Scale
 description:
 tags: measures
 ---
