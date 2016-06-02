@@ -16,6 +16,7 @@ function googleTranslateElementInit() {
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)      
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
   [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
+  [Autism Treatment Evaluation Checklist](http://disabilitymeasures.org/atec)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Childhood Asperger's Syndrome Test (CAST)](http://disabilitymeasures.org/cast)  
   [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
