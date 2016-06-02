@@ -26,6 +26,6 @@ function googleTranslateElementInit() {
 **Licence:**  Copyright (c) 2016 AUTISM RESEARCH INSTITUTE ALL RIGHTS RESERVED.
 THE AUTISM TREATMENT EVALUATION CHECKLIST (ATEC) MAY BE USED ONLY FOR NON-COMMERICIAL PURPOSES.
 
-**Link to measure:**[Autism Treatment Evaluation Checklist](https://www.autism.com/ind_atec)
+**Link to measure:** [Autism Treatment Evaluation Checklist](https://www.autism.com/ind_atec)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
