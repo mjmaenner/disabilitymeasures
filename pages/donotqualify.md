@@ -85,6 +85,7 @@ Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
 Test of Language Development | non-free
+Test of Pretend Play (ToPP) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
 The Unstructured Imitation Assessment (UIA) | non-free
 Vineland Scales of Adaptive Behavior | non-free
