@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
  
 **Target Population:** Children between the ages of 4 and 5
 
-**Measurement properties and previous use:** [Barty et. al](http://onlinelibrary.wiley.com/doi/10.1111/dmcn.13124/suppinfo) states that the FFCS is useful for CP because it presents a comprehensive overview of the problem characterizing communication and the tool is useful in considering speech, language, and communication in children with CP. Overall interrater reliability was excellent and kappa values were 0.94 between speech-language pathologists (SLP) and other allied health professionals (AHP), 069 between SLP’s and parents, and 0.60 between AHP’s and parents. 
+**Measurement properties and previous use:** [Barty et. al](http://onlinelibrary.wiley.com/doi/10.1111/dmcn.13124/suppinfo) state that the FCCS is useful for CP because it presents a comprehensive overview of the problem characterizing communication and the tool is useful in considering speech, language, and communication in children with CP. Overall interrater reliability was excellent and kappa values were 0.94 between speech-language pathologists (SLP) and other allied health professionals (AHP), 069 between SLP’s and parents, and 0.60 between AHP’s and parents. 
 
 **Languages:** Available in English
 
