@@ -13,9 +13,7 @@ function googleTranslateElementInit() {
 
 ## Measures that are (or might be) freely available and should be evaluated for inclusion: ##
 
-Autism behavior checklist  
 AOSI?  
-Autism spectrum quotient (AQ)  
 3di  
 ACSF:SC (canchild)  
 CHILDHOOD ASPERGER SYNDROME TEST (CAST)  
@@ -27,9 +25,8 @@ Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 
-FCCS  
+  
 ACFS:CS  
-Viking speech scale  
 
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
@@ -47,3 +44,5 @@ http://sites.tufts.edu/garybedell/measurement-tools/
 https://canchild.ca/en/resources/50-additional-measures
 http://www.nectac.org/~pdfs/pubs/screening.pdf
 https://www.cerebralpalsy.org.au/about-cerebral-palsy/assessments-and-outcome-measures/
+http://www.unl.edu/asdnetwork/uploads/featured-articles/Table_2_ASD_Specific_Screening.pdf
+
