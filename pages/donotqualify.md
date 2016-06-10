@@ -48,6 +48,7 @@ Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler Checklist (CSBS-DP) | scoring system is non-free
+Developmental Behavior Checklist (DBC) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
