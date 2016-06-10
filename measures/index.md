@@ -29,7 +29,8 @@ function googleTranslateElementInit() {
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
-[Viking Speech Scale](http://disabilitymeasures.org/viking)  
+[Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat)  
+  [Viking Speech Scale](http://disabilitymeasures.org/viking)  
   [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
 #### Do you know of a measure that should be here? [It only takes a few seconds to let us know.](http://disabilitymeasures.org/contribute)
