@@ -17,13 +17,13 @@ function googleTranslateElementInit() {
 
 **Target Population:** Children
 
-**Measurement properties and previous use:** There have been two published studies that show the validity of this tool. The first study compared different types of motor imitation in 18 children with autism, 18 children with developmental delay, and 18 normally developing children. The second study investigated concurrent and predictive relations between imitation and other developmental skills within a sample of 26 two-year-old children with autism. The Cronbach’s alpha measured for this tool was 0.90 which indicated good internal consistency. Cohen’s Kappa collapsed across all MIS items and participants was found to be 0.93. [Stone et.al, 1997] (http://link.springer.com/article/10.1023/A:1022685731726#page-1).
+**Measurement properties and previous use:** There have been two published studies that show the validity of this tool. The first study compared different types of motor imitation in 18 children with autism, 18 children with developmental delay, and 18 normally developing children. The second study investigated concurrent and predictive relations between imitation and other developmental skills within a sample of 26 two-year-old children with autism. The Cronbach’s alpha measured for this tool was 0.90 which indicated good internal consistency. Cohen’s Kappa collapsed across all MIS items and participants was found to be 0.93.[Stone et.al, 1997] (http://link.springer.com/article/10.1023/A:1022685731726#page-1)
 
 **Languages:** English
 
 **Authors and Citation:** Stone, W. L., Ousley, O. Y., & Littleford, C. L. (1997). Motor imitation in young children with autism: What's the object? Journal of Abnormal Child Psychology, 25, 475-485. 
 
-**Licence:** Permission granted from Dr. Wendy L. Stone via to include and distribute the Motor Imitation Scale on disabilitymeasures.org
+**Licence:** Permission granted from Dr. Wendy L. Stone via email to include and distribute the Motor Imitation Scale on disabilitymeasures.org
 
 **Link to measure:** [Motor Imitation Scale](http://uwreadilab.com/wp-content/uploads/2015/07/Motor-Imitation-Scale-MIS.pdf)
 
