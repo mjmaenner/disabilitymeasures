@@ -13,7 +13,8 @@ function googleTranslateElementInit() {
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
 ### Freely-available measures:  
-[Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)      
+[Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
+[Autism Classification System of Functioning: Social Communication (ACSF:SC)](http://disabilitymeasures.org/acsf-sc)  
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
   [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
   [Autism Treatment Evaluation Checklist (ATEC)](http://disabilitymeasures.org/atec)  
