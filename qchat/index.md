@@ -22,7 +22,7 @@ for test-retest reliability was 0.82 (n = 330). Overall, the study showed that t
 
 **Languages:** English, Chinese, French, Dutch, Spanish (Chile), Spanish (Argentina), Israeli, Indonesian, Magyar, Polski, Romanian, Serbian, Slovenski, Svensk
 
-**Authors and Citation:**  Allison, C., Baron-Cohen, S. Wheelwright, S., Charman, T., Richler, J., Pasco, G. and Brayne, C. (2008). The Q-CHAT (Quantitative CHecklist for Autism in Toddlers): A Normally Distributed Quantitative Measure of Autistic Traits at 18-24 Months of Age: Preliminary Report. Journal of Autism and Developmental Disorders
+**Authors and Citation:**  Allison, C., Baron-Cohen, S. Wheelwright, S., Charman, T., Richler, J., Pasco, G. and Brayne, C. (2008). The Q-CHAT (Quantitative Checklist for Autism in Toddlers): A Normally Distributed Quantitative Measure of Autistic Traits at 18-24 Months of Age: Preliminary Report. Journal of Autism and Developmental Disorders
 
 Allison, C. Auyeung, B., Baron-Cohen, S. (2012) Toward Brief "Red Flags" for Autism Screening: The Short Autism Spectrum Quotient and the Short Quantitative Checklist in 1,000 Cases and 3,000 Controls
 Journal of the American Acad of Child & Adolescent Psychiatry
