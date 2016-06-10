@@ -30,7 +30,7 @@ Assessment, Evaluation, and Programming System (AEPS) | non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
 Autism Observational Scale for Infants (AOSI) | non-free
-ASIEP-3: Autism Screening Instrument for Educational Planning – Third Edition | non-free
+Autism Screening Instrument for Educational Planning – Third Edition (ASIEP-3) | non-free
 Assisting Hand Assessment - Kids (AHA-Kids) | non-free
 Autism Behavior Checklist (ABC)| non-free
 Autism Spectrum Disorders - Adult version | non-free
