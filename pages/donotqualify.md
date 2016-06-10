@@ -54,6 +54,7 @@ Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler 
 Developmental Behavior Checklist (DBC) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
+Developmental Checklist-Early Screen (DBS-ED) | non-free  
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
