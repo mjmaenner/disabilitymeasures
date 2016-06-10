@@ -25,6 +25,6 @@ function googleTranslateElementInit() {
 
 **Licence:** The CanChild website states: We are pleased to be able to offer the ACSF:SC User Guide and Tool at no cost for personal, non-commercial, and unfunded investigator-initiated studies.
 
-**Link to measure:** [ACSF-SC](https://canchild.ca/en/resources/254-autism-classification-system-of-functioning-social-communication-acsf-sc)
+**Link to measure:** [ACSF-SC](https://canchild.ca/en/resources/254-autism-classification-system-of-functioning-social-communication-acsf-sc) On right of page click ACSF:SC under the heading "Select a resource to download".
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
