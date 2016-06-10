@@ -45,6 +45,7 @@ BRIGANCE Screens | non-free
 British Ability Scales | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
 Cattell Infant Intelligence Scale | non-free
+Checklist for Autism Spectrum Disorder (CASD) | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Childhood Autism Rating Scale (CARS) | non-free
