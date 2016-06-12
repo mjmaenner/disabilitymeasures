@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 
 **Target Population:** Children and adolescents
 
-**Measurement properties and previous use:** There have been several studies that looked at the internal consistency of this tool. One study [Aman et. al.](http://www.ncbi.nlm.nih.gov/pubmed/8750075) did an independent factor analyses of parent and teacher ratings and found that internal consistency was high, parent-teacher agreement was satisfactory, and subscales were analogous to the Aberrant Behavior Checklist. The results from another study [Lecavalier et al.](http://www.ncbi.nlm.nih.gov/pubmed/15679190) also supported the construct validity of NCBRF in children and adolescents with ASD. 
+**Measurement properties and previous use:** There have been several studies that looked at the internal consistency of this tool. One study [Aman et. al.](http://www.ncbi.nlm.nih.gov/pubmed/8750075) did an independent factor analyses of parent and teacher ratings and found that internal consistency was high, parent-teacher agreement was satisfactory, and subscales were analogous to the Aberrant Behavior Checklist. The results from another study by [Lecavalier et al.](http://www.ncbi.nlm.nih.gov/pubmed/15679190) supported the construct validity of NCBRF in children and adolescents with ASD. 
 
 **Languages:** English
 
