@@ -30,6 +30,7 @@ function googleTranslateElementInit() {
   [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
+[The Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
 [Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat)  
   [Viking Speech Scale](http://disabilitymeasures.org/viking)  
