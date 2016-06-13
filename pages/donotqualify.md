@@ -96,6 +96,7 @@ Test of Language Development | non-free
 Test of Pretend Play (ToPP) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
 The Unstructured Imitation Assessment (UIA) | non-free
+TRIAD Social Skills Assessment | psychometrics not available
 Vineland Scales of Adaptive Behavior | non-free
 Wessex Revised Portage Checklist | non-free
 
