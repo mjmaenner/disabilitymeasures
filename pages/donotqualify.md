@@ -74,6 +74,7 @@ Guide for Monitoring Child Development (GMCD)| non-free
 Infant Development Inventory (IDI) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
+Jebsen-Taylor Test of Hand Function (JTTHF) | non-free
 Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Leiter International Performance Scale-Revised (Leiter-3) | non-free
 Lucknow Development Screen | non-free
