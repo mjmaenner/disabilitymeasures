@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Childhood Asperger's Syndrome Test (CAST)
+title: Childhood Autism Spectrum [formerly Asperger's Syndrome] Test (CAST)
 description:
 tags: measures
 ---
@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** The Childhood Asperger’s Syndrome is a 37 item parental questionnaire that screens for possible cases of autism spectrum conditions, specifically Asperger’s syndrome and related social and communication conditions. 
+**Type of Measure:** The Childhood Autism Spectrum Test, formerly known as the Childhood Asperger’s Syndrome Test is a 37 item parental questionnaire that screens for possible cases of autism spectrum conditions and related social and communication conditions. 
 
 **Target Population:** School aged children aged 4-11
 
@@ -21,7 +21,11 @@ function googleTranslateElementInit() {
 
 **Languages:** English and Chinese 
 
-**Authors and Citation:** Williams, J., Scott, F., Stott, C., Allison, C., Bolton, P., Baron-Cohen, S., & Brayne, C. (2005). The CAST (Childhood Asperger Syndrome Test) test accuracy. Autism, 9(1), 45-68.
+**Authors and Citations:** 
+[F. Scott, S. Baron-Cohen, P. Bolton and C. Brayne, (2002) The CAST (Childhood Asperger Syndrome Test) : Preliminary development of UK screen for mainstream primary-school children Autism 6(1):9-31](https://www.ncbi.nlm.nih.gov/pubmed/11918111)
+
+J. Williams, F. Scott, C.Stott, C. Allison, P. Bolton, S. Baron- Cohen and C. Brayne, (2004) The CAST (Childhood Asperger Syndrome Test) : test accuracy Autism :45-68
+
 
 **Licence:** From the website: Our tests are posted on our website to enable free access to academic researchers. None of them are diagnostic: No single score on any of our tests or questionnaires indicates that an individual has an Autism Spectrum Condition (ASC). If you are concerned that you, or a friend or relative, may have ASC, please discuss these concerns with your GP or family doctor or ask the National Autistic Society (NAS) or equivalent charity in your country, for advice.
 
