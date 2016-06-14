@@ -87,6 +87,7 @@ Scales of Independent Behavior-Revised (SIB-R) | non-free
 SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
+Sensory Profile | non-free
 Stanford Binet Intelligence Scales (SB5) | non-free
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
