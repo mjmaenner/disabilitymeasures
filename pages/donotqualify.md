@@ -64,6 +64,7 @@ Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
 Early Screening Profiles (ESP) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
+Functional Status II-R (FS II-R) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Griffith Mental Developmental Scales | non-free
