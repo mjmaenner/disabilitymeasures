@@ -55,6 +55,7 @@ Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler Checklist (CSBS-DP) | scoring system is non-free
 Developmental Behavior Checklist (DBC) | non-free
 Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free
+Developmental Profile™ 3 (DP™-3) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
 Developmental Checklist-Early Screen (DBS-ED) | non-free  
