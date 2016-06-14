@@ -49,6 +49,7 @@ Cattell Infant Intelligence Scale | non-free
 Checklist for Autism Spectrum Disorder (CASD) | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
+Child Health Questionnaire (CHQ) | PDF available for content review only, not for use
 Childhood Autism Rating Scale (CARS) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Communication and Symbolic Behavior Scales Developmental Profile Infant Toddler Checklist (CSBS-DP) | scoring system is non-free
