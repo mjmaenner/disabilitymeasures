@@ -95,6 +95,7 @@ Social Responsiveness Scale (SRS, SRS-2) | non-free
 Test of Language Development | non-free
 Test of Pretend Play (ToPP) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
+The Developmental, Dimensional and Diagnostic Interview (3di) | non-free
 The Unstructured Imitation Assessment (UIA) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
