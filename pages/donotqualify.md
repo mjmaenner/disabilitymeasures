@@ -90,6 +90,7 @@ Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
+Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
