@@ -1,6 +1,6 @@
 ---
 layout: page  
-title: The Adult's Scale of Hostility and Aggression- Reactive/Proactive (A-SHARP)
+title: The Adult Scale of Hostility and Aggression- Reactive/Proactive (A-SHARP)
 description:
 tags: measures
 ---
@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** The Adult’s Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP) is an instrument for measuring aggressive and hostile behavior in adults. The scale consists of five subscales: (1) Verbal Aggression, (2) Physical Aggression, (3) Hostile Affect, (4) Covert Aggression, and (5) Bullying
+**Type of Measure:** The Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP) is an instrument for measuring aggressive and hostile behavior in adults. The scale consists of five subscales: (1) Verbal Aggression, (2) Physical Aggression, (3) Hostile Affect, (4) Covert Aggression, and (5) Bullying
 
 **Target Population:** Adults with Intellectual or Developmental Disabilities
 
