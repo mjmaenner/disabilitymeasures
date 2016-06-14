@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
 [Autism Treatment Evaluation Checklist (ATEC)](http://disabilitymeasures.org/atec)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
-[Childhood Asperger's Syndrome Test (CAST)](http://disabilitymeasures.org/cast)  
+[Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)  
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
