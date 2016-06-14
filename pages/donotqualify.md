@@ -27,6 +27,7 @@ Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
 Angkor Hospital for Children Developmental Milestone Assessment Tool | non-free
 Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Assessment, Evaluation, and Programming System (AEPS) | non-free
+Assisting Hand Assessment (AHA) | non-free
 Autism Diagnostic Interview - Revised (ADI-R) | non-free  
 Autism Diagnostic Observation Schedule (ADOS) | non-free 
 Autism Observational Scale for Infants (AOSI) | non-free
