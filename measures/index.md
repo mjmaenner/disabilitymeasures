@@ -14,6 +14,7 @@ function googleTranslateElementInit() {
 
 ### Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
+[Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)    
 [Autism Classification System of Functioning: Social Communication (ACSF:SC)](http://disabilitymeasures.org/acsf-sc)  
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
 [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)  
