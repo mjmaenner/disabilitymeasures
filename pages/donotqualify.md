@@ -93,7 +93,8 @@ Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM)
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Preferences for Activities of Children (PAC) | non-free
-Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
+Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free  
+Quality of Upper Extremity Skills Test (QUEST) | non-free  
 Scales of Independent Behavior-Revised (SIB-R) | non-free
 Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
