@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 
 **Target Population:** Mothers with school aged children with disabilities, aged 5 to 18 years old
 
-**Measurement properties and previous use:** Psychometric evaluation of the tool was conducted using a sample of Victorian mothers with school aged children with disabilities (N=152). The Cronbach alpha was found to be 0.89, indicating excellent internal consistency. Additionally, after running tests of normality, the scale was found to be normally distributed with a mean score of 34.4 and standard deviation of 9.3 (range: 11 to 54).[Bourke-Taylor, H. M., Howie, L., & Law, M., 2010]( http://www.ncbi.nlm.nih.gov/pubmed/20047597).
+**Measurement properties and previous use:** Psychometric evaluation of the tool was conducted using a sample of Victorian mothers with school aged children with disabilities (N=152). The Cronbach alpha was found to be 0.89, indicating excellent internal consistency. Additionally, after running tests of normality, the scale was found to be normally distributed with a mean score of 34.4 and standard deviation of 9.3 (range: 11 to 54). [Bourke-Taylor, H. M., Howie, L., & Law, M., 2010]( http://www.ncbi.nlm.nih.gov/pubmed/20047597).
 
 **Languages:** English
 
