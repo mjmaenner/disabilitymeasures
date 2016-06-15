@@ -92,6 +92,7 @@ Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
+Preferences for Activities of Children (PAC) | non-free
 Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
 Short Child Occupational Profile (SCOPE) | non-free
@@ -107,7 +108,9 @@ Social Responsiveness Scale (SRS, SRS-2) | non-free
 Test of Language Development | non-free
 Test of Pretend Play (ToPP) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
+The Children's Assessment of Participation and Enjoyment (CAPE) | non-free
 The Developmental, Dimensional and Diagnostic Interview (3di) | non-free
+The Participation and Environment Measure for Children and Youth (PEM-CY) | non-free
 The Unstructured Imitation Assessment (UIA) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
