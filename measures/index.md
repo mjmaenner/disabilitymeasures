@@ -33,9 +33,9 @@ function googleTranslateElementInit() {
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
-[Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)
-[The Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)
-[The Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
+[Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
+[The Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)  
+[The Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)    
 [Viking Speech Scale](http://disabilitymeasures.org/viking)  
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
