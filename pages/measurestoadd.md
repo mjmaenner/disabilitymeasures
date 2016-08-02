@@ -23,6 +23,10 @@ CSBS
 Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24867341
 ASHARP
 CSHARP
+RBQ2a - repetitive behavior questionnaire - https://sites.cardiff.ac.uk/rbq2a/online/
+http://www.autismrpphub.org/sites/default/files/resources/repetitive_behaviours_instruments_11thsept2013.pdf
+
+
 
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
