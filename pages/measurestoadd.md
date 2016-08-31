@@ -25,8 +25,8 @@ ASHARP
 CSHARP
 RBQ2a - repetitive behavior questionnaire - https://sites.cardiff.ac.uk/rbq2a/online/
 http://www.autismrpphub.org/sites/default/files/resources/repetitive_behaviours_instruments_11thsept2013.pdf
-
-
+http://www.sdqinfo.com/
+http://www.cfo-pso.org.ph/pdf/orientationtrainingontheK_12/revisedphilippineECCDchecklist.pdf
 http://siteresources.worldbank.org/EXTAFRREGTOPEDUCATION/Resources/444707-1291071725351/ExaminingECDtoolkitFULL.pdf
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
