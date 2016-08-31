@@ -13,18 +13,18 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** The Functional Communication Classification System was designed to classify how children between the ages of four and five communicate on a daily basis. The tool specifically focuses on what children can do, instead of what they can’t. There are five levels a child can be categorized in: (1) effective communicator in most situations (2) effective communicator in most situations, but does need some help (3) an effective communicator in most situations and can communicate small ranges of messages and topics to the most familiar people (4) Assistance is required in most situations, especially with unfamiliar people and environments and communicates daily needs and wants (5) communicates unintentionally with others, using behavior and movement. 
+**Type of Measure:** The Functional Communication Classification System was designed to classify how children with cerebral palsy between the ages of four and five communicate on a daily basis. The tool focuses on how children typically communicate with familiar and unfamiliar communication partners. There are five classifications a child can be categorized in: (1) effective communicator in most situations (2) effective communicator in most situations, but does need some help (3) an effective communicator in most situations and can communicate small ranges of messages and topics to most familiar people (4) assistance is required in most situations, especially with unfamiliar people and environments. Communicates daily needs and wants to familiar people (5) communicates using undirected movement, vocalisation and/or behaviour, for interpretation by familiar people.
  
-**Target Population:** Children between the ages of 4 and 5
+**Target Population:** The FCCS was originally designed for children with cerebral palsy between the ages of 4 and 6 years.  The FCCS is also endorsed by the SCPE as a valid and reliable classification for use with children up to 13 years.  The authors are currently undertaking extended reliability and validity testing for individuals with cerebral palsy up to 18 years of age.
 
-**Measurement properties and previous use:** [Barty et. al](http://onlinelibrary.wiley.com/doi/10.1111/dmcn.13124/suppinfo) state that the FCCS is useful for CP because it presents a comprehensive overview of the problem characterizing communication and the tool is useful in considering speech, language, and communication in children with CP. Overall interrater reliability was excellent and kappa values were 0.94 between speech-language pathologists (SLP) and other allied health professionals (AHP), 069 between SLP’s and parents, and 0.60 between AHP’s and parents. 
+**Measurement properties and previous use:** [Barty et. al] (http://onlinelibrary.wiley.com/doi/10.1111/dmcn.13124/abstract) report the FCCS has very strong construct, content, and face validity for classifying observable functional communication.  Overall interrater reliability is excellent (intraclass correlation coefficient =0.97) with Kappa values of 0.94 between speech-language pathologists (SLP) and other allied health professionals (AHP), 0.59 between SLP’s and parents, and 0.60 between AHP’s and parents.
 
 **Languages:** Available in English
 
-**Authors and Citation:**  Barty, Elizabeth, Katy Caynes, and Leanne M. Johnston. "Development and reliability of the Functional Communication Classification System for children with cerebral palsy." Developmental Medicine & Child Neurology (2016).
+**Authors and Citation:**  Barty E, Caynes K and Johnston LM (2016).  Development and reliability of the Functional Communication Classiﬁcation System for children with cerebral palsy. Dev Med & Child Neurol 2016; DOI:  10.1111/dmcn.13124
 
-**Licence:** Available and copyrighted on The Centre for Cerebral Palsy and Cerbral Palsy League of Queensland website
+**Licence:** Copyright The Centre for Cerebral Palsy and Cerebral Palsy League of Queensland (2006).
 
-**Link to measure:** [Functional Communication Classification System](http://www.cpl.org.au/docs/position-descriptions/fccs.pdf?sfvrsn=0)
+**Link to measure:** [Functional Communication Classification System](http://onlinelibrary.wiley.com/doi/10.1111/dmcn.13124/suppinfo) Note: the FCCS is under supporting information, the file is "dmcn13124-sup-0001-AppendixS1.pdf". 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
