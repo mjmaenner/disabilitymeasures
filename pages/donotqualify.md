@@ -83,7 +83,6 @@ Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Leiter International Performance Scale-Revised (Leiter-3) | non-free
 Lucknow Development Screen | non-free
 Krug Asperger Disorder Index (KADI) | non-free
-Malawian Developmental Assessment Tool (MDAT)| non-free
 McCarthy Scales of Children's Abilities | non-free
 Merrill Palmer Scale of Mental Tests | non-free
 Mini Assisting Hand Assessment (Mini-AHA) | non-free
