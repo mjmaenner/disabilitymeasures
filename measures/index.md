@@ -14,6 +14,7 @@ function googleTranslateElementInit() {
 
 ### Freely-available measures:  
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
+[Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)  
 [Assistance to Participate Scale (APS)](http://disabilitymeasures.org/aps)   
 [Autism Classification System of Functioning: Social Communication (ACSF:SC)](http://disabilitymeasures.org/acsf-sc)   
 [Autism Parenting Stress Index (APSI)](http://disabilitymeasures.org/apsi)  
@@ -21,7 +22,8 @@ function googleTranslateElementInit() {
 [Autism Treatment Evaluation Checklist (ATEC)](http://disabilitymeasures.org/atec)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Child’s Challenging Behavior Scale (CCBS)](http://disabilitymeasures.org/ccbs)   
-[Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)  
+[Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)   
+[Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [DENVER II](http://disabilitymeasures.org/denverii)  
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
@@ -35,9 +37,7 @@ function googleTranslateElementInit() {
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
-[Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)  
-[The Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)  
-[The Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)    
+[Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)      
 [Viking Speech Scale](http://disabilitymeasures.org/viking)  
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
