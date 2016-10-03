@@ -15,14 +15,10 @@ function googleTranslateElementInit() {
 
 AOSI?  
 3di  
-ACSF:SC (canchild)  
-CHILDHOOD ASPERGER SYNDROME TEST (CAST)  
 Developmental Behavior Checklist -- not sure if free -- http://www.jaacap.com/article/S0890-8567(09)60643-2/abstract  
 CHAT  
 CSBS  
 Early Screening for Autistic Traits (ESAT) http://www.ncbi.nlm.nih.gov/pubmed/24867341
-ASHARP
-CSHARP
 RBQ2a - repetitive behavior questionnaire - https://sites.cardiff.ac.uk/rbq2a/online/
 http://www.autismrpphub.org/sites/default/files/resources/repetitive_behaviours_instruments_11thsept2013.pdf
 http://www.sdqinfo.com/
@@ -32,10 +28,6 @@ GO4KIDDS (adrienne perry)
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 first year inventory https://www.med.unc.edu/ahs/pearls/research/development-of-the-first-year-inventory
   
-ACFS:CS  
-
-
-
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
 http://unesdoc.unesco.org/images/0022/002291/229188e.pdf 
