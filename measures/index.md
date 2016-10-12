@@ -25,6 +25,7 @@ function googleTranslateElementInit() {
 [Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)   
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
+[Communication and Symbolic Behavior Scales Developmental Profile (CSBS-DP)](disabilitymeasures/csbs-dp/index.md)   
 [DENVER II](http://disabilitymeasures.org/denverii)  
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
