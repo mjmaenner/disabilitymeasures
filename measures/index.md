@@ -27,6 +27,7 @@ function googleTranslateElementInit() {
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
 [Communication and Symbolic Behavior Scales Developmental Profile (CSBS-DP)](disabilitymeasures/csbs-dp/index.md)   
 [DENVER II](http://disabilitymeasures.org/denverii)  
+[Early Screening for Autistic Traits (ESAT)](http://disabilitymeasures.org/ESAT)  
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
 [Manual Ability Classification System (MACS)](http://disabilitymeasures.org/macs/)  
