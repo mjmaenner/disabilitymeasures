@@ -57,7 +57,8 @@ Childhood Autism Rating Scale (CARS) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Computer-Based Instrument for low engine language testing (C-BiLLT) | not commercially available  
 Developmental Behavior Checklist (DBC) | non-free
-Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free
+Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free   
+Developmental Behavior Checklist-Short Form (DBC-P24) | non-free   
 Developmental Profile™ 3 (DP™-3) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
