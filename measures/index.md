@@ -37,6 +37,7 @@ function googleTranslateElementInit() {
 [Nisonger Child Behavior Health Rating Form (NCBRF)](http://disabilitymeasures.org/ncbrf)  
 [Parent Interview for Autism–Clinical Version (PIA–CV)](http://disabilitymeasures.org/pia-cv)  
 [Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat)  
+[Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
