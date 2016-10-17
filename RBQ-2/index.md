@@ -28,7 +28,7 @@ Dr. Jacqui Rodgers: jacqui.rodgers@newcastle.ac.uk
 **Authors and Citation:**     
 Leekam, S., Tandos, J., McConachie, H., Meins, E., Parkinson, K., Wright, C., ... & Couteur, A. L. (2007). Repetitive behaviours in typically developing 2‐year‐olds. Journal of Child Psychology and Psychiatry, 48(11), 1131-1138.
 
-**Licence:** This measure is free to use. 
+**Licence:** This measure is free to use. Specific terms and conditions of use have not yet been specified.
 
 **Link to measure:** [RBQ-2](http://research.ncl.ac.uk/cargo-ne/Repetitive%20Behaviour%20Questionnaire%20(RBQ-2)scoring%20final1.pdf) 
 
