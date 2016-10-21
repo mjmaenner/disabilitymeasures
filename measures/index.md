@@ -40,7 +40,7 @@ function googleTranslateElementInit() {
 [Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)  
-[Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/swyc)  
+[Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/SWYC)  
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)      
 [Viking Speech Scale](http://disabilitymeasures.org/viking)  
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
