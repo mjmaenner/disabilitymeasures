@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: The Survey of Wellbeing of Young Children (SWYC)
 description:
 tags: measures
 ---
@@ -13,13 +13,13 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:**  The Survey of Wellbeing of Young Children (SWYC) is a comprehensive screening instrument for children under the age of 5. The SWYC is comprised of several parts, which broadly assess three domains of child functioning: 1) developmental, 2) emotional/behvaioral, and 3) family context. Users are encouraged to review the [manual and training resources](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Manual-Training-Resources.aspx) prior to use.    
+**Type of Measure:**  The Survey of Wellbeing of Young Children (SWYC) is a comprehensive screening instrument for children under the age of 5 that evaluates cognitive, language, motor, and social-emotional development as well as family risk factors (parental depression, conflict, or substance abuse, and hunger). The SWYC is comprised of several parts, which broadly assess three domains of child functioning: 1) development, 2) emotion/behavior, and 3) family context. Users are encouraged to review the [manual and training resources](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Manual-Training-Resources.aspx) prior to use.    
 
-**Target Population:** Children 1 - 65 months of age
+**Target Population:** Children under the age of 5; Age specific forms are available for children ages 1 - 65 months
 
-**Measurement properties and previous use:** Items contained in the SWYC were written and adapted based on previously validated screening tests and expert opinion. It is comprised of the Developmental Milestones Questionnaire, Family Questions Questionnaire, Parent's Observations of Social Interactions (POSI), Baby Pediatric Symptom Checklist (BPSC), Preschool Pediatric Symptom Checklist (PPSC), and two items on parent concern. Individual measurement properties are discussed in greater detail on each respective instrument's page (see "Link to Measures" portion of this page). 
+**Measurement properties and previous use:** Items contained in the SWYC were written and adapted based on previously validated screening tests and expert opinion. It is comprised of the Developmental Milestones Questionnaire, Family Questions Questionnaire, Parent's Observations of Social Interactions (POSI), Baby Pediatric Symptom Checklist (BPSC), Preschool Pediatric Symptom Checklist (PPSC), and two items on parent concern. Developers provide reliability, validity, sensitivity, and specificity information on some or all components of the SWYC, which was based on various psychometric evaluation techniques. Individual measurement properties are discussed in greater detail on each respective instrument's page (see "Link to Measures" below). 
 
-**Languages:** English, Spanish, Burmese, Nepali, and Portuguese
+**Languages:** English, Spanish, Burmese, Nepali, and Portuguese (see the [Translation's Page](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Translations.aspx)).
 
 **Authors and Citation:**  
 Sheldrick, R.C. & Perrin, E.C. (2013) Evidence-based milestones for surveillance of cognitive, language and motor development. Academic Pediatrics. 13(6):577-86. doi: 10.1016/j.acap.2013.07.001.  
@@ -36,7 +36,7 @@ Sheldrick, R.C., Merchant, S., Perrin, E.C (2011). Identification of development
 
 Sheldrick, R.C., Perrin, E.C (2009). Surveillance of children’s behavior and development: Practical solutions for primary care. Journal of Developmental and Behavioral Pediatrics, 30:151-3. PMID 19363367.  
 
-**Licence:** All survey components are freely available for use, per the Survey of Wellbeing of Children's [website](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Parts-of-the-SWYC.aspx).  
+**Licence:** All survey components are freely available for use, per the Survey of Wellbeing of Children's [FAQ website](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/FAQ.aspx). It cannot be modified without expressed permission of the authors. If you are interested in translating the SWYC into a new language or administering it in a way for which the downloadable forms are not appropriate, please contact Kate Mattern at: theswyc@gmail.com. 
 
 **Link to measures:** [Survey of Wellbeing of Young Children (SWYC)](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Parts-of-the-SWYC.aspx)  
 [Developmental Milestones Question Set](insert link to dd measures page)      
