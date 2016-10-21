@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 
 **Measurement properties and previous use:** Items contained in the SWYC were written and adapted based on previously validated screening tests and expert opinion. It is comprised of the Developmental Milestones Questionnaire, Family Questions Questionnaire, Parent's Observations of Social Interactions (POSI), Baby Pediatric Symptom Checklist (BPSC), Preschool Pediatric Symptom Checklist (PPSC), and two items on parent concern. Developers provide reliability, validity, sensitivity, and specificity information on some or all components of the SWYC, which was based on various psychometric evaluation techniques. Individual measurement properties are discussed in greater detail on each respective instrument's page (see "Link to Measures" below). 
 
-**Languages:** English, Spanish, Burmese, Nepali, and Portuguese (see the [Translation's Page](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Translations.aspx)).
+**Languages:** English, Spanish, Burmese, Nepali, and Portuguese (see [Translations](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Translations.aspx)).
 
 **Authors and Citation:**  
 Sheldrick, R.C. & Perrin, E.C. (2013) Evidence-based milestones for surveillance of cognitive, language and motor development. Academic Pediatrics. 13(6):577-86. doi: 10.1016/j.acap.2013.07.001.  
