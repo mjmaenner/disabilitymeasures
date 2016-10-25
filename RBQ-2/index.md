@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Repetitive Behaviour Questionnaire (RBQ-2)
 description:
 tags: measures
 ---
