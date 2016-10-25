@@ -1,6 +1,6 @@
 ---
 layout: page
-title: 
+title: Adult Repetitive Behaviour Questionnaire-2 (RBQ-2A)
 description:
 tags: measures
 ---
