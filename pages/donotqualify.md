@@ -74,7 +74,8 @@ Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Griffith Mental Developmental Scales | non-free  
 Gross Motor Function Measure (GMFM) | scoring system is non-free  
-Guide for Monitoring Child Development (GMCD)| non-free  
+Guide for Monitoring Child Development (GMCD)| not available online
+Harris Infant Neuromotor Test (HINT) | non-free
 Infant Development Inventory (IDI) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
@@ -107,6 +108,7 @@ Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
+Test of Infant Motor Performance (TIMP) | non-free
 Test of Language Development | non-free
 Test of Pretend Play (ToPP) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
