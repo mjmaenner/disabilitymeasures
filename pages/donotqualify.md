@@ -24,6 +24,7 @@ Aberrant Behavior Checklist (ABC) | non-free
 Ages and Stages Questionnaire (ASQ) | non-free
 Ages and Stages Questionnaire - 3 (ASQ-3) | non-free
 Ages and Stages Questionnaire - Social-Emotional (ASQ:SE) | non-free
+Alberta Infant Motor Scale (AIMS) | non-free
 Angkor Hospital for Children Developmental Milestone Assessment Tool | non-free
 Asperger Syndrome Diagnostic Scale (ASDS)| non-free
 Assessment, Evaluation, and Programming System (AEPS) | non-free
