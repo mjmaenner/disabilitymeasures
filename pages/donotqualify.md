@@ -92,6 +92,7 @@ Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) 
 Movement Assessement Battery for Children | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
+Peabody Developmental Motor Scales (PDMS) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Preferences for Activities of Children (PAC) | non-free
