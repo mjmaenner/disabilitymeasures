@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:**  Parent's Observations of Social Interaction (POSI) is one component of the Survey of Wellbeing of Young Children (SWYC) that was designed to detect Autism Spectrum Disorder (ASD). It is a 7-item screening tool that was developed from the Modified Checklist for Autism in Toddlers ([M-CHAT](http://disabilitymeasures.org/m-chat/)).       
+**Type of Measure:**  Parent's Observations of Social Interaction (POSI) is one component of the [Survey of Wellbeing of Young Children (SWYC)](http://disabilitymeasures.org/SWYC/) that was designed to detect Autism Spectrum Disorder (ASD). It is a 7-item screening tool that was developed from the Modified Checklist for Autism in Toddlers ([M-CHAT](http://disabilitymeasures.org/m-chat/)).       
 
 **Target Population:** Children ages 16-18 months
 
