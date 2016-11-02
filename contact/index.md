@@ -11,7 +11,9 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-#### For general questions, please contact Matthew Maenner, PhD  
+#### Feel free to contact us through the [disabilitymeasures.org Google Group](https://groups.google.com/forum/#!forum/disabilitymeasures)  
+
+#### For other general questions, please contact Matthew Maenner, PhD  
 email: maenner[at]gmail[dot]com
  
 <br>
