@@ -27,7 +27,7 @@ function googleTranslateElementInit() {
 [Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)   
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 [Communication Function Classification System (CFCS)](http://disabilitymeasures.org/cfcs)  
-[Communication and Symbolic Behavior Scales Developmental Profile (CSBS-DP)](http://disabilitymeasures.org/CSBS-DP)   
+[Communication and Symbolic Behavior Scales Developmental Profile (CSBS-DP)](http://disabilitymeasures.org/csbs-dp)   
 [DENVER II](http://disabilitymeasures.org/denverii)  
 [Developmental Milestones Question Set of the Survey of Wellbeing of Young Children (SWYC Milestones)](http://disabilitymeasures.org/SWYC-Milestones)  
 [Early Screening for Autistic Traits (ESAT)](http://disabilitymeasures.org/ESAT)  
