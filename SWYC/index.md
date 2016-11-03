@@ -39,7 +39,7 @@ Sheldrick, R.C., Perrin, E.C (2009). Surveillance of children’s behavior and d
 **Licence:** All survey components are freely available for use, per the Survey of Wellbeing of Children's [FAQ website](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/FAQ.aspx). It cannot be modified without expressed permission of the authors. If you are interested in translating the SWYC into a new language or administering it in a way for which the downloadable forms are not appropriate, please contact Kate Mattern at: theswyc@gmail.com. 
 
 **Link to measures:** [Survey of Wellbeing of Young Children (SWYC)](https://www.floatinghospital.org/The-Survey-of-Wellbeing-of-Young-Children/Parts-of-the-SWYC.aspx)  
-[Developmental Milestones Question Set](http://disabilitymeasures.org/SWYC-Milestones)      
+[Developmental Milestones Question Set (*SWYC Milestones*)](http://disabilitymeasures.org/SWYC-Milestones)      
 [Parent Observations of Social Interactions (POSI)](http://disabilitymeasures.org/POSI/)      
 [Baby Pediatric Symptom Checklist (BPSC)](http://disabilitymeasures.org/BPSC/)    
 [Preschool Pediatric Symptom Checklist (PPSC)](http://disabilitymeasures.org/PPSC/)      
