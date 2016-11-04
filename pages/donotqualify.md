@@ -127,6 +127,7 @@ The Child and Adolescent Symptom Inventory (CASI) | non-free
 The Children's Assessment of Participation and Enjoyment (CAPE) | non-free
 The Developmental, Dimensional and Diagnostic Interview (3di) | non-free
 The Unstructured Imitation Assessment (UIA) | non-free
+Transdisciplinary Play-Based Assessment – Second Edition (TPBA-2) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
 Wessex Revised Portage Checklist | non-free
