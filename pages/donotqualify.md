@@ -59,6 +59,7 @@ Child Development Chart | non-free
 Child Development Review | non-free
 Child Health Questionnaire (CHQ) | PDF available for content review only, not for use
 Childhood Autism Rating Scale (CARS) | non-free
+Clinical Observation of Motor and Postural Skills – Second Edition (COMPS-2) | non-free
 Cognitive Assessment System - Second Edition (CAS2) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Comprehensive Test of Phonological Processing – Second Edition (CTOPP-2) | non-free
