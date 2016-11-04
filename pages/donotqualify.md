@@ -58,7 +58,10 @@ Child Health Questionnaire (CHQ) | PDF available for content review only, not fo
 Childhood Autism Rating Scale (CARS) | non-free
 Cognitive Assessment System - Second Edition (CAS2) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
+Comprehensive Test of Phonological Processing – Second Edition (CTOPP-2) | non-free
 Computer-Based Instrument for low engine language testing (C-BiLLT) | not commercially available  
+Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
+Detroit Tests of Learning Aptitude - Fourth Edition (DTLA-4) | non-free
 Developmental Behavior Checklist (DBC) | non-free
 Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free   
 Developmental Behavior Checklist-Short Form (DBC-P24) | non-free   
@@ -79,6 +82,7 @@ Griffith Mental Developmental Scales | non-free
 Gross Motor Function Measure (GMFM) | scoring system is non-free  
 Guide for Monitoring Child Development (GMCD)| not available online
 Harris Infant Neuromotor Test (HINT) | non-free
+Hawaii Early Learning Profile (HELP) | non-free
 Infant Development Inventory (IDI) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
