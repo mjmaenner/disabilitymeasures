@@ -113,6 +113,7 @@ Quality of Upper Extremity Skills Test (QUEST) | non-free
 Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
 Quick Neurological Screening Test – Third Edition (QNST-3) | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
+School Function Assessment (SFA) | non-free
 Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
