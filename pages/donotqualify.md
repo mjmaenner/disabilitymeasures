@@ -104,6 +104,7 @@ Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM)
 Peabody Developmental Motor Scales (PDMS) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
+Psychoeducational Profile – Third Edition (PEP-3) | non-free
 Preferences for Activities of Children (PAC) | non-free
 Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
