@@ -77,7 +77,7 @@ Early Screening Profiles (ESP) | non-free
 Evaluation of Social Interaction (ESI) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Functional Status II-R (FS II-R) | non-free
-Functional Assessment Checklist: Teachers and Staff (FACTS) | non-free
+Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Griffith Mental Developmental Scales | non-free  
@@ -110,7 +110,8 @@ Psychoeducational Profile – Third Edition (PEP-3) | non-free
 Preferences for Activities of Children (PAC) | non-free
 Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
-Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free    
+Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
+Quick Neurological Screening Test – Third Edition (QNST-3) | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
 Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
