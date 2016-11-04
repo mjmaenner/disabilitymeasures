@@ -83,6 +83,7 @@ Gross Motor Function Measure (GMFM) | scoring system is non-free
 Guide for Monitoring Child Development (GMCD)| not available online
 Harris Infant Neuromotor Test (HINT) | non-free
 Hawaii Early Learning Profile (HELP) | non-free
+Help for Special Preschoolers Assessment Checklist (HSPAC) | non-free
 Infant Development Inventory (IDI) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
