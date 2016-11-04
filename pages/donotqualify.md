@@ -77,6 +77,7 @@ Early Screening Profiles (ESP) | non-free
 Evaluation of Social Interaction (ESI) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free
 Functional Status II-R (FS II-R) | non-free
+Functional Assessment Checklist: Teachers and Staff (FACTS) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
 Griffith Mental Developmental Scales | non-free  
