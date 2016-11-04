@@ -94,6 +94,7 @@ Lucknow Development Screen | non-free
 Krug Asperger Disorder Index (KADI) | non-free
 McCarthy Scales of Children's Abilities | non-free
 Merrill Palmer Scale of Mental Tests | non-free
+Merrill-Palmer-Revised Scales of Development (M-P-R) | non-free
 Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Movement Assessement Battery for Children | non-free
