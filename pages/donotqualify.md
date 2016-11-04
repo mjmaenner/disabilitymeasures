@@ -44,6 +44,7 @@ Autism Spectrum Disorders - Child version | non-free
 Baby and Infant Screen for Children with Autism Traits (BISCUIT) | non-free
 Battelle Developmental Inventory Second Edition Normative Update (BDI-2 NU)| non-free
 Bayley Scales of Infant and Toddler Development, Third Edition (Bayley-III)| non-free
+Beery-Buktenica Developmental Test of Visual-Motor Integration – Sixth Edition (Beery VMI) | non-free
 Behavior Assessment System for Children (BASC-2) | non-free
 Behavior Rating Inventory of Executive Function (BRIEF) | non-free
 Brief Observation of Social Communication Change (BOSCC) | not commercially available
