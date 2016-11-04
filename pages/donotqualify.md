@@ -51,6 +51,7 @@ Brief Observation of Social Communication Change (BOSCC) | not commercially avai
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
 British Ability Scales | non-free
+Bruininks-Oseretsky Test of Motor Proficiency – Second Edition (BOT-2) | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
 Cattell Infant Intelligence Scale | non-free
 Checklist for Autism Spectrum Disorder (CASD) | non-free
