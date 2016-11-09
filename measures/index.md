@@ -39,6 +39,7 @@ function googleTranslateElementInit() {
 [Nisonger Child Behavior Health Rating Form (NCBRF)](http://disabilitymeasures.org/ncbrf)  
 [Parent Interview for Autism–Clinical Version (PIA–CV)](http://disabilitymeasures.org/pia-cv)  
 [Parent's Observations of Social Interaction (POSI)](http://disabilitymeasures.org/POSI/)  
+[Pediatric Symptom Checklist (PSC)](http://disabilitymeasures.org/PSC/)  
 [Preschool Pediatric Symptom Checklist (PPSC)](http://disabilitymeasures.org/PPSC/)    
 [Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat)  
 [Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)  
