@@ -48,3 +48,6 @@ http://www.unl.edu/asdnetwork/uploads/featured-articles/Table_2_ASD_Specific_Scr
 http://www.performwell.org/index.php/find-surveyassessments/outcomes/social-development/life-skills
 https://flintbox.com/public/project/25217/
 screening tools :http://www.bioline.org.br/pdf?hn14034
+
+Sensory Perception Questionnaire:
+https://molecularautism.biomedcentral.com/articles/10.1186/2040-2392-5-29
