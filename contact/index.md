@@ -18,11 +18,10 @@ email: maenner[at]gmail[dot]com
  
 <br>
 
-#### DisabilityMeasures.org Advisors:
-TBD
+#### DisabilityMeasures.org Contributors
 
 <br>
 
-#### Partners and Affiliated Organizations
+#### Contributing Organizations
 [Global Partnership for the Epidemiology of Developmental Disabilities (GPEDD)](http://www.gpedd.org)  
 [Early Childhood Development Task Force (ECDtf)](http://www.gpcwd.org/early-childhood-development.html)  
