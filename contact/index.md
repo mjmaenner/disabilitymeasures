@@ -23,5 +23,5 @@ email: maenner[at]gmail[dot]com
 <br>
 
 #### Contributing Organizations
-[Global Partnership for the Epidemiology of Developmental Disabilities (GPEDD)](http://www.gpedd.org)  
+[Global Partnership for the Epidemiology of Developmental Disabilities (GPEDD)](http://www.gpedd.wordpress.com)  
 [Early Childhood Development Task Force (ECDtf)](http://www.gpcwd.org/early-childhood-development.html)  
