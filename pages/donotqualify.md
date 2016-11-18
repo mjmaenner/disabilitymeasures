@@ -77,8 +77,10 @@ Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
 Early Screening Profiles (ESP) | non-free
+EU-Emotional Stimulus Set | not available
 Evaluation of Social Interaction (ESI) | non-free
-FirstSTEp Screening Test for Evaluating Preschoolers | non-free
+FirstSTEp Screening Test for Evaluating Preschoolers | non-free  
+Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
 Gilliam Asperger's Disorder Scale (GADS) | non-free
