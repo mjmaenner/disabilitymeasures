@@ -142,7 +142,7 @@ Test of Language Development | non-free
 The Test of Pragmatic Language – Second Edition (TOPL-2) | non-free
 Test of Pretend Play (ToPP) | non-free
 Test of Problem Solving – Third Edition – Elementary (TOPS-3) | non-free
-Test of Problem Solving 2 – ADOLESCENT (TOPS-2-ADOLESCENT)
+Test of Problem Solving 2 – ADOLESCENT (TOPS-2-ADOLESCENT) | non-free
 The Child and Adolescent Symptom Inventory (CASI) | non-free
 The Children's Assessment of Participation and Enjoyment (CAPE) | non-free
 The Developmental, Dimensional and Diagnostic Interview (3di) | non-free
