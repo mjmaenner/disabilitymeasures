@@ -59,6 +59,8 @@ Child Development Chart | non-free
 Child Development Review | non-free
 Child Health Questionnaire (CHQ) | PDF available for content review only, not for use
 Childhood Autism Rating Scale (CARS) | non-free
+Children's Communication Checklist (CCC-2) | non-free
+Clinical Evaluation of Language Fundamentals – Fifth Edition (CELF-5) | non-free
 Clinical Observation of Motor and Postural Skills – Second Edition (COMPS-2) | non-free
 Cognitive Assessment System - Second Edition (CAS2) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
@@ -113,11 +115,15 @@ Peabody Developmental Motor Scales (PDMS) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
 Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Psychoeducational Profile – Third Edition (PEP-3) | non-free
+Pragmatic Language Observation Scale (PLOS) | non-free
 Preferences for Activities of Children (PAC) | non-free
+Preschool Language Scale-5 (PLS-5) | non-free
 Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
 Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
 Quick Neurological Screening Test – Third Edition (QNST-3) | non-free
+Receptive-Expressive Emergent Language Scale-3 (REEL-3) | non-free
+The Rossetti Infant-Toddler Language Scale | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
 School Function Assessment (SFA) | non-free
 Short Child Occupational Profile (SCOPE) | non-free
@@ -130,9 +136,13 @@ Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
+Test of Expressive Language (TEXL) | non-free
 Test of Infant Motor Performance (TIMP) | non-free
 Test of Language Development | non-free
+The Test of Pragmatic Language – Second Edition (TOPL-2) | non-free
 Test of Pretend Play (ToPP) | non-free
+Test of Problem Solving – Third Edition – Elementary (TOPS-3) | non-free
+Test of Problem Solving 2 – ADOLESCENT (TOPS-2-ADOLESCENT)
 The Child and Adolescent Symptom Inventory (CASI) | non-free
 The Children's Assessment of Participation and Enjoyment (CAPE) | non-free
 The Developmental, Dimensional and Diagnostic Interview (3di) | non-free
