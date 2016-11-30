@@ -17,14 +17,16 @@ function googleTranslateElementInit() {
 
 **Target Population:** Adolescents with mild intellectual disabilities and learning disabilities
 
-**Measurement properties and previous use:** Domains and subdomains of the Scale were derived based on information collected from a series of structured interviews with a sample adults/adolescents who had varying degress of intellectual disability (N = 408). The definitional framework for the Scale was evaluated using multiple measures, including an extant survey called the National Consumer Survey (NCS), which evaluated the independence, integration, and productivity of people with developmental disabilities. A series of self-report measures were used to examine each characteristic of self-determination, and a multiple discriminant function analysis was conducted to identify essentiaal characteristics that are important for distinguishing between people with intellectual disability who were self-determined and those who were not.  The sample was divided into two dichotomous groups based on the performance of behaviors generally agreed upon as reflecting self-determination (derived from NCS survey items). Analyses indicated that, on measures of each of the four essential characteristics, there were significant differences between individuals who engaged in behaviors reflecting self-determination and those who did not.
+**Measurement properties and previous use:** Domains and subdomains of the Scale were derived based on information collected from a series of structured interviews with a sample adults/adolescents who had varying degress of intellectual disability (N = 408). A series of self-report measures were used to examine each characteristic of self-determination, and a multiple discriminant function analysis was conducted to identify essential characteristics that are important for distinguishing between people with intellectual disability who were self-determined and those who were not (i.e. autonomy, self-regulation, psychological empowerment, and self-realization).  Survey items for each domain were derived from other self-report measures or were generated based on author recommendations. 
 
-**Languages:**
+The validation sample was divided into two dichotomous groups based on performance of behaviors generally agreed upon as reflecting self-determination. Analyses indicated that, on measures of each of the four essential characteristics, there were significant differences between individuals who engaged in behaviors reflecting self-determination and those who did not. Construct validity was further assessed via several factor analyses (see [Wehmeyer's (1995) procedural guidelines manual](http://www.thearc.org/document.doc?id=3671) for detailed review). 
 
-**Authors and Citation:**
+**Languages:** English 
 
-**Licence:** 
+**Authors and Citation:** Wehmeyer, M. L. (1995). The Arc's Self-Determination Scale: Procedural Guidelines.
 
-**Link to measure:**
+**Licence:** This measure is freely available online, and may be used along with proper citiation. 
+
+**Link to measure:** [Arc's Self Determination Scale](http://www.thearc.org/document.doc?id=3670)  
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
