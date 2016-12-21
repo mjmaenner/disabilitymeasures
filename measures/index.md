@@ -24,6 +24,7 @@ function googleTranslateElementInit() {
 [Autism Treatment Evaluation Checklist (ATEC)](http://disabilitymeasures.org/atec)  
 [Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
 [Baby Pediatric Symptom Checklist (BPSC)](http://disabilitymeasures.org/BPSC/)  
+[Cambridge Mindreading (CAM) Face-Voice Battery (Adult)](http://disabilitymeasures.org/CAM-Adult/)    
 [Child’s Challenging Behavior Scale (CCBS)](http://disabilitymeasures.org/ccbs)   
 [Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)   
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
