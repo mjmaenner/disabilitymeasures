@@ -27,7 +27,7 @@ The validity of the the Denver II was established by the precision with which th
 [Frankenburg, W. K., Dodds, J., Archer, P., Shapiro, H., & Bresnick, B. (1992). The Denver II: a major revision and restandardization of the Denver Developmental Screening Test. Pediatrics, 89(1), 91-97.](https://www.ncbi.nlm.nih.gov/pubmed/1370185)
 
 **Licence:** 
-[User agreement](http://denverii.com/) is provided on website, and indicates that items are copyrighted with the exception of the test kit and contents. Although they can be downloaded without charge, they may be neither altered nor sold.
+[User agreement](http://denverii.com/) is provided on website, and indicates that items are copyrighted with the exception of the test kit and contents. Although they can be downloaded without charge, they may be neither altered nor sold. Futhermore, there is no warranty accompanying their use. As of June, 2015 Hogrefe closed operations and will no longer be offering The DENVER II and related products. 
 
 **Link to measure:** 
 [DENVER II](http://denverii.com/)
