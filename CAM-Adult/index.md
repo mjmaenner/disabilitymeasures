@@ -27,7 +27,7 @@ Lastly, Golan, Baron-Cohen, and Hill (2006) provided evidence of convergent and 
 
 **Authors and Citation:** Golan, O., Baron-Cohen, S., & Hill, J. (2006). The Cambridge mindreading (CAM) face-voice battery: Testing complex emotion recognition in adults with and without Asperger syndrome. Journal of autism and developmental disorders, 36(2), 169-183.
 
-**Licence:** 
+**Licence:** This measure is freely available online, and may be used along with proper citiation.
 
 **Link to measure:** [Cambridge Mindreading (CAM) Face-Voice Battery (Adult)](https://www.autismresearchcentre.com/arc_tests/) 
 
