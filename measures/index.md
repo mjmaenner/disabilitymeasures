@@ -26,6 +26,7 @@ function googleTranslateElementInit() {
 [Baby Pediatric Symptom Checklist (BPSC)](http://disabilitymeasures.org/BPSC/)  
 [Cambridge Mindreading (CAM) Face-Voice Battery (Adult)](http://disabilitymeasures.org/CAM-Adult/)    
 [Cambridge Mindreading Face-Voice Battery for Children (CAM-C)](http://disabilitymeasures.org/CAM-C/)   
+[Checklist for Autism in Toddlers (CHAT)](http://disabilitymeasures.org/CHAT)   
 [Child’s Challenging Behavior Scale (CCBS)](http://disabilitymeasures.org/ccbs)   
 [Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast)   
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
