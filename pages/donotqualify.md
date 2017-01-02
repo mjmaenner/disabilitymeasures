@@ -83,6 +83,7 @@ EU-Emotional Stimulus Set | not available
 Evaluation of Social Interaction (ESI) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free  
 Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
+Fluharty Preschool Speech and Language Screening Test 2 | non-free
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
 Gilliam Asperger's Disorder Scale (GADS) | non-free
