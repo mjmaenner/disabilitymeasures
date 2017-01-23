@@ -21,7 +21,7 @@ Items reflect examples from everyday life in which systemizing could be used to 
 
 **Target Population:** Adults with normal intelligence
 
-**Measurement properties and previous use:** During intial test development, the authors assessed differences in systemizing for males and females, and among individuals with and without ASD.
+**Measurement properties and previous use:** During intial test development, [Baron-Cohen and Wheelwright (2004)](http://link.springer.com/article/10.1023/B:JADD.0000022607.19833.00) assessed differences in systemizing for males and females, and among individuals with and without ASD. People with ASD scored significantly lower on the SQ than the 
 
 people with AS/HFA
 scored significantly higher on the SQ, and significantly
@@ -40,6 +40,17 @@ and significantly lower on the EQ. In Study 2, again as predicted, adults with A
 higher on the SQ than matched controls, and significantly lower on the EQ than matched controls. The
 SQ reveals both a sex difference in systemizing in the general population and an unusually strong drive
 to systemize in AS/HFA.
+
+(from Baron-Cohen & Wheelwright, 2004) 
+we employed the EQ with n = 90 adults
+(65 males, 25 females) with Asperger Syndrome (AS) or high-functioning autism (HFA), who
+are reported clinically to have difficulties in empathy. The adults with AS/HFA scored significantly
+lower on the EQ than n = 90 (65 males, 25 females) age-matched controls. Of the adults
+with AS/HFA, 81% scored equal to or fewer than 30 points out of 80, compared with only 12%
+of controls. In Study 2 we carried out a study of n = 197 adults from a general population, to
+test for previously reported sex differences (female superiority) in empathy. This confirmed that
+women scored significantly higher than men. The EQ reveals both a sex difference in empathy
+in the general population and an empathy deficit in AS/HFA.
 
 (From Ling et al. 2009)
 Completed questionnaires were collected from 71 males and 95 females.
@@ -65,9 +76,11 @@ In sum, our exploratory analyses in Study 1, confirmatory analysis in Study 2 an
 
 Baron-Cohen, S., Richler, J., Bisarya, D., Gurunathan, N., & Wheelwright, S. (2003). The systemizing quotient: an investigation of adults with Asperger syndrome or high–functioning autism, and normal sex differences. Philosophical Transactions of the Royal Society of London B: Biological Sciences, 358(1430), 361-374.
 
+Baron-Cohen, S., & Wheelwright, S. (2004). The empathy quotient: an investigation of adults with Asperger syndrome or high functioning autism, and normal sex differences. Journal of autism and developmental disorders, 34(2), 163-175.
+
 Ling, J., Burton, T. C., Salt, J. L., & Muncer, S. J. (2009). Psychometric analysis of the systemizing quotient (SQ) scale. British Journal of Psychology, 100(3), 539-552.
 
-**Licence:** This measures is freely available in the appendix of the original empirical article and may be used with proper citation. 
+**Licence:** This measures is available in the appendix of the original empirical article and may be used with proper citation. 
 
 **Link to measure:** All test items are located in Appendix A of [(Baron-Cohen, Richler, Bisarya, Gurunathan, & Wheelwright, 2003)](http://rstb.royalsocietypublishing.org/content/royptb/358/1430/361.full.pdf)
 
