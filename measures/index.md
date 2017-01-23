@@ -50,6 +50,7 @@ function googleTranslateElementInit() {
 [Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)  
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)  
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)    
+[Systemizing Quotient (SQ)](http://disabilitymeasures.org/SQ-Adult)    
 [Subthreshold Autism Trait Questionnaire (SATQ)](http://disabilitymeasures.org/SATQ/)  
 [Survey of Wellbeing in Young Children (SWYC)](http://disabilitymeasures.org/SWYC)  
 [Ten Questions (TQ)](http://disabilitymeasures.org/tenquestions)      
