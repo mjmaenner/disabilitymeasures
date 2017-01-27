@@ -43,8 +43,8 @@ Ling, J., Burton, T. C., Salt, J. L., & Muncer, S. J. (2009). Psychometric analy
 
 **Link to measure:** All test items are located in Appendix A of [(Baron-Cohen, Richler, Bisarya, Gurunathan, & Wheelwright, 2003)](http://rstb.royalsocietypublishing.org/content/royptb/358/1430/361.full.pdf)
 
-ALso available: 
-[Systemizing Quotient (SQ) for Adolescents](insert link)
+Also available:     
+[Systemizing Quotient (SQ) for Adolescents](insert link)    
 [Systemizing Quotient (SQ) for Children](insert link)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
