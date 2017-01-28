@@ -38,7 +38,7 @@ Lawrence, E. J., Shaw, P., Baker, D., Baron-Cohen, S., & David, A. S. (2004). Me
 **Link to measure:** [Empathy Quotient (EQ) for Adults](https://www.autismresearchcentre.com/arc_tests/)
 
 Also available: 
-[Empathy Quotient (EQ) for Adolescents](insert-https://disabilitymeasures.org/EQ-Adol)
+[Empathy Quotient (EQ) for Adolescents](https://disabilitymeasures.org/EQ-Adol)    
 [Empathy Quotient (EQ-C) for Children](insert-https://disabilitymeasures.org/EQ-C) 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
