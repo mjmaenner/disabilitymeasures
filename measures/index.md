@@ -36,6 +36,7 @@ function googleTranslateElementInit() {
 [Developmental Milestones Question Set of the Survey of Wellbeing of Young Children (SWYC Milestones)](http://disabilitymeasures.org/SWYC-Milestones)  
 [Early Screening for Autistic Traits (ESAT)](http://disabilitymeasures.org/ESAT)   
 [Empathy Quotient for Adults (EQ)](http://disabilitymeasures.org/EQ-Adult)  
+[Empathy Quotient for Adolescents (EQ-Adolescent)](http://disabilitymeasures.org/EQ-Adol)   
 [Functional Communication Classification System (FCCS)](http://disabilitymeasures.org/fccs)     
 [Gross Motor Function Classification System (GMFCS)](http://disabilitymeasures.org/gmfcs)  
 [Manual Ability Classification System (MACS)](http://disabilitymeasures.org/macs/)  
