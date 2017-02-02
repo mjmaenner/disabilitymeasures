@@ -26,8 +26,8 @@ function googleTranslateElementInit() {
 Farmer, C.A., Kaat, A., Mazurek, M., Lainhart, J., DeWitt, M.B., Cook, Jr., E., Butter, E., & Aman, M.G. (2016). Confirmation of the Factor Structure and Measurement Invariance of the Children’s Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP) in Clinic-Referred Children with and without ASD. Journal of Child and Adolescent Psychopharmacology, 26(1), 10-18. 
 
 **Licence:** Professionals working in the mental health field are welcome to copy and use the C-SHARP for clinical and research purposes. This includes physicians, psychologists, social workers, counselors, and individuals working under the direct supervision of such professionals. Nonprofessionals are urged not to make copies of these instruments.   
-1. Please do not alter the appearance, wording, or scoring system without prior agreement of the developers, Cristan Farmer (Cristan.Farmer@nih.gov) or Michael Aman (aman.1@osu.edu).  
   
+1. Please do not alter the appearance, wording, or scoring system without prior agreement of the developers, Cristan Farmer (Cristan.Farmer@nih.gov) or Michael Aman (aman.1@osu.edu).    
 2. Please provide appropriate citation of the C-SHARP in any publication resulting from your work with the C-SHARP. Farmer &
 Aman (2009) should be used as the general reference for the CSHARP; Farmer et al. (2016) should be used as the reference for the
 psychometric properties of the C-SHARP
