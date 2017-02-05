@@ -35,4 +35,4 @@ Auyeung, B., Wheelwright, S., Allison, C., Atkinson, M., Samarawickrema, N., & B
 
 **Link to measure:** [Children's Empathizing Quotient (EQ-C)](https://www.autismresearchcentre.com/arc_tests/) 
 
-Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
+Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact) 
