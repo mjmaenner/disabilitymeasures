@@ -17,7 +17,7 @@ function googleTranslateElementInit() {
 
 **Target Population:** Children with normal intelligence ages 5 - 11
 
-**Measurement properties and previous use:** 
+**Measurement properties and previous use:**  
 
 [Auyeung et al. (2009)](http://docs.autismresearchcentre.com/papers/2009_Auyeung_etal_ChildEQSQ_JADD.pdf) examined the EQ-C's psychometric properties within a sample compromised of parents with typically developing children (n = 1,256) and parents of children with ASC.  In the typically developing group, the EQ-C showed a broad range of responses, high internal consistency (coefficient alpha = 0.93) and good test–retest reliability.  Six months after initial contact, n = 500 participants were asked to complete a second copy of the EQ-C in resulting in 258 test–retest pairs (133 girls, 125 boys). For the EQ-C, the intra-class correlation between the two tests was 0.86 (single measures) (*p* < 0.001). 
 
