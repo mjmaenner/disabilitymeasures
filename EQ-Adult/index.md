@@ -39,6 +39,6 @@ Lawrence, E. J., Shaw, P., Baker, D., Baron-Cohen, S., & David, A. S. (2004). Me
 
 Also available: 
 [Empathy Quotient (EQ) for Adolescents](https://disabilitymeasures.org/EQ-Adol)    
-[Empathy Quotient (EQ-C) for Children](insert-https://disabilitymeasures.org/EQ-C) 
+[Children's Empathy Quotient (EQ-C)](http://disabilitymeasures.org/EQC/) 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
