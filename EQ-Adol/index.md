@@ -27,7 +27,7 @@ Six months after initial contact, n = 375 participants from the typically develo
 A one-way between subjects analysis of variance (ANOVA) was conducted to examine if group (typical girls, typical boys, girls with ASC and boys with ASC) differences existed. There was a significant difference between groups F(3,1239) = 374.86, p\0.001). Post hoc Tukey HSD tests showed significant differences (p < 0.001) with typical girls scoring the highest (M = 46.56, SD = 13.77), followed by typical boys (M = 40.25, SD = 15.00). In Group 2, girls (M = 13.93, SD = 12.61) and boys with ASC (M = 9.55, SD = 8.04) scored significantly lower than typically developing children (*p* < 0.001). However, no significant differences were found between boys and girls with ASC
 (*p* > 0.05).
 
-The authors therefore conclude that the adolescent version of the EW shows good variability, internal consistency and test-retest reliability.
+The authors therefore conclude that the adolescent version of the EQ shows good variability, internal consistency and test-retest reliability.
 
 **Languages:** English
 
