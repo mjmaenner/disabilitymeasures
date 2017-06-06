@@ -58,7 +58,7 @@ Checklist for Autism Spectrum Disorder (CASD) | non-free
 Child Development Chart | non-free
 Child Development Review | non-free
 Child Health Questionnaire (CHQ) | PDF available for content review only, not for use
-Childhood Autism Rating Scale (CARS) | non-free
+Childhood Autism Rating Scale (CARS™, CARS™-2) | non-free
 Children's Communication Checklist (CCC-2) | non-free
 Clinical Evaluation of Language Fundamentals – Fifth Edition (CELF-5) | non-free
 Clinical Observation of Motor and Postural Skills – Second Edition (COMPS-2) | non-free
