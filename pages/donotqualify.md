@@ -50,7 +50,7 @@ Behavior Rating Inventory of Executive Function®, Second Edition (BRIEF®2) | n
 Brief Observation of Social Communication Change (BOSCC) | not commercially available
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
-British Ability Scales | non-free
+British Ability Scales 3 (BAS3) | non-free
 Bruininks-Oseretsky Test of Motor Proficiency – Second Edition (BOT-2) | non-free
 Canadian Occupational Performance Measure (COPM) | non-free
 Cattell Infant Intelligence Scale | non-free
