@@ -88,7 +88,7 @@ Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
-Griffith Mental Developmental Scales | non-free  
+Griffiths Mental Developmental Scales | non-free  
 Gross Motor Function Measure (GMFM) | scoring system is non-free  
 Guide for Monitoring Child Development (GMCD)| not available online
 Harris Infant Neuromotor Test (HINT) | non-free
@@ -132,7 +132,8 @@ SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Sensory Profile™ 2 | non-free
-Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free   
+Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free 
+Snijdgers-Oomen Non-verbal Intelligence Test (SON-R)
 Stanford Binet Intelligence Scales (SB5) | non-free
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
