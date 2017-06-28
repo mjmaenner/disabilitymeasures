@@ -132,7 +132,7 @@ SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
 Sensory Profile | non-free
-Sequenced Inventory of Communication Development, Revised (SICD-R) 
+Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free   
 Stanford Binet Intelligence Scales (SB5) | non-free
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
