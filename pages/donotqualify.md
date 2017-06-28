@@ -46,7 +46,7 @@ Battelle Developmental Inventory Second Edition Normative Update (BDI-2 NU)| non
 Bayley Scales of Infant and Toddler Development, Third Edition (Bayley-III)| non-free
 Beery-Buktenica Developmental Test of Visual-Motor Integration – Sixth Edition (Beery VMI) | non-free
 Behavior Assessment System for Children (BASC-2) | non-free
-Behavior Rating Inventory of Executive Function (BRIEF) | non-free
+Behavior Rating Inventory of Executive Function®, Second Edition (BRIEF®2) | non-free
 Brief Observation of Social Communication Change (BOSCC) | not commercially available
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
@@ -131,7 +131,7 @@ Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
-Sensory Profile | non-free
+Sensory Profile™ 2 | non-free
 Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free   
 Stanford Binet Intelligence Scales (SB5) | non-free
 Support Intensity Scale - Adult | non-free
