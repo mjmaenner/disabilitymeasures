@@ -52,7 +52,7 @@ Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
 British Ability Scales 3 (BAS3) | non-free
 Bruininks-Oseretsky Test of Motor Proficiency – Second Edition (BOT-2) | non-free
-Brunet-Lezine's Oculomotor Coordination Subsheet
+Brunet-Lezine's Oculomotor Coordination Subsheet | not available online
 Canadian Occupational Performance Measure (COPM) | non-free
 Cattell Infant Intelligence Scale | non-free
 Checklist for Autism Spectrum Disorder (CASD) | non-free
@@ -67,7 +67,7 @@ Cognitive Assessment System - Second Edition (CAS2) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Comprehensive Test of Phonological Processing – Second Edition (CTOPP-2) | non-free
 Computer-Based Instrument for low engine language testing (C-BiLLT) | not commercially available  
-Conners' Rating Scales - Revised (CSR-R)
+Conners' Rating Scales - Revised (CSR-R) | non-free
 Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
 Detroit Tests of Learning Aptitude - Fourth Edition (DTLA-4) | non-free
 Developmental Behavior Checklist (DBC) | non-free
@@ -104,7 +104,7 @@ Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Leiter International Performance Scale-Revised (Leiter-3) | non-free
 Lucknow Development Screen | non-free
 Krug Asperger Disorder Index (KADI) | non-free
-Kyoto Scale of Psychological Development 
+Kyoto Scale of Psychological Development | not available online 
 McCarthy Scales of Children's Abilities | non-free
 Merrill Palmer Scale of Mental Tests | non-free
 Merrill-Palmer-Revised Scales of Development (M-P-R) | non-free
@@ -142,7 +142,7 @@ Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
 Social Responsiveness Scale (SRS, SRS-2) | non-free
-Tanaka-Binet Intelligence Scale 
+Tanaka-Binet Intelligence Scale | not available online
 Test of Expressive Language (TEXL) | non-free
 Test of Infant Motor Performance (TIMP) | non-free
 Test of Language Development | non-free
