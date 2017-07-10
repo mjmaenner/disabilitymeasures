@@ -153,6 +153,7 @@ The Unstructured Imitation Assessment (UIA) | non-free
 Transdisciplinary Play-Based Assessment – Second Edition (TPBA-2) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
+Wechsler Intelligence Scale for Children - Fifth Edition (WISC-V) 
 Wessex Revised Portage Checklist | non-free
 The Wide Range Assessment of Visual Motor Abilities (WRAVMA) | non-free
 Young Children’s Participation and Environment Measure (YC-PEM) | non-free
