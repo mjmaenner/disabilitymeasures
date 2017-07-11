@@ -77,6 +77,7 @@ Developmental Profile™ 3 (DP™-3) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
 Developmental Checklist-Early Screen (DBS-ED) | non-free  
+Developmental Play Assessment (DPA)
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
@@ -139,6 +140,7 @@ Sensory Profile™ 2 | non-free
 Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free 
 Snijdgers-Oomen Non-verbal Intelligence Test (SON-R) | non-free
 Stanford Binet Intelligence Scales (SB5) | non-free
+Structured Play Assessment
 Support Intensity Scale - Adult | non-free
 Support Intensity Scale - Child | non-free
 Social Communications Questionnaire (SCQ) | non-free
