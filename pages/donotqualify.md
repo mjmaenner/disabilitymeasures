@@ -68,8 +68,8 @@ Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Comprehensive Test of Phonological Processing – Second Edition (CTOPP-2) | non-free
 Computer-Based Instrument for low engine language testing (C-BiLLT) | not commercially available  
 Conners' Rating Scales - Revised (CSR-R) | non-free
-Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
 Detroit Tests of Learning Aptitude - Fourth Edition (DTLA-4) | non-free
+Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
 Developmental Behavior Checklist (DBC) | non-free
 Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free   
 Developmental Behavior Checklist-Short Form (DBC-P24) | non-free   
