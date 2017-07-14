@@ -123,6 +123,7 @@ Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Psychoeducational Profile – Third Edition (PEP-3) | non-free
 Pragmatic Language Observation Scale (PLOS) | non-free
 Preferences for Activities of Children (PAC) | non-free
+Preschool Imitation and Praxis Scale (PIPS) | not commercially available online
 Preschool Language Scale-5 (PLS-5) | non-free
 Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
