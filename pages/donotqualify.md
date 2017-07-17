@@ -84,6 +84,7 @@ Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
 Early Intervention Developmental Profile (EIDP) | non-free
+Early Learning Accomplishment Profile (E-LAP)
 Early Screening Profiles (ESP) | non-free
 EU-Emotional Stimulus Set | not available
 Evaluation of Social Interaction (ESI) | non-free
@@ -117,6 +118,7 @@ Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Movement Assessement Battery for Children | non-free
 Mullen Scales of Early Learning: AGS Edition | non-free
+Paediatric Daily Occupation Scale (PDOS)
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
 Peabody Developmental Motor Scales (PDMS) | non-free
