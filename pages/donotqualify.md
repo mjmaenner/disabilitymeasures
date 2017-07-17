@@ -83,7 +83,7 @@ Developmental Play Assessment (DPA) | not available online
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
-Early Intervention Developmental Profile (EIDP)
+Early Intervention Developmental Profile (EIDP) | non-free
 Early Screening Profiles (ESP) | non-free
 EU-Emotional Stimulus Set | not available
 Evaluation of Social Interaction (ESI) | non-free
