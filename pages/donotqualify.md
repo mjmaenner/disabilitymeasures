@@ -109,7 +109,7 @@ Jebsen-Taylor Test of Hand Function (JTTHF) | non-free
 Learning Accomplishment Profile-DIagnostic Screens (LAP-D Screens) | non-free
 Leiter International Performance Scale-Revised (Leiter-3) | non-free
 Lucknow Development Screen | non-free
-Kiddie-Infant Descriptive Instrument for Emotional States (KIDIES)
+Kiddie-Infant Descriptive Instrument for Emotional States (KIDIES) | not available online
 Krug Asperger Disorder Index (KADI) | non-free
 Kyoto Scale of Psychological Development | not available online 
 McCarthy Scales of Children's Abilities | non-free
