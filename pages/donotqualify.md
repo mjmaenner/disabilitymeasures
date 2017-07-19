@@ -93,7 +93,7 @@ Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
 Fluharty Preschool Speech and Language Screening Test 2 | non-free
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
-Functional Emotional Assessment Scale (FEAS)
+Functional Emotional Assessment Scale (FEAS) | non-free
 Functional Independence Measure for Children (WeeFIM II) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
