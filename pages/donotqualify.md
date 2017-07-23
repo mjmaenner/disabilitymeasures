@@ -22,7 +22,7 @@ Measure Name | reason
 AAMR Adaptive Behavior Scales (ABS) | non-free
 Aberrant Behavior Checklist (ABC) | non-free
 ABC-Iceberg (ABC-I) | non-free
-Achenbach System of Empirically Based Assessment (ASEBA)
+Achenbach System of Empirically Based Assessment (ASEBA) | non-free
 Adaptive Behavior Assessment System – Third Edition (ABAS-3) | non-free
 Ages and Stages Questionnaire (ASQ) | non-free
 Ages and Stages Questionnaire - 3 (ASQ-3) | non-free
@@ -73,7 +73,7 @@ Computer-Based Instrument for low engine language testing (C-BiLLT) | not commer
 Conners' Rating Scales - Revised (CSR-R) | non-free
 Detroit Tests of Learning Aptitude - Fourth Edition (DTLA-4) | non-free
 Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
-Developmental Assessment of Young Children - Second Edition (DAYC-2)
+Developmental Assessment of Young Children - Second Edition (DAYC-2) | non-free
 Developmental Behavior Checklist (DBC) | non-free
 Developmental Behavior Checklist-Autism Screening Algorithm (DBC-ASA) | non-free   
 Developmental Behavior Checklist-Short Form (DBC-P24) | non-free   
@@ -122,7 +122,7 @@ Mini Assisting Hand Assessment (Mini-AHA) | non-free
 Monteiro Interview Guidelines for Diagnosing Asperger's Syndrome™ (MIGDAS™) | non-free
 Movement Assessement Battery for Children | non-free
 Mullen Scales of Early Learning: AGS Edition | non-free
-Observational Scale for Autism (OSA) 
+Observational Scale for Autism (OSA) | not available online
 Paediatric Daily Occupation Scale (PDOS) | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
@@ -148,7 +148,7 @@ Short Child Occupational Profile (SCOPE) | non-free
 SCERTS Model | non-free
 Screening Test Battery for Assessment of Psychosocial Development | non-free
 Screening Tool for Autism in Toddlers and Young Children (STAT™) | non-free
-Sensory Motor Checklist
+Sensory Motor Checklist | no publication available
 Sensory Profile™ 2 | non-free
 Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free 
 Snijdgers-Oomen Non-verbal Intelligence Test (SON-R) | non-free
