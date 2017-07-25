@@ -175,7 +175,7 @@ Transdisciplinary Play-Based Assessment – Second Edition (TPBA-2) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
 Wechsler Intelligence Scale for Children - Fifth Edition (WISC-V) | non-free
-Wessex Revised Portage Checklist | non-free
+Wessex Revised Portage Language Checklist | non-free
 The Wide Range Assessment of Visual Motor Abilities (WRAVMA) | non-free
 Young Children’s Participation and Environment Measure (YC-PEM) | non-free
 
