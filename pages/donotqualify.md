@@ -95,10 +95,12 @@ Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
 Fluharty Preschool Speech and Language Screening Test 2 | non-free
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
+Functional Communication Profile - Revised (FCP-R)
 Functional Emotional Assessment Scale (FEAS) | non-free
 Functional Independence Measure for Children (WeeFIM II) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
+GO4KIDDS Brief Adaptive Scale | not available for commercial use
 Griffiths Mental Developmental Scales | non-free  
 Gross Motor Function Measure (GMFM) | scoring system is non-free  
 Guide for Monitoring Child Development (GMCD)| not available online
@@ -153,6 +155,7 @@ Sensory Profile™ 2 | non-free
 Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free 
 Snijdgers-Oomen Non-verbal Intelligence Test (SON-R) | non-free
 Social Communication Assessment for Toddlers with Autism (SCATA) | non-free
+Speech Language Profile Groups (SLPG) | not available online
 Stanford Binet Intelligence Scales (SB5) | non-free
 Structured Play Assessment | not available online
 Support Intensity Scale - Adult | non-free
@@ -175,6 +178,7 @@ Transdisciplinary Play-Based Assessment – Second Edition (TPBA-2) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
 Wechsler Intelligence Scale for Children - Fifth Edition (WISC-V) | non-free
+Wechsler Preeschool and Primary Scale of Intelligence - Fourth Edition (WPPSI - IV)
 Wessex Revised Portage Language Checklist | non-free
 The Wide Range Assessment of Visual Motor Abilities (WRAVMA) | non-free
 Young Children’s Participation and Environment Measure (YC-PEM) | non-free
