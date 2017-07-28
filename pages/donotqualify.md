@@ -95,7 +95,7 @@ Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
 Fluharty Preschool Speech and Language Screening Test 2 | non-free
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
-Functional Communication Profile - Revised (FCP-R)
+Functional Communication Profile - Revised (FCP-R) | non-free
 Functional Emotional Assessment Scale (FEAS) | non-free
 Functional Independence Measure for Children (WeeFIM II) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
@@ -178,7 +178,7 @@ Transdisciplinary Play-Based Assessment – Second Edition (TPBA-2) | non-free
 TRIAD Social Skills Assessment | no publication / psychometric evaluation  
 Vineland Scales of Adaptive Behavior | non-free
 Wechsler Intelligence Scale for Children - Fifth Edition (WISC-V) | non-free
-Wechsler Preeschool and Primary Scale of Intelligence - Fourth Edition (WPPSI - IV)
+Wechsler Preeschool and Primary Scale of Intelligence - Fourth Edition (WPPSI - IV) | non-free
 Wessex Revised Portage Language Checklist | non-free
 The Wide Range Assessment of Visual Motor Abilities (WRAVMA) | non-free
 Young Children’s Participation and Environment Measure (YC-PEM) | non-free
