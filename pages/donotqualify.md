@@ -63,6 +63,7 @@ Child Development Chart | non-free
 Child Development Review | non-free
 Child Health Questionnaire (CHQ) | PDF available for content review only, not for use
 Childhood Autism Rating Scale (CARS™, CARS™-2) | non-free
+Children's Assessment of Participation and Enjoyment (CAPE)
 Children's Communication Checklist (CCC-2) | non-free
 Clinical Evaluation of Language Fundamentals – Fifth Edition (CELF-5) | non-free
 Clinical Observation of Motor and Postural Skills – Second Edition (COMPS-2) | non-free
@@ -80,7 +81,7 @@ Developmental Behavior Checklist-Short Form (DBC-P24) | non-free
 Developmental Profile™ 3 (DP™-3) | non-free
 Development and Well-being Assessment (DAWBA) | scoring system is non-free
 Developmental Assessment of Young Children - 2nd edition (DAYC-2) | non-free
-Developmental Checklist-Early Screen (DBS-ED) | non-free  
+Developmental Checklist-Early Screen (DBS-ES) | non-free  
 Developmental Play Assessment (DPA) | not available online
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
@@ -128,6 +129,7 @@ Observational Scale for Autism (OSA) | not available online
 Paediatric Daily Occupation Scale (PDOS) | non-free
 Parents' Evaluation of Developmental Status (PEDS) | non-free
 Parents' Evaluation of Developmental Status - Developmental Milestones (PEDS-DM) | non-free
+Participation and Environment Measure for Children and Youth (PEM-CY)
 Peabody Developmental Motor Scales (PDMS) | non-free
  Pediatric Evaluation of Disability Inventory (PEDI) | non-free
 Pervasive Developmental Disorders Screening Test-II (PDDST-II) | non-free
