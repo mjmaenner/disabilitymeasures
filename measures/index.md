@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Measures
@@ -12,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-### Freely-available measures:  
+### Freely-available measures:
 [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)  
 [Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp)  
 [Adult Repitive Behavior Questionnaire-2 (RBQ-2A)](http://disabilitymeasures.org/RBQ-2A)  
@@ -63,5 +64,5 @@ function googleTranslateElementInit() {
 
 #### Do you know of a measure that should be here? [It only takes a few seconds to let us know.](http://disabilitymeasures.org/contribute)
 
-##### We also track [measures that failed](http://disabilitymeasures.org/pages/donotqualify.html) to meet our [inclusion criteria](http://disabilitymeasures.org/criteria).
+##### We also track [measures that failed](http://disabilitymeasures.org/pages/donotqualify.html) to meet the [inclusion criteria](http://disabilitymeasures.org/criteria).
 
