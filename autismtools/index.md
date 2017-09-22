@@ -36,7 +36,7 @@ One of the major motivations for creating disability measures was in response to
   [Parental Observation of Social Interaction (part of SWYC)](http://disabilitymeasures.org/swyc) 
   
 ### Children (3 to 18 years old)
- 
+
 [Autism Classification System of Functioning: Social Communication (ACSF:SC)](http://disabilitymeasures.org/acsf-sc) 
   
   [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
