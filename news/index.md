@@ -10,7 +10,14 @@ Select Language (google translate):
 function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
 }
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+### More easily accessible measures!
+September 2017
+
+Now our measures page is divided into sections by target populations. Additionally, we have updated the autism-specific measures page to include more measures by age group. 
+
+Cheers to site accessibility!
 
 ### Translations into other languages  
 August 2015  
