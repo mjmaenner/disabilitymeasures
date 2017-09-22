@@ -99,9 +99,9 @@ One of the major motivations for creating disability measures was in response to
 ### Adult
 
  [Adult Asperger Assessment (AAA)](http://disabilitymeasures.org/aaa)
- 
- 
- [Adult Repetitive Behavior Questionnaire-2 (RBQ-2A)](http://disabilitymeasures.org/RBQ-2A) 
+
+
+[Adult Repetitive Behavior Questionnaire-2 (RBQ-2A)](http://disabilitymeasures.org/RBQ-2A) 
  
  
  [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)
