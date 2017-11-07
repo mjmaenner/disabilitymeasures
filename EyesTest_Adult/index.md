@@ -15,7 +15,7 @@ function googleTranslateElementInit() {
 
 **Type of Measure:** There are few tests that can measure if an adult with normal intelligence may have mild deficits in social understanding. In neurodevelopmental conditions, such as Autism Spectrum Disorders, deficits in social cognitition may be camoflauged as a result of learning compensatory strategies. It is therefore crucial to identify and develop an adult test of social sensitivity, which was address by [Baron-Cohen, Jolliffe, Mortimore, and Robertson (1997)](http://onlinelibrary.wiley.com/doi/10.1111/j.1469-7610.1997.tb01599.x/full) via the "Reading the Mind in the Eyes" Test - Revised (Eyes Test). 
 
-In this test, the participatnt is presented with a series of 36 photographs of the eye-region of the face of different actors and actresses, and is asked to choose which of the two words best describes what the person is thinking or feeling. This test was conceived as a test of how well the participant can put themselves into the mind of a person, and "tune in" to their mental state. Participants are provided with a glossary of words, and must effectively distiguinsh the correct target word from three close imposters on each trial.       
+In this test, participants are presented with a series of 36 photographs of the eye-region of the face of different actors and actresses, and they are asked to choose which of two words best describes what the person is thinking or feeling. This test was conceived as a test of how well participants can put themselves into the mind of a person, and "tune in" to their mental state. Participants are provided with a glossary of words and must effectively distiguinsh the correct target word from three close imposters on each trial.       
 
 **Target Population:** Adults with normal intelligence
 
@@ -30,6 +30,6 @@ Baron‐Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001). The
 
 **Licence:** 
 
-**Link to measure:**
+**Link to measure:** [Eyes Test](https://www.autismresearchcentre.com/arc_tests/)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
