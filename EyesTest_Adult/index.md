@@ -24,6 +24,7 @@ In this test, participants are presented with a series of 36 photographs of the 
 **Languages:** Simplified Chinese, Danske, Español, Español (Argentina), Deutsch, Hellenes, Italiano, Japanese, Lithuanian, Hungarian, Nederlands, Norwegian, Farsi, Polski, Português, Português (Brasil), Romanian, Serbian, Slovene, Swedish, Thai, and Turkish 
 
 **Authors and Citation:**
+
 Baron‐Cohen, S., Jolliffe, T., Mortimore, C., & Robertson, M. (1997). Another advanced test of theory of mind: Evidence from very high functioning adults with autism or Asperger syndrome. Journal of Child psychology and Psychiatry, 38(7), 813-822.
 
 Baron‐Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001). The “Reading the Mind in the Eyes” test revised version: A study with normal adults, and adults with Asperger syndrome or high‐functioning autism. Journal of child psychology and psychiatry, 42(2), 241-251.
