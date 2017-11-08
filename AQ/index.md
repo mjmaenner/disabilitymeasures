@@ -13,8 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:**  The Autism Spectrum Quotient (AQ) is a 50-item self-report questionnaire that assesses the presence of autistic traits in adults with normal intelligence. The AQ is reportedly a valuable instrument for rapidly quantifying where any given
-individual is situated on the continuum from autism to normality. Items on the AQ broadly reflect the following domains: social skills, attention switching, attention to detail, communication, and imagination.    
+**Type of Measure:**  The Autism Spectrum Quotient (AQ) is a 50-item self-report questionnaire that assesses the presence of autistic traits in adults with normal intelligence. The AQ is reportedly a valuable instrument for rapidly quantifying where any given individual is situated on the continuum from autism to normality. Items on the AQ broadly reflect the following domains: social skills, attention switching, attention to detail, communication, and imagination.    
 
 **Target Population:** Adults 
 
