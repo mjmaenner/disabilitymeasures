@@ -19,75 +19,18 @@ In this test, participants are presented with a series of 36 photographs of the 
 
 **Target Population:** Adults with normal intelligence
 
-**Measurement properties and previous use:** The original version of the Eyes Test was validated 
+**Measurement properties and previous use:** The psychometric properties of the original version of the Eyes Test was examined by [Baron-Cohen, Jolliffe, Mortimore, and Robertson (1997)](https://www.ncbi.nlm.nih.gov/pubmed/9363580) using three groups: 1) adults with autism or Asperger Syndrome (AS) (n=16), 2) normal adults (n=50 age-matched males and females), and 3) a clinical control group (i.e., age-matched adults with Tourette Syndrome, n=10). 
 
-"In the study reported below, 3 groups of subjects were compared on the Eyes Task:
-adults with autism or AS, normal adults, and a clinical control group, adults with
-Tourette Syndrome (TS). The latter was chosen because of the following similarities
-between autism, AS, and TS: (i) they all had intelligence in the normal range; (ii) they
-had all suffered from a developmental disorder since childhood; (iii) these disorders all
-cause disruptions to both normal schooling, and normal peer relations; (iv) these
-disorders are also all postulated to involve frontal abnormalities (Bishop, 1992; Baron-
-Cohen, Robertson, & Moriarty, 1994; Baron-Cohen et al, 1994); (v) and all have a
-sizeable genetic aetiology (Robertson, 1994; Bolton & Rutter, 1990). (vi) These disorders
-also all affect males more than females"
+In order to validate the Eyes Task as a theory of mind task, subjects in the two clinical groups were also tested on [Happé’s (1994) Strange Stories](https://link.springer.com/article/10.1007/BF02172093). Performance on the Eyes Task was expected to correlate with performance on Happé’s strange stories. Finally, to demonstrate that performance on the Eyes Test was not attributable to other factors, participants were administered two control tasks, the Gender Recognition Task (looking at the same set of eyes, but identifying the gender of each person in the photograph) and the Basic Emotion Recognition Task (judging photographs of whole faces displayiing basic emotions).
 
-"Group 1 comprised 16 subjects with high functioning autism (HFA) or AS (4 with highfunctioning
-autism and 12 with AS). The sex ratio was 13:3 (m:f)."
+Findings from this study indicated that adults with autism or AS, despite being of normal or above average IQ, were impaired on the Eyes Test. The authors interpreted the results as providing experimental evidence for subtle theory of mind
+deficits in individuals with autism or AS, at later points in development and at higher points on the IQ continuum than had been previously demonstrated. The authors justified this conclusion using four points. First, the target words of the Eyes Test are mental state terms. Secondly, these are not just emotion terms, but include terms describing cognitive mental states, which suggests this is more than just an emotion perception test. Thirdly, the pattern of results from the Eyes Task mirrored the pattern of performance on the Happé Strange Stories - an existing advanced theory of mind task. Finally, the deficit on the Eyes Task was not mirrored on the two control tasks, suggesting that the poor performance by subjects with autism or AS was not due to the stimuli being eyes, or to a deficit in extracting social information from minimal cues, or to a subtle perceptual deficit, or to basic emotion recognition.
 
-"Group 2 comprised 50 normal age matched adults (25 male and 25 female), drawn from
-the general population of Cambridge (excluding members of the University), all of whom
-had no history of any psychiatric condition (as established by self-report).They were
-selected randomly from the subject panel held in the University Department."
+In 2001, the Revised Eyes Test was administered to a group of adults with AS or HFA (N=15) and again discriminated these from a large number of controls (N=239) drawn from different samples [(Baron-Cohen, Wheelright, Hill, Raste, & Plumb, 2001)](https://www.cambridge.org/core/journals/journal-of-child-psychology-and-psychiatry-and-allied-disciplines/article/the-reading-the-mind-in-the-eyes-test-revised-version-a-study-with-normal-adults-and-adults-with-asperger-syndrome-or-high-functioning-autism/269621E672E0CD4CD20C33582130A8FB). 
 
-"Group 3 comprised 10 adult patients with Tourette Syndrome (TS), also age matched
-with Groups 1 and 2. The sex ratio was 8:2 (m:f), thus mirroring the ratio in Group
-1.They were attending a tertiary referral centre in London, and had all been diagnosed by
-a leading expert in the field of TS (Dr Mary Robertson), on the basis of meeting DSM-IV
-criteria for TS."
+The Revised Eyes Test was designed to be a more sensitive measure of adult social intelligence. As intended, findings from the earlier study were not only replicated, but the modifications from the original version also led to normal performance being significantly below ceiling, which was important if the test was to do more than discriminate extreme performance and instead detect meaningful individual differences
 
-"The Eyes Task is designed to be a ‘pure’ theory of mind test, at an advanced level. This is
-because, as far as we can see, the test itself involves no executive function component
-(no attention switching, inhibition, planning, etc., cf Russell, Mauthner, Sharpe, &
-Tidswell, 1991; Ozonoff et al, 1991) and no central coherence component (since there is
-little contextual information available, cf Frith, 1989). This is not to say that such
-processes may not play a role in the development of a theory of mind - only that the task
-itself has no planning or context component. As mentioned earlier, in order to validate
-the Eyes Task as a theory of mind task, subjects in the two clinical groups were also
-tested on Happé’s (1994a) Strange Stories. In the case of the subjects with autism and
-AS, this was part of a separate study (Jolliffe, 1997). If the Eyes Task was indeed
-tapping theory of mind, then performance on the Eyes Task should correlate with
-performance on Happé’s strange stories."
-
-"Finally, in order to check whether deficits on the Eyes Task were due to other factors, we
-administered two control tasks to the subjects in Group 1. (Gender Recognition Task and Basic Emotion Recognition Task)"
-
-"This study tested several predictions. First, that adults with autism or Asperger Syndrome
-(AS), despite being of normal or above average IQ, would nevertheless be impaired on a
-subtle theory of mind test. This prediction was confirmed. Secondly, that within the
-normal population, females would be significantly better on this test of theory of mind
-than males. This was also confirmed."
-
-"We interpret the results as providing experimental evidence for subtle theory of mind
-deficits in individuals with autism or AS, at later points in development and at higher
-points on the IQ continuum than has been previously demonstrated. The justification that
-the Eyes Task is indeed measuring theory of mind comes from four sources. First, the
-target words are mental state terms. Secondly, these are not just emotion terms, but
-include terms describing cognitive mental states. This is therefore more than just an
-emotion perception test. Thirdly, the pattern of results from the Eyes Task mirrored the
-pattern of performance on the Happé Strange Stories - an existing advanced theory of
-mind task. Finally, the deficit on the Eyes Task was not mirrored on the two control
-tasks, suggesting that the poor performance by subjects with autism or AS was not due to
-the stimuli being eyes, or to a deficit in extracting social information from minimal cues,
-or to a subtle perceptual deficit, or to basic emotion recognition." (1997 study)
-
-
-(2001 study)
-"The Revised Eyes Test was administered to a group of adults with AS or HFA (N=15) and again discriminated these from a large number of controls (N=239) drawn from different samples. 
-
-"This study reports normative data on the Revised Eyes Test for adults. The modification were designed to render this test a more sensitive measure of adult social intelligence. As was hoped, the modifications from the origincal version led to normal performance being significantly below ceiling. This is important if the test is to do more than discriminate extreme performance and instead detect meaningful individual differences. This study replicated the earlier finding that adults with AS or HFA are significantly impaired on such tests, whereas they are not impaired on the gender recognition control test. his therefore validates it as a useful test with which to identify subtle impairments in social intelligence in otherwise normally intelligent adults with AS/HFA from controls."
-
-"There was no significant correlation between IQ and the Eyes Test suggesting this is independent of general (nonsocial) intelligence. [In both samples ]Performance on the Eyes Test was inversely correlated with performance on the Autism Spectrum Quotient (AQ), suggesting that both measure degrees of autistic traits across the notional spectrum. The AQ is not diagnostic but may serve as a useful instrument for quantifying the extent of an individual's caseness in terms of AS/HFA, measuring personality traits. The present results confirm our earlier finding that adults with HFA or AS score significantly higher on the AQ than do general population controls."
+There was no significant correlation between IQ and the Eyes Test suggesting this is independent of general (nonsocial) intelligence. In both samples, performance on the Eyes Test was inversely correlated with performance on the [Autism Spectrum Quotient (AQ)](http://disabilitymeasures.org/aq/), suggesting that both measure degrees of autistic traits across the notional spectrum. The AQ is not diagnostic, but may serve as a useful instrument for quantifying the extent of an individual's caseness in terms of AS/high functioning autism.
 
 **Languages:** Simplified Chinese, Danske, Español, Español (Argentina), Deutsch, Hellenes, Italiano, Japanese, Lithuanian, Hungarian, Nederlands, Norwegian, Farsi, Polski, Português, Português (Brasil), Romanian, Serbian, Slovene, Swedish, Thai, and Turkish 
 
