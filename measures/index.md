@@ -63,7 +63,7 @@ function googleTranslateElementInit() {
 ### Freely-available measures for children, adolescents, or adults:  
 [Autism Mental Status Exam (AMSE)](http://disabilitymeasures.org/amse)    
 [Autism Treatment Evaluation Checklist (ATEC)](http://disabilitymeasures.org/atec)   
-[Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/aq)  
+[Autism Quotient (AQ) - multiple versions](http://disabilitymeasures.org/AQ)  
 [Subthreshold Autism Trait Questionnaire (SATQ)](http://disabilitymeasures.org/SATQ/)     
 [Waisman Activities of Daily Living (W-ADL) Scale](http://disabilitymeasures.org/w-adl)
 
