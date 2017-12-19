@@ -50,7 +50,7 @@ Bayley Scales of Infant and Toddler Development, Third Edition (Bayley-III)| non
 Beery-Buktenica Developmental Test of Visual-Motor Integration – Sixth Edition (Beery VMI) | non-free
 Behavior Assessment System for Children (BASC-2) | non-free
 Behavior Rating Inventory of Executive Function®, Second Edition (BRIEF®2) | non-free
-Brief Observation of Social Communication Change (BOSCC) | not commercially available
+Brief Observation of Social Communication Change (BOSCC) | not available online
 Brief Infant-Toddler Emotional Assessment (BITSEA) | non-free
 BRIGANCE Screens | non-free
 British Ability Scales 3 (BAS3) | non-free
@@ -70,7 +70,7 @@ Clinical Observation of Motor and Postural Skills – Second Edition (COMPS-2) |
 Cognitive Assessment System - Second Edition (CAS2) | non-free
 Comprehensive Assessment of Spoken Languages (CASL) | non-free
 Comprehensive Test of Phonological Processing – Second Edition (CTOPP-2) | non-free
-Computer-Based Instrument for low engine language testing (C-BiLLT) | not commercially available  
+Computer-Based Instrument for low engine language testing (C-BiLLT) | not available online  
 Conners' Rating Scales - Revised (CSR-R) | non-free
 Detroit Tests of Learning Aptitude - Fourth Edition (DTLA-4) | non-free
 Developmental Activities Screening Inventory – Second Edition (DASI-II) | non-free
@@ -86,13 +86,14 @@ Developmental Play Assessment (DPA) | not available online
 Diagnostic Interview for Social and Communication Disorders (DISCO) | non-free
 Diagnostic Adaptive Behavior Scale | not available, likely non-free
 Differential Abilities Scales | non-free
+Early Development Instrument | non-free
 Early Intervention Developmental Profile (EIDP) | non-free
 Early Learning Accomplishment Profile (E-LAP) | non-free
 Early Screening Profiles (ESP) | non-free
 EU-Emotional Stimulus Set | not available
 Evaluation of Social Interaction (ESI) | non-free
 FirstSTEp Screening Test for Evaluating Preschoolers | non-free  
-Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available
+Facial Expressions of Emotion – Stimuli and Tests (FEEST) | not available online
 Fluharty Preschool Speech and Language Screening Test 2 | non-free
 Functional Status II-R (FS II-R) | non-free
 Functional Assessment Checklist: Teachers and Staff (FACTS) | not relevant to disability
@@ -101,7 +102,7 @@ Functional Emotional Assessment Scale (FEAS) | non-free
 Functional Independence Measure for Children (WeeFIM II) | non-free
 Gilliam Asperger's Disorder Scale (GADS) | non-free
 Gilliam Autism Rating Scale (GARS, GARS-2, GARS-3) | non-free
-GO4KIDDS Brief Adaptive Scale | not available for commercial use
+GO4KIDDS Brief Adaptive Scale | not available online
 Griffiths Mental Developmental Scales | non-free  
 Gross Motor Function Measure (GMFM) | scoring system is non-free  
 Guide for Monitoring Child Development (GMCD)| not available online
@@ -137,7 +138,7 @@ Pervasive Developmental Disorders Behavior Inventory (PDDBI) | non-free
 Psychoeducational Profile – Third Edition (PEP-3) | non-free
 Pragmatic Language Observation Scale (PLOS) | non-free
 Preferences for Activities of Children (PAC) | non-free
-Preschool Imitation and Praxis Scale (PIPS) | not commercially available online
+Preschool Imitation and Praxis Scale (PIPS) | not available online
 Preschool Language Scale-5 (PLS-5) | non-free
 Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
