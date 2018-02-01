@@ -110,6 +110,7 @@ Harris Infant Neuromotor Test (HINT) | non-free
 Hawaii Early Learning Profile (HELP) | non-free
 Help for Special Preschoolers Assessment Checklist (HSPAC) | non-free
 Infant Development Inventory (IDI) | non-free
+Infant and Toddler Developmental Assessment (IDA-2) | non-free
 Infant-Toddler Social Emotional Assessment (ITSEA) | non-free
 Infant Toddler Symptom Checklist | non-free
 Jebsen-Taylor Test of Hand Function (JTTHF) | non-free
