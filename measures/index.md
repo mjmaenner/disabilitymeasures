@@ -29,7 +29,9 @@ function googleTranslateElementInit() {
 
 [Childhood Autism Spectrum (formerly "Asperger Syndrome") Test (CAST)](http://disabilitymeasures.org/cast) 
 
-[Children's Empathy Quotient (EQ-C)](http://disabilitymeasures.org/EQC)       
+[Children's Empathy Quotient (EQ-C)](http://disabilitymeasures.org/EQC)    
+
+[Children's Global Assessment Scale (CGAS)](http://disabilitymeasures.org/cgas)
   
 [Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP)](http://disabilitymeasures.org/c-sharp)  
 
