@@ -23,7 +23,7 @@ function googleTranslateElementInit() {
 
 **Languages:** English
 
-**Authors and Citation:** [Nair, M. K. C., Nair, G. H., George, B., Suma, N., Neethu, C., Leena, M. L., & Russell, P. S. S. (2013). Development and validation of Trivandrum Development Screening Chart for children aged 0-6 years [TDSC (0-6)]. The Indian Journal of Pediatrics, 80(2), 248-255.] (https://link.springer.com/content/pdf/10.1007%2Fs12098-013-1144-2.pdf)
+**Authors and Citation:** [Nair, M. K. C., Nair, G. H., George, B., Suma, N., Neethu, C., Leena, M. L., & Russell, P. S. S. (2013). Development and validation of Trivandrum Development Screening Chart for children aged 0-6 years [TDSC (0-6)]. The Indian Journal of Pediatrics, 80(2), 248-255.](https://link.springer.com/content/pdf/10.1007%2Fs12098-013-1144-2.pdf)
 
 **Licence:** (c) Dr. K C Chaudhuri Foundation 2013
 
