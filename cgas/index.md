@@ -21,11 +21,11 @@ function googleTranslateElementInit() {
 
 **Languages:** English, Spanish, and Swedish
 
-**Authors and Citation:**  Schaffer D, Gould MS, Brasic J, et al. (1983) A children's global assessment scale (CGAS).  Archives of General Psychiatry, 40, 1228-1231. 
+**Authors and Citation:** [Bird, H. R., Canino, G., Rubio-Stipec, M., & Ribera, J. C. (1987). Further measures of the psychometric properties of the Children's Global Assessment Scale. Archives of General Psychiatry, 44(9), 821-824.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/494123)
 
-Lundh, A., Kowalski, J., Sundberg, C. J., Gumpert, C., & Landén, M. (2010). Children's Global Assessment Scale (CGAS) in a naturalistic clinical setting: Inter-rater reliability and comparison with expert ratings. Psychiatry Research, 177(1), 206-210.
+[Lundh, A., Kowalski, J., Sundberg, C. J., Gumpert, C., & Landén, M. (2010). Children's Global Assessment Scale (CGAS) in a naturalistic clinical setting: Inter-rater reliability and comparison with expert ratings. Psychiatry Research, 177(1), 206-210.](http://www.psy-journal.com/article/S0165-1781(10)00052-1/pdf)
 
-Bird, H. R., Canino, G., Rubio-Stipec, M., Ribera, J. C., Dyrborg, J., Larsen, F. W., ... & Gautre-Delay, F. Children’s Global Assessment Scale. Psychiatry, 44, 821-824.
+[Schaffer D, Gould MS, Brasic J, et al. (1983) A children's global assessment scale (CGAS).  Archives of General Psychiatry, 40, 1228-1231.](https://jamanetwork.com/journals/jamapsychiatry/fullarticle/493197) 
 
 **Licence:** According to The Ontario Centre of Excellence for Child and Youth Mental Health: The majority of materials on the Ontario Centre of Excellence for Child and Youth Mental Health website that are produced by the Centre are protected under a [Creative Commons Canada License](https://creativecommons.org/licenses/by-nc-nd/2.5/ca/) (unless otherwise indicated). These materials may be reproduced for non-commercial purposes only. Acknowledgement must be given to the Centre as the author and distributor of the material.
 
