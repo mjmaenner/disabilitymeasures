@@ -12,6 +12,14 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 
+### DisabilityMeasures Survey
+
+March 2018
+
+We have just created a quick survey to understand how people use and approve of DisabilityMeasures. Feel free to fill out [this survey](https://tinyurl.com/disabilitymeasures) to give us feedback.
+
+Thank you!
+
 ### More easily accessible measures!
 September 2017
 
