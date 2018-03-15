@@ -71,6 +71,8 @@ function googleTranslateElementInit() {
 
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)         
 
+[Strengths and Difficulties Questionnaire (SDQ)](http://disabilitymeasures.org/SDQ/)          
+
 [Systemizing Quotient for Adolescents (SQ-Adolescent Version)](http://disabilitymeasures.org/SQAdolescent) 
 
 [Systemizing Quotient for Children (SQ-C)](http://disabilitymeasures.org/SQChild) 
