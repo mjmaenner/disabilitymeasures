@@ -24,7 +24,94 @@ better than the CBCL at predicting a clinical diagnosis of a hyperactivity disor
 
 Within a sampple of 10,438 children, [Goodman (2001)](http://www.jaacap.com/article/S0890-8567(09)60543-8/abstract) confirmed and extended previous reports of satisfactory reliability and validity based on studies of smaller community and clinic samples from around the world. Factor analyses showed that nearly all items loaded primarily, and usually exclusively, on the predicted five factors, covering emotional symptoms, conduct problems, hyperactivity-inattention, peer problems, and prosocial behavior. The predicted five-factor structure fitted the findings particularly well for the parent SDQ. There was very little overlap between the items loading on the internalizing scale (Emotional Symptoms) and the two externalizing scales (Conduct Problems and Hyperactivity-Inattention). Goodman (2001) reported that the internal consistencies of the SDQ were generally satisfactory. Interrater agreement for the SDQ was, for the most part, substantially better than the average level of agreement reported for other measures (such as the CBCL). The interrater correlations for the total difficulties score were almost twice the meta-analytic means, reflecting almost four time the shared variance, which the test developer attributed to the larger re-test window (4 to 6 months later). The validity of the SDQ was gauged by how strongly the various scales were associated with the presence or absence of psychiatric disorders. High SDQ scores (in the extreme 10% of the population) were associated with a substantial increase in psychiatric risk, with odds ratios of approximately 15 for parent and teacher SDQ scales and approximately 6 for self-report SDQ scales. When applied to a community sample, the proportion of true negatives is high (specificities and negative predictive values around 95%) but the proportion of true positives is substantially lower (sensitivities and positive predictive values around 35%). This sort of overinclusiveness is often acceptable in screening tests, in which the first priority is generally to reduce the rate of false negatives even if this is at the cost of increasing the rate of false positives. However, the author notes that the screening properties reported in this article are all based on individual scores derived from single informants (for full discussion, see [Goodman, 2001](http://www.jaacap.com/article/S0890-8567(09)60543-8/abstract)). 
 
-**Languages:**
+**Languages:** Afrikaans     
+Albanian     
+Amharic     
+Arabic     
+Azeri 
+Basque   
+Bengali     
+BSL (British Sign Language)     
+Bulgarian 
+Catalan     
+Chichewa    
+Chinese     
+Chinese (Simplified)     
+Croatian     
+Czech 
+Danish     
+Dari     
+Dutch 
+English (Austral)     
+English (UK)     
+English (USA)     
+Estonian 
+Farsi     
+Finnish     
+French 
+Gaelic     
+Gallego     
+Georgian     
+German     
+Greek    
+Greenlandic    
+Gujarati 
+Haitian 
+Creole    
+Hausa     
+Hebrew     
+Hindi     
+Hmong    
+Hungarian 
+Icelandic     
+Igbo     
+Indonesian     
+Irish     
+Italian 
+Japanese 
+Kannada     
+Khmer     
+Korean     
+Kurdish 
+Latvian     
+Lithuanian 
+Macedonian    
+Malay     
+Malayalam     
+Maltese     
+Mongolian 
+Nepali     
+Norwegian (Bokmal)     
+Norwegian (Nynorsk)     
+NSL Norwegian Sign Language 
+Pashto     
+Polish     
+Portuguese (Brazil)     
+Portuguese (Portugal)     
+Punjabi 
+Romanian     
+Russian 
+Sami     
+Serbian     
+Sinhalese     
+Slovak     
+Slovene     
+Somali     
+Spanish     
+Spanish (Rio de la Plata)     
+Swahili     
+Swedish 
+Tamil     
+Thai     
+Turkish 
+Ukrainian     
+Urdu 
+Vietnamese 
+Welsh 
+Xhosa 
+Yoruba 
+Zulu
+
 
 **Authors and Citation:**   
 Goodman, R. (2001). Psychometric properties of the strengths and difficulties questionnaire. Journal of the American Academy of Child & Adolescent Psychiatry, 40(11), 1337-1345. 
