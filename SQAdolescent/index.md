@@ -37,6 +37,10 @@ Auyeung, B., Allison, C., Wheelwright, S., & Baron-Cohen, S. (2012). Brief repor
 
 **Licence:** This measure is freely available online, and may be used along with proper citiation. You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of Autism Research Centre (ARC) as the source is given.
 
-**Link to measure:** [Systemizing Quotient for Adolescents (SQ-Adolescent Version)](https://www.autismresearchcentre.com/arc_tests/) 
+**Link to measure:** [Systemizing Quotient for Adolescents (SQ-Adolescent Version)](https://www.autismresearchcentre.com/arc_tests/)   
+
+Also available: 
+[Systemizing Quotient for Adults (SQ)](http://disabilitymeasures.org/SQ-Adult/)
+[Systemizing Quotient for Children (SQ-C)](http://disabilitymeasures.org/SQChild/)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
