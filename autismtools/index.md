@@ -40,6 +40,7 @@ One of the major motivations for creating disability measures was in response to
   
   [Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)  
   
+  [Parent Interview for Autism–Clinical Version (PIA–CV)](http://disabilitymeasures.org/pia-cv)
   
   [Parental Observation of Social Interaction (part of SWYC)](http://disabilitymeasures.org/swyc) 
   
@@ -120,9 +121,6 @@ One of the major motivations for creating disability measures was in response to
 
 
   [Empathy Quotient for Adults (EQ)](http://disabilitymeasures.org/EQ-Adult)
- 
-
-[Parent Interview for Autism–Clinical Version (PIA–CV)](http://disabilitymeasures.org/pia-cv)
  
 
 [Ritvo Autism Asperger Rating Scale-Revised (RAADS-R)](http://disabilitymeasures.org/raads-r)
