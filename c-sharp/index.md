@@ -19,7 +19,7 @@ function googleTranslateElementInit() {
 
 **Measurement properties and previous use:** The reliability and validity of the Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP) was assessed through data from a survey of 365 children with I/DD aged 3–21 years and a second sample of chlidren aged 1-21 (414 with ASD and 243 without ASD). Interrater reliability was very high for the Problem Scale, which characterizes type of aggression. Reliability was lower but largely acceptable for the Provocation Scale, which assesses motivation. The Provocation Scale, which categorizes behavior as proactive or reactive, showed expected differences in children with DBD, but was less effective in those with ADHD. Version 2.0 of the C-SHARP removed several non-scoring items; thus the item numbers on the current (v2.0) C-SHARP differ from those on the original scale.
 
-**Languages:** English (see user manual for translation instructions and requirements)
+**Languages:** English, German, Romanian, Slovak, Persian, French, Spanish. This list may no longer be complete; please inquire with the scale authors about available translations. See user manual for translation instructions and requirements.
 
 **Authors and Citation:**  Farmer, C. & Aman, M. (2009). Development of the Children's Scale of Hostility and Aggression: Reactive/Proactive (C-SHARP). Research in Developmental Disabilities, 30, 1155-1167.
 
