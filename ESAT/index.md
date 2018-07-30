@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:** Early Screening of Autistic Traits (ESAT) is a 19-item primary screening checklist that was designed for infants 0-36 month(s) old. It is based on prominent early signs and symptoms of Autism Spectrum Disorder (ASD), and was designed to be completed by parents/caregivers during well-baby visits. Failure on three or more items indicates the need for further evaluation. 
+**Type of Measure:** Early Screening of Autistic Traits (ESAT) is a primary screening checklist that was designed for infants 0-36 month(s) old. It is based on prominent early signs and symptoms of Autism Spectrum Disorder (ASD), and was designed to be completed by parents/caregivers during well-baby visits. Failure on three or more items indicates the need for further evaluation.  The original publication of the ESAT described 19 items (as linked below), but the authors used the first 14 items to evaluate parental reporting of autism symptoms.
 
 **Target Population:** May be administered to infants 0-36 month(s) old, but primarily targets infants 14-15 months of age. 
 
