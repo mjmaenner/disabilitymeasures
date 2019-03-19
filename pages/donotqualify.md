@@ -145,7 +145,7 @@ Quality FM | not available for clinical use
 Quality of Upper Extremity Skills Test (QUEST) | non-free  
 Quality of Well-Being Scale-Self Admininistered (QWB-SA) | non-free
 Quick Neurological Screening Test – Third Edition (QNST-3) | non-free
-Rapid Neurodevelopmental Assessment (RNDA) | not available online
+Rapid Neurodevelopmental Assessment (RNDA) | non-free
 Receptive-Expressive Emergent Language Scale-3 (REEL-3) | non-free
 The Rossetti Infant-Toddler Language Scale | non-free
 Scales of Independent Behavior-Revised (SIB-R) | non-free
