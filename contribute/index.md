@@ -48,5 +48,5 @@ We keep a list for measures that appear to meet our criteria, but we haven't got
 <br>
 
 #### Help with the website
-We're running on [github pages](pages.github.com) to make our efforts as open and collaborative as possible. Feel free to submit pull requests that will help us out.  For example, we'd love to have working page tags. Alternately, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) if you have other ideas.
+We're running on [github pages](http://pages.github.com) to make our efforts as open and collaborative as possible. Feel free to submit pull requests that will help us out.  For example, we'd love to have working page tags. Alternately, [email us](https://mjmaenner.github.io/disabilitymeasures/contact) if you have other ideas.
 
