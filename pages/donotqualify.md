@@ -160,6 +160,7 @@ Sequenced Inventory of Communication Development, Revised (SICD-R) | non-free
 Snijdgers-Oomen Non-verbal Intelligence Test (SON-R) | non-free
 Social Communication Assessment for Toddlers with Autism (SCATA) | non-free
 Speech Language Profile Groups (SLPG) | not available online
+Spence Children's Anxiety Scale (SCAS) | only free for individuals
 Stanford Binet Intelligence Scales (SB5) | non-free
 Structured Play Assessment | not available online
 Support Intensity Scale - Adult | non-free
