@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
-**Type of Measure:**  The Communication and Symbolic Behavior Scales - Devevelopmental Profile (CSBS-DP) *Infant/Toddler Checklist* is a one-page measure of early communication and symbolic skills in young children that aims to identify those who have or are at-risk for developing a communication impairment. The Checklist was designed to measure seven language predictors, which include: emotion and use of eye gaze, use of communication, use of gestures, use of sounds, use of words, understanding of words, and use of objects. This checklist can be used independently, or in conjunction with two other CSBS-DP test components (i.e. a four-page follow-up caregiver questionnaire and a behavior sample). 
+**Type of Measure:**  The Communication and Symbolic Behavior Scales - Devevelopmental Profile (CSBS-DP) *Infant/Toddler Checklist* is a one-page measure of early communication and symbolic skills in young children that aims to identify those who have or are at-risk for developing a communication impairment. The Checklist was designed to measure seven language predictors, which include: emotion and use of eye gaze, use of communication, use of gestures, use of sounds, use of words, understanding of words, and use of objects. This checklist can be used independently, or in conjunction with two other CSBS-DP test components (i.e. a four-page follow-up caregiver questionnaire and a behavior sample). **NOTE:**  Only the Infant/Toddler Checklist is free, the other components of the CSBS-DP are non-free.
 
 **Target Population:** Young children (6 to 24 months of age)
 
@@ -26,8 +26,11 @@ Wetherby, A. M., & Prizant, B. M. (2001). Communication and Symbolic Behaviour S
 
 Wetherby, A. M., Allen, L., Cleary, J., Kublin, K., & Goldstein, H. (2002). Validity and reliability of the communication and symbolic behavior scales developmental profile with very young children. Journal of Speech, Language, and Hearing Research, 45(6), 1202-1218.
 
-**Licence:** [via First Words](http://firstwords.fsu.edu/pdf/Checklist_Scoring_Cutoffs.pdf) The Checklist is copyrighted (Wetherby & Prizant, 2001), but remains free for use and can be downloaded from the Internet and freely photocopied or duplicated by other meathods. 
+**Licence:** There are two different license statements, but both state the measure can be freely used.  
+[via First Words](http://firstwords.fsu.edu/checklist.html) The Checklist is copyrighted (Wetherby & Prizant, 2001), but remains free for use and can be downloaded from the Internet and freely photocopied or duplicated by other meathods. 
 
-**Link to measure:** [CSBS-DP](http://firstwords.fsu.edu/checklist.html)  
+[via Brooks Publishing](https://brookespublishing.com/product/csbs-dp-itc/) The Infant-Toddler Checklist is copyrighted by Brookes Publishing but is available for download for free. Contact rights@brookespublishing.com for information on reprinting or reposting.
+
+**Link to measure:** [CSBS-DP](http://firstwords.fsu.edu/checklist.html)  Also available at [Brooks Publishing](https://brookespublishing.com/product/csbs-dp-itc/) 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
