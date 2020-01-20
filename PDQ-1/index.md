@@ -24,11 +24,7 @@ function googleTranslateElementInit() {
 **Authors and Citation:** Zahorodny, W., Shenouda, J., Mehta, U., Yee, E., Garcia, P., Rajan, M., & Goldfarb, M. (2018). Preliminary Evaluation of a Brief Autism Screener for Young Children. Journal of developmental and behavioral pediatrics : JDBP, 39(3), 183–191. doi:10.1097/DBP.0000000000000543  
 Copy of article is available on [the PDQ-1 website](https://www.pdq1.org/).
 
-**Licence:** [From the PDQ-1 instructions] The PDQ-1 may be used for clinical, research, and/or educational purposes. The PDQ-1 is a copyrighted instrument and use of this
-instrument is limited by the authors and copyright holders. The PDQ-1 is available through license or distribution agreement. Parties
-interested in using the PDQ-1 or in reproducing the PDQ-1 in print or electronically for use by others or to develop any commercial
-or electronic products or applications based on the PDQ-1 should contact Andrea Dick at andrea.dick@ rutgers.edu or 848-932-
-4018. 
+**Licence:** [From the PDQ-1 instructions] The PDQ-1 may be used for clinical, research, and/or educational purposes. The PDQ-1 is a copyrighted instrument and use of this instrument is limited by the authors and copyright holders. The PDQ-1 is available through license or distribution agreement. Parties interested in using the PDQ-1 or in reproducing the PDQ-1 in print or electronically for use by others or to develop any commercial or electronic products or applications based on the PDQ-1 should contact Andrea Dick at andrea.dick@ rutgers.edu or 848-932-4018. 
 
 **Link to measure:** [PDQ-1 website](https://www.pdq1.org/) - English and Spanish versions immeidately available at top of page.
 
