@@ -11,6 +11,8 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
+We do not own the measures listed on this site. If you have specific questions about usage or licensing, we suggest you contact the authors (either those listed in the citation, or follow the link to the measure to find contact information).
+
 #### Feel free to contact us through the [disabilitymeasures.org Google Group](https://groups.google.com/forum/#!forum/disabilitymeasures)  
 
 #### For other general questions, please contact Matthew Maenner, PhD  
