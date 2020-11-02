@@ -29,6 +29,6 @@ Murphy, J. M., Ichinose, C., Hicks, R. C., Kingdon, D., Crist-Whitzel, J., Jorda
 
 **Licence:** This measure is freely available for use with proper citation. 
 
-**Link to measure:** [Pediatric Symptom Checklist (PSC)](http://www.massgeneral.org/psychiatry/services/psc_forms.aspx)
+**Link to measure:** [Pediatric Symptom Checklist (PSC)](https://www.massgeneral.org/psychiatry/treatments-and-services/pediatric-symptom-checklist)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
