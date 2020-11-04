@@ -27,7 +27,11 @@ http://siteresources.worldbank.org/EXTAFRREGTOPEDUCATION/Resources/444707-129107
 GO4KIDDS (adrienne perry)  
 QCHAT - http://docs.autismresearchcentre.com/papers/2008_Allison_etal_QCHAT.pdf
 first year inventory https://www.med.unc.edu/ahs/pearls/research/development-of-the-first-year-inventory
-  
+
+ELSA: new measure:
+https://sites.bu.edu/elsa/about/
+https://www.spectrumnews.org/news/toolbox/test-measures-autistic-childrens-language-ability-across-wide-age-skill-range/?utm_source=Spectrum+Newsletters&utm_campaign=3a60a47207-EMAIL_CAMPAIGN_2020_11_03_06_37&utm_medium=email&utm_term=0_529db1161f-3a60a47207-168821301
+
 Items from Don:
 http://www.eiplp.org/documents/Surveyofwellbeing.pdf
 http://unesdoc.unesco.org/images/0022/002291/229188e.pdf 
