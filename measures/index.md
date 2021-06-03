@@ -67,6 +67,8 @@ function googleTranslateElementInit() {
 
 [Preschool Pediatric Symptom Checklist (PPSC)](http://disabilitymeasures.org/PPSC/)
 
+[Psychological Development Questionnaire-1 (PDQ-1)](http://disabilitymeasures.org/PDQ-1/)
+
 [Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat) 
 
 [Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)         
