@@ -45,6 +45,6 @@ Durkin MS, Hasan ZM, Hasan Z, The Ten Questions screen for childhood disability:
 
 **Licence:** No license. Can be freely used and modified.
 
-**Link to measure:** [Ten Questions](https://mjmaenner.github.com/disabilitymeasures/tenquestions/TQ_MICS3_Child_Disablity_Module_English_2013-04-14.pdf) (English; hosted by DisabilityMeasures.org; provided by author)
+**Link to measure:** [Ten Questions](https://mjmaenner.github.com/disabilitymeasures/tenquestions/TQ_MICS3_Child_Disablity_Module_English_2013-04-14.pdf?raw=true) (English; hosted by DisabilityMeasures.org; provided by author)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
