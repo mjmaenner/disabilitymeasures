@@ -29,6 +29,6 @@ Lastly, Golan, Baron-Cohen, and Hill (2006) provided evidence of convergent and 
 
 **Licence:** This measure is freely available online, and may be used along with proper citiation.
 
-**Link to measure:** [Cambridge Mindreading (CAM) Face-Voice Battery (Adult)](https://www.autismresearchcentre.com/arc_tests/) 
+**Link to measure:** [Cambridge Mindreading (CAM) Face-Voice Battery (Adult)](https://www.autismresearchcentre.com/arc/) 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
