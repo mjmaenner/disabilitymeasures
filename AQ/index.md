@@ -23,7 +23,7 @@ function googleTranslateElementInit() {
 
 **Authors and Citation:** Baron-Cohen, S., Wheelwright, S., Skinner, R., Martin, J., & Clubley, E. (2001). The autism-spectrum quotient (AQ): Evidence from asperger syndrome/high-functioning autism, malesand females, scientists and mathematicians. Journal of autism and developmental disorders, 31(1), 5-17.
 
-**Licence:** [via Autism Research Centre](https://www.autismresearchcentre.com/arc_tests) You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of ARC as the source is given.
+**Licence:** [via Autism Research Centre](https://www.autismresearchcentre.com/tests) You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of ARC as the source is given.
 
 **Link to measure:** [The Autism Spectrum Quotient](https://www.autismresearchcentre.com/tests)
 
