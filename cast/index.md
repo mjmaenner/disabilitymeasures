@@ -29,7 +29,7 @@ J. Williams, F. Scott, C.Stott, C. Allison, P. Bolton, S. Baron- Cohen and C. Br
 
 **Licence:** From the website: Our tests are posted on our website to enable free access to academic researchers. None of them are diagnostic: No single score on any of our tests or questionnaires indicates that an individual has an Autism Spectrum Condition (ASC). If you are concerned that you, or a friend or relative, may have ASC, please discuss these concerns with your GP or family doctor or ask the National Autistic Society (NAS) or equivalent charity in your country, for advice.
 
-**Link to measure:** [Childhood Asperger's Syndrome Test](http://www.autismresearchcentre.com/arc_tests)
+**Link to measure:** [Childhood Asperger's Syndrome Test](http://www.autismresearchcentre.com/tests)
 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
