@@ -35,7 +35,7 @@ Lawrence, E. J., Shaw, P., Baker, D., Baron-Cohen, S., & David, A. S. (2004). Me
 
 **Licence:** This measure is freely available online, and may be used along with proper citiation. You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of Autism Research Centre (ARC) as the source is given.
 
-**Link to measure:** [Empathy Quotient (EQ) for Adults](https://www.autismresearchcentre.com/arc_tests/)
+**Link to measure:** [Empathy Quotient (EQ) for Adults](https://www.autismresearchcentre.com/tests/)
 
 Also available: 
 [Empathy Quotient (EQ) for Adolescents](https://disabilitymeasures.org/EQ-Adol)    
