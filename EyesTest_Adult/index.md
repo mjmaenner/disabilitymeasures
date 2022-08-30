@@ -40,8 +40,8 @@ Baron‐Cohen, S., Jolliffe, T., Mortimore, C., & Robertson, M. (1997). Another 
 
 Baron‐Cohen, S., Wheelwright, S., Hill, J., Raste, Y., & Plumb, I. (2001). The “Reading the Mind in the Eyes” test revised version: A study with normal adults, and adults with Asperger syndrome or high‐functioning autism. Journal of child psychology and psychiatry, 42(2), 241-251.
 
-**Licence:** [via Autism Research Centre](https://www.autismresearchcentre.com/arc_tests) You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of ARC as the source is given.
+**Licence:** [via Autism Research Centre](https://www.autismresearchcentre.com/tests) You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of ARC as the source is given.
 
-**Link to measure:** [Eyes Test](https://www.autismresearchcentre.com/arc_tests/)
+**Link to measure:** [Eyes Test](https://www.autismresearchcentre.com/tests/)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
