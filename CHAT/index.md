@@ -35,6 +35,6 @@ Baron-Cohen, S., Wheelwright, S., Cox, A., Baird, G., Charman, T., Swettenham, J
 
 **Licence:** This measure is freely available online, and may be used along with proper citiation. You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of Autism Research Centre (ARC) as the source is given.
 
-**Link to measure:** [Checklist for Autism in Toddlers (CHAT)](https://www.autismresearchcentre.com/arc_tests/)
+**Link to measure:** [Checklist for Autism in Toddlers (CHAT)](https://www.autismresearchcentre.com/tests/)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
