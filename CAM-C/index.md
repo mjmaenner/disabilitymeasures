@@ -33,6 +33,6 @@ Furthermore, the ASC group had more difficulties recognizing complex emotions fr
 
 **Licence:** This measure is freely available online, and may be used along with proper citiation. 
 
-**Link to measure:** [Cambridge Mindreading Face-Voice Battery for Children (CAM-C)](https://www.autismresearchcentre.com/arc_tests/)
+**Link to measure:** [Cambridge Mindreading Face-Voice Battery for Children (CAM-C)](https://www.autismresearchcentre.com/tests/)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
