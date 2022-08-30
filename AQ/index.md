@@ -25,6 +25,6 @@ function googleTranslateElementInit() {
 
 **Licence:** [via Autism Research Centre](https://www.autismresearchcentre.com/arc_tests) You are welcome to download these tests provided that they are used for genuine research purposes, and provided due acknowledgement of ARC as the source is given.
 
-**Link to measure:** [The Autism Spectrum Quotient](https://www.autismresearchcentre.com/arc_tests)
+**Link to measure:** [The Autism Spectrum Quotient](https://www.autismresearchcentre.com/tests)
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
