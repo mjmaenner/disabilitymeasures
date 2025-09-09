@@ -13,7 +13,7 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 **Note: The [RBQ-3](http://disabilitymeasures.org/RBQ-3) questionnaire replaces the Repetitive Behaviours Questionnaire-2 (RBQ-2) and Repetitive Behaviours Questionnaire-2A (RBQ-2A). The RBQ-3 includes all items that were
-previously found in the RBQ-2 and RBQ-2A. **
+previously found in the RBQ-2 and RBQ-2A. **  
 
 **Type of Measure:**  The Adult Repetitive Behaviour Questionnaire-2 (RBQ-2A) is a 20-item self-report questionnaire that is based on items from the Diagnostic Interview for Social and Communication Disorders. The RBQ-2A measures restricted and repetitive behaviours such as routines and rituals, repetitive motor behaviours, sensory interests, and repetitive actions with objects. It is suitable for adults and only accessible to those with sufficient cognitive resources and verbal ability.    
 
