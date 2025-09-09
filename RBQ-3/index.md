@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Adult Repetitive Behaviour Questionnaire-3 (RBQ-3)
+title: Repetitive Behaviour Questionnaire-3 (RBQ-3)
 description:
 tags: measures
 ---
