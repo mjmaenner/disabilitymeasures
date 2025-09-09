@@ -13,6 +13,9 @@ function googleTranslateElementInit() {
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
 
+**Note: The [RBQ-3](http://disabilitymeasures.org/RBQ-3) questionnaire replaces the Repetitive Behaviours Questionnaire-2 (RBQ-2) and Repetitive Behaviours Questionnaire-2A (RBQ-2A). The RBQ-3 includes all items that were
+previously found in the RBQ-2 and RBQ-2A. **  
+
 **Type of Measure:**  The Repetitive Behaviour Questionnaire (RBQ-2) is a 20-item evaluation tool that was developed from two existing semi-structured interview measures, the [Repetitive Behaviors Interview](http://research.ncl.ac.uk/cargo-ne/RBQ.html) and the [Diagnostic Interview for Social and Communication Disorders](http://onlinelibrary.wiley.com/doi/10.1111/1469-7610.00023/full). The RBQ-2 broadly measures unusual sensory
 interests, repetitive motor movements, rigidity/adherence to routine, and preoccupations with restricted patterns of interest.  
 
@@ -30,6 +33,6 @@ Leekam, S., Tandos, J., McConachie, H., Meins, E., Parkinson, K., Wright, C., ..
 
 **Licence:** This measure is free to use. Specific terms and conditions of use have not yet been specified.
 
-**Link to measure:** [RBQ-2](http://research.ncl.ac.uk/cargo-ne/Repetitive%20Behaviour%20Questionnaire%20(RBQ-2)scoring%20final1.pdf) 
+**Link to measure:** [RBQ-2](https://www.cardiff.ac.uk/psychology/research/impact/measuring-repetitive-behaviours-across-the-lifespan) 
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
