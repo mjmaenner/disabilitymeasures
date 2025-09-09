@@ -71,7 +71,9 @@ function googleTranslateElementInit() {
 
 [Quantitative Checklist for Autism in Toddlers (Q-CHAT)](http://disabilitymeasures.org/qchat) 
 
-[Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)         
+[Repetitive Behavior Questionnaire (RBQ-2)](http://disabilitymeasures.org/RBQ-2)    
+
+[Repetitive Behavior Questionnaire-3 (RBQ-3)](http://disabilitymeasures.org/RBQ-3)  
 
 [Sense and Self-Regulation Checklist (SSC)](http://disabilitymeasures.org/ssc)         
 
@@ -96,7 +98,9 @@ function googleTranslateElementInit() {
 
 [Adult Scale of Hostility and Aggression: Reactive/Proactive (A-SHARP)](http://disabilitymeasures.org/a-sharp) 
 
-[Adult Repetitive Behavior Questionnaire-2 (RBQ-2A)](http://disabilitymeasures.org/RBQ-2A)   
+[Repetitive Behavior Questionnaire-2 (RBQ-2A)](http://disabilitymeasures.org/RBQ-2A)
+
+[Repetitive Behavior Questionnaire-3 (RBQ-3)](http://disabilitymeasures.org/RBQ-3)  
 
 [Assistance to Participate Scale (APS)](http://disabilitymeasures.org/aps)  
 
