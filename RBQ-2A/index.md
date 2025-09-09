@@ -12,6 +12,8 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+**Note: The [RBQ-3](http://disabilitymeasures.org/RBQ-3) questionnaire replaces the Repetitive Behaviours Questionnaire-2 (RBQ-2) and Repetitive Behaviours Questionnaire-2A (RBQ-2A). The RBQ-3 includes all items that were
+previously found in the RBQ-2 and RBQ-2A. **
 
 **Type of Measure:**  The Adult Repetitive Behaviour Questionnaire-2 (RBQ-2A) is a 20-item self-report questionnaire that is based on items from the Diagnostic Interview for Social and Communication Disorders. The RBQ-2A measures restricted and repetitive behaviours such as routines and rituals, repetitive motor behaviours, sensory interests, and repetitive actions with objects. It is suitable for adults and only accessible to those with sufficient cognitive resources and verbal ability.    
 
@@ -24,8 +26,8 @@ function googleTranslateElementInit() {
 **Authors and Citation:**  
 Barrett, S. L., Uljarević, M., Baker, E. K., Richdale, A. L., Jones, C. R., & Leekam, S. R. (2015). The Adult Repetitive Behaviours Questionnaire-2 (RBQ-2A): A self-report measure of restricted and repetitive behaviours. Journal of autism and developmental disorders, 45(11), 3680-3692.
 
-**Licence:** [via Cardiff University](https://sites.cardiff.ac.uk/rbq2a/download/) You must use the RBQ-2A as it is, without changing any of the items, the order of the items, or the response scales. The RBQ2-A should be comparable across studies and settings. You must agree not to change the wording of questions, add questions, or administer only subsets of questions. The RBQ-2A is free to use, but users must acknowledge the sponsors in any publication using the appropriate citation (i.e. Baker et al., 2015).    
+**Licence:** [via Cardiff University](https://www.cardiff.ac.uk/psychology/research/impact/measuring-repetitive-behaviours-across-the-lifespan) You must use the RBQ-2A as it is, without changing any of the items, the order of the items, or the response scales. The RBQ2-A should be comparable across studies and settings. You must agree not to change the wording of questions, add questions, or administer only subsets of questions. The RBQ-2A is free to use, but users must acknowledge the sponsors in any publication using the appropriate citation (i.e. Baker et al., 2015).    
 
-**Link to measure:** [RBQ-2A](https://sites.cardiff.ac.uk/rbq2a/download/)  
+**Link to measure:** [RBQ-2A](https://www.cardiff.ac.uk/psychology/research/impact/measuring-repetitive-behaviours-across-the-lifespan)  
 
 Corrections or updates? [Let us know!](http://disabilitymeasures.org/contact)
