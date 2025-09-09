@@ -12,6 +12,7 @@ function googleTranslateElementInit() {
   new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-64320648-1'}, 'google_translate_element');
 }
 </script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>  
+
 **Note: The [RBQ-3](http://disabilitymeasures.org/RBQ-3) questionnaire replaces the Repetitive Behaviours Questionnaire-2 (RBQ-2) and Repetitive Behaviours Questionnaire-2A (RBQ-2A). The RBQ-3 includes all items that were
 previously found in the RBQ-2 and RBQ-2A. **  
 
